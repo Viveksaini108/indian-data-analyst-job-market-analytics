@@ -1,0 +1,1201 @@
+job_id,job_title,company,city,exp_min_yrs,exp_max_yrs,salary_min_lpa,salary_max_lpa,skills,company_type,work_mode,posted_date
+JMA-0332,Business Analyst,LumenArc Analytics,Delhi NCR,0,0,4.5,6.0,Data Modeling;Communication;Statistics;Power Query;Excel;SQL,MNC,On-site,2026-10-19
+JMA-0863,MIS Executive,Crestline Technologies,Bengaluru,1,3,7.5,9.0,Excel;Power Query;Stakeholder Management,Startup,Hybrid,2026-10-19
+JMA-0337,Analytics Associate,InsightForge Solutions,Mumbai,5,7,14.0,19.0,Excel;SQL;Data Modeling;Statistics;Power BI;Tableau,Startup,On-site,2026-10-19
+JMA-0223,Senior Data Analyst,PrimeVector Technologies,Chennai,0,0,4.5,6.5,Excel;SQL;Data Modeling;Communication;Python;Power BI;Statistics,Mid-size,On-site,2026-10-19
+JMA-0503,Data Analyst,FluxWorks Labs,Chennai,1,3,7.0,9.5,Power Query;Power BI;Communication;SQL;Python;Excel,Startup,Remote,2026-10-19
+JMA-0277,Data Analyst,NovaGrid Systems,Pune,5,7,16.5,22.5,ETL;DAX;Data Modeling;Excel;SQL;Power Query;Python,Mid-size,Remote,2026-10-19
+JMA-0489,Data Analyst,NorthPeak Solutions,Pune,0,0,4.5,6.0,Statistics;Excel;R;Python;SQL;Stakeholder Management,MNC,Remote,2026-10-19
+JMA-0808,MIS Executive,InsightForge Consulting,Jaipur,0,1,3.5,4.5,Excel;ETL;Power Query;Stakeholder Management,Startup,On-site,2026-10-19
+JMA-0193,Data Analyst,PrimeVector Consulting,Bengaluru,1,3,7.5,10.0,Excel;Statistics;R;Tableau;SQL;Power Query;Python,Startup,On-site,2026-10-19
+JMA-0190,Data Analyst,SwiftKite Solutions,Delhi NCR,3,5,12.0,15.5,Communication;Excel;Power Query;SAS;Tableau;Python,Mid-size,Hybrid,2026-10-19
+JMA-0584,Data Analyst,NorthPeak Systems,Hyderabad,1,3,7.5,10.0,SAS;Power Query;Tableau;R;SQL;Python,Startup,On-site,2026-10-19
+JMA-0964,Data Analyst,LumenArc Analytics,Chennai,1,3,7.5,9.5,SQL;Tableau;Excel;DAX;Power BI;Data Modeling;Statistics,MNC,On-site,2026-10-19
+JMA-0433,Senior Data Analyst,LumenArc Systems,Delhi NCR,3,5,11.0,15.0,ETL;SQL;Power BI;Stakeholder Management;Data Modeling;Communication;Machine Learning,Mid-size,Remote,2026-10-19
+JMA-0845,Data Analyst,IronPeak Analytics,Bengaluru,1,3,7.0,9.5,DAX;Excel;Power Query;SQL;Power BI,Mid-size,On-site,2026-10-19
+JMA-0660,Data Analyst,ApexLoop Analytics,Bengaluru,0,0,4.5,5.5,Python;Power BI;SQL;Excel;Tableau,MNC,Hybrid,2026-10-19
+JMA-0407,Data Analyst,DataVista Systems,Mumbai,1,3,6.0,8.5,R;Statistics;Communication;SQL;Excel,Startup,Hybrid,2026-10-19
+JMA-1073,Senior Data Analyst,BrightStack Labs,Hyderabad,3,5,11.0,15.0,Python;Stakeholder Management;Communication;SQL;Tableau;Machine Learning;DAX,Startup,On-site,2026-10-19
+JMA-0911,Data Analyst,LumenArc Insights,Jaipur,0,1,3.5,4.5,DAX;Power BI;SQL;Excel;Statistics,MNC,Hybrid,2026-10-19
+JMA-1031,MIS Executive,DataVista Consulting,Mumbai,1,3,6.5,8.5,Excel;Power Query;SQL,MNC,Remote,2026-10-18
+JMA-0812,Analytics Associate,TrueSignal Consulting,Hyderabad,1,3,7.0,10.0,Excel;Power BI;Statistics;Python;SQL;Tableau;Power Query,Mid-size,On-site,2026-10-18
+JMA-0491,MIS Executive,LumenArc Systems,Mumbai,3,5,10.5,14.0,Power BI;Excel;Communication;Data Modeling;SAS;SQL,Mid-size,Hybrid,2026-10-18
+JMA-0311,Data Analyst,CloudSlate Technologies,Bengaluru,1,3,6.5,8.5,Power BI;ETL;SQL;Excel;Power Query;Stakeholder Management,Mid-size,On-site,2026-10-18
+JMA-0303,Analytics Associate,SwiftKite Solutions,Pune,0,1,4.0,5.0,R;Statistics;SQL;Power BI;Excel;Communication,MNC,On-site,2026-10-18
+JMA-1092,Data Analyst,DataVista Dataworks,Mumbai,1,3,6.5,8.5,SQL;ETL;Excel;Communication;Tableau;Statistics,MNC,On-site,2026-10-18
+JMA-0216,Data Analyst,HarborLine Dataworks,Hyderabad,1,3,6.0,8.5,SQL;Excel;Statistics;Power BI;Tableau;Python,Startup,On-site,2026-10-18
+JMA-0768,Data Analyst,LumenArc Labs,Delhi NCR,1,3,7.5,9.0,Python;Communication;ETL;SQL;DAX;Statistics,Mid-size,On-site,2026-10-18
+JMA-1123,Data Analyst,FluxWorks Labs,Mumbai,1,3,8.0,10.5,Statistics;Tableau;Excel;Power Query;Power BI;SQL,MNC,On-site,2026-10-18
+JMA-0825,MIS Executive,InsightForge Solutions,Mumbai,1,3,7.0,9.5,Excel;R;SAS;ETL;Power Query;SQL,Startup,On-site,2026-10-18
+JMA-0504,Senior Data Analyst,SwiftKite Solutions,Jaipur,0,0,4.5,6.0,Excel;Statistics;Power BI;Communication;SQL;Python;Machine Learning,MNC,On-site,2026-10-18
+JMA-1165,Data Analyst,BlueOrbit Insights,Mumbai,1,3,8.0,10.0,Statistics;Python;SQL;Data Modeling;DAX;Communication;Excel,Startup,Hybrid,2026-10-18
+JMA-0369,Business Analyst,ApexLoop Systems,Jaipur,3,5,9.5,13.5,SQL;ETL;Python;Communication;Data Modeling;Power Query;Excel,Mid-size,On-site,2026-10-18
+JMA-0419,Data Analyst,DataVista Dataworks,Delhi NCR,0,0,5.0,6.5,Machine Learning;SQL;DAX;Power BI;Python;Stakeholder Management;Excel,Startup,Hybrid,2026-10-17
+JMA-0821,Analytics Associate,NorthPeak Technologies,Hyderabad,1,3,7.0,9.5,Stakeholder Management;Excel;DAX;Power BI;Statistics;Python;SQL,Mid-size,On-site,2026-10-17
+JMA-0070,MIS Executive,LumenArc Labs,Pune,1,3,6.5,9.5,Excel;Communication;SQL,MNC,Hybrid,2026-10-17
+JMA-0965,Data Analyst,MoonRidge Dataworks,Bengaluru,1,3,8.0,10.0,SQL;Statistics;Excel,MNC,Hybrid,2026-10-17
+JMA-0447,Business Analyst,PixelLedger Systems,Lucknow,3,5,10.5,13.5,SQL;Communication;Excel;Power Query;Stakeholder Management,MNC,On-site,2026-10-17
+JMA-0257,Senior Data Analyst,BlueOrbit Technologies,Delhi NCR,0,1,5.0,6.5,Communication;Excel;Data Modeling;SQL;Stakeholder Management;Python,Mid-size,On-site,2026-10-17
+JMA-0967,Data Analyst,ClearPath Insights,Chennai,1,3,6.5,9.0,Statistics;Stakeholder Management;SQL;Excel;Tableau;Power Query,Mid-size,Hybrid,2026-10-17
+JMA-0780,MIS Executive,BrightStack Analytics,Mumbai,1,3,7.5,10.0,Excel;Power Query;Communication,Mid-size,On-site,2026-10-17
+JMA-1054,Data Analyst,LumenArc Technologies,Mumbai,3,5,11.5,16.0,Communication;Excel;DAX;SQL;Power BI;Python;Power Query,Startup,Remote,2026-10-17
+JMA-0617,Data Analyst,LumenArc Systems,Pune,1,3,6.5,8.0,Power BI;Power Query;Excel;SQL;Tableau;Communication,Startup,Hybrid,2026-10-17
+JMA-0760,Data Analyst,PixelLedger Systems,Bengaluru,5,9,14.5,20.0,Power Query;SQL;Statistics;Communication;Tableau;Excel;Power BI,Mid-size,On-site,2026-10-17
+JMA-0764,Senior Data Analyst,EdgeStone Technologies,Pune,1,3,7.0,9.5,Statistics;SQL;Power BI;Stakeholder Management;Communication;Excel;Python,MNC,Hybrid,2026-10-17
+JMA-0037,Business Analyst,ApexLoop Technologies,Bengaluru,0,1,4.0,5.5,Stakeholder Management;Excel;Power BI;SQL;Communication;Data Modeling;Statistics,MNC,Remote,2026-10-16
+JMA-0906,MIS Executive,MetricMinds Dataworks,Kolkata,3,5,10.0,13.5,Communication;SQL;Excel;Stakeholder Management;Power Query,Startup,Remote,2026-10-16
+JMA-0935,Business Analyst,FluxWorks Analytics,Ahmedabad,3,5,9.0,12.5,Statistics;Python;Stakeholder Management;SQL;Excel;Power BI,Mid-size,On-site,2026-10-16
+JMA-0398,Data Analyst,ZenithWorks Labs,Mumbai,3,5,9.0,12.5,ETL;Power Query;SQL;Excel;SAS,Startup,On-site,2026-10-16
+JMA-0263,MIS Executive,DataVista Dataworks,Delhi NCR,0,1,4.5,6.0,SQL;Excel;DAX,MNC,On-site,2026-10-16
+JMA-0465,Data Analyst,LumenArc Solutions,Delhi NCR,0,0,5.0,6.0,SAS;Power BI;Excel;DAX;Machine Learning;Python;SQL,Mid-size,Remote,2026-10-16
+JMA-0343,Business Analyst,BlueOrbit Insights,Delhi NCR,1,3,8.0,10.5,Excel;Data Modeling;DAX;Stakeholder Management;Machine Learning;Power BI;SQL,Startup,Remote,2026-10-16
+JMA-0031,Analytics Associate,Crestline Analytics,Delhi NCR,5,10,17.0,22.0,Stakeholder Management;Machine Learning;SQL,MNC,Remote,2026-10-16
+JMA-0271,MIS Executive,InsightForge Solutions,Jaipur,1,3,7.0,9.5,DAX;Python;Communication;Power Query;Excel;SQL,Mid-size,Hybrid,2026-10-16
+JMA-0505,Data Analyst,BlueOrbit Consulting,Kolkata,0,0,3.5,5.0,Data Modeling;Excel;SQL;Statistics;R;DAX;Tableau,Mid-size,On-site,2026-10-16
+JMA-0652,Business Analyst,PineCrest Labs,Hyderabad,1,3,6.5,8.5,Power Query;SQL;Communication,MNC,On-site,2026-10-15
+JMA-0798,Business Analyst,QuantNest Insights,Bengaluru,1,3,7.5,10.5,SQL;Communication;Excel;Power Query,MNC,Hybrid,2026-10-15
+JMA-0695,Senior Data Analyst,FluxWorks Labs,Jaipur,3,5,11.5,15.0,Communication;ETL;SQL;Data Modeling;Machine Learning;Excel;Statistics,Mid-size,On-site,2026-10-15
+JMA-0069,Data Analyst,CloudSlate Systems,Chennai,3,5,10.5,14.5,Power BI;Excel;Python;DAX;Communication;SQL;Power Query,Mid-size,On-site,2026-10-15
+JMA-0236,Analytics Associate,NorthPeak Solutions,Delhi NCR,1,3,6.5,9.0,Python;SQL;Statistics;Excel;Communication,MNC,Hybrid,2026-10-15
+JMA-1021,MIS Executive,PrimeVector Analytics,Kolkata,3,5,11.0,15.0,Communication;SQL;Power BI;Power Query;Excel,MNC,Remote,2026-10-15
+JMA-0423,Business Analyst,PineCrest Labs,Lucknow,1,3,6.0,7.5,Excel;Tableau;Data Modeling;Stakeholder Management;Python;SQL;Communication,Startup,Remote,2026-10-15
+JMA-0589,Data Analyst,BrightStack Dataworks,Pune,0,0,4.5,5.5,Stakeholder Management;ETL;SQL,Startup,Remote,2026-10-15
+JMA-0878,Data Analyst,LumenArc Insights,Delhi NCR,1,3,8.0,11.0,Machine Learning;Power Query;Statistics;DAX;SQL,Mid-size,Hybrid,2026-10-15
+JMA-0955,MIS Executive,MetricMinds Dataworks,Hyderabad,0,0,4.0,5.0,Power BI;Excel;SQL;DAX;Communication,Mid-size,On-site,2026-10-15
+JMA-0359,MIS Executive,FluxWorks Analytics,Jaipur,3,5,9.5,13.5,Power Query;SQL;Excel,Startup,Hybrid,2026-10-15
+JMA-0759,Analytics Associate,NorthPeak Consulting,Jaipur,3,5,10.5,14.5,Excel;Stakeholder Management;Communication;Python;SQL,MNC,Remote,2026-10-15
+JMA-0279,Data Analyst,NorthPeak Systems,Mumbai,1,3,7.0,8.5,Excel;Statistics;Tableau;DAX;Power Query;SQL;Data Modeling,Mid-size,On-site,2026-10-15
+JMA-0140,Data Analyst,KeyStone Labs,Delhi NCR,1,3,7.5,10.5,Communication;Excel;Tableau;Data Modeling;SQL,MNC,Hybrid,2026-10-15
+JMA-0537,Analytics Associate,ApexLoop Analytics,Hyderabad,0,0,4.0,5.0,SQL;Power Query;Power BI;Python;Stakeholder Management,MNC,On-site,2026-10-15
+JMA-0927,Business Analyst,SwiftKite Labs,Delhi NCR,3,5,11.5,16.0,Excel;Power BI;Communication;Stakeholder Management;SQL;Python;ETL,Startup,Remote,2026-10-14
+JMA-0650,Data Analyst,LumenArc Systems,Jaipur,0,1,4.0,5.5,ETL;DAX;Data Modeling;Python;Excel;SQL;Power Query,Mid-size,Remote,2026-10-14
+JMA-0542,Data Analyst,LumenArc Technologies,Delhi NCR,1,3,6.5,9.0,Excel;Power Query;SQL;Power BI;ETL,Mid-size,Remote,2026-10-14
+JMA-0231,Data Analyst,OpalGrid Dataworks,Chennai,3,5,9.0,12.0,Power BI;Excel;Power Query;Statistics;SQL;Tableau;Communication,Startup,Hybrid,2026-10-14
+JMA-0283,Senior Data Analyst,TrueSignal Consulting,Ahmedabad,0,1,4.0,5.0,SQL;Power BI;ETL;R;Communication;Excel;Python,Mid-size,Remote,2026-10-14
+JMA-0025,Data Analyst,DeepCurrent Technologies,Pune,5,7,16.5,21.0,Power BI;Stakeholder Management;SQL;Data Modeling;Power Query;Excel;Communication,Mid-size,Remote,2026-10-14
+JMA-0718,Data Analyst,ApexLoop Analytics,Jaipur,1,3,6.0,7.0,Power BI;Communication;Stakeholder Management;Power Query;Excel;SQL,Mid-size,On-site,2026-10-14
+JMA-1098,Senior Data Analyst,PixelLedger Analytics,Mumbai,3,5,10.5,13.5,Stakeholder Management;Communication;Data Modeling;Tableau;Machine Learning;SQL,Startup,Hybrid,2026-10-14
+JMA-0500,Analytics Associate,LumenArc Technologies,Mumbai,3,5,12.5,16.5,Excel;Power Query;Statistics;Python;SQL,Mid-size,Hybrid,2026-10-14
+JMA-0826,Business Analyst,ApexLoop Solutions,Lucknow,0,0,3.5,4.5,Excel;Python;Stakeholder Management;SQL;Communication,Startup,Hybrid,2026-10-14
+JMA-1185,MIS Executive,OpalGrid Consulting,Delhi NCR,6,10,15.5,21.0,SQL;Excel;Power Query,MNC,Remote,2026-10-14
+JMA-1096,Business Analyst,BrightStack Systems,Chennai,1,3,6.0,8.5,Power Query;Python;Excel;Communication;SQL;DAX,Startup,Hybrid,2026-10-13
+JMA-1087,MIS Executive,InsightForge Consulting,Kolkata,3,5,9.0,12.5,SQL;Excel;Power Query;Communication;Stakeholder Management;Power BI,Mid-size,On-site,2026-10-13
+JMA-0321,Business Analyst,Crestline Labs,Mumbai,1,3,6.0,8.0,SQL;Stakeholder Management;Power BI;Communication;Excel,Startup,On-site,2026-10-13
+JMA-0175,Data Analyst,PrimeVector Consulting,Ahmedabad,1,3,6.0,8.0,R;Excel;SQL,Mid-size,Hybrid,2026-10-13
+JMA-0187,MIS Executive,ApexLoop Technologies,Bengaluru,1,3,6.5,8.5,Communication;SQL;Data Modeling;Power BI;Power Query;Excel,Mid-size,On-site,2026-10-13
+JMA-0131,MIS Executive,BrightStack Systems,Delhi NCR,1,3,7.0,10.0,SQL;Statistics;Excel;Data Modeling,Mid-size,Hybrid,2026-10-13
+JMA-0520,Analytics Associate,KeyStone Consulting,Pune,0,0,4.0,5.0,Statistics;ETL;Communication;Power Query;Power BI;SQL,MNC,On-site,2026-10-13
+JMA-0762,Senior Data Analyst,ClearPath Systems,Delhi NCR,6,9,18.0,23.0,Tableau;Machine Learning;DAX;ETL;Statistics;Excel;Python,MNC,Hybrid,2026-10-13
+JMA-0648,Business Analyst,OpalGrid Dataworks,Bengaluru,1,3,8.0,10.5,Power BI;Communication;Stakeholder Management;Excel;Data Modeling;Tableau,MNC,Remote,2026-10-13
+JMA-0631,Data Analyst,DataVista Technologies,Hyderabad,1,3,6.5,9.0,SQL;Tableau;Excel;Data Modeling,Mid-size,On-site,2026-10-13
+JMA-0796,Data Analyst,PrimeVector Consulting,Chennai,3,5,11.5,16.0,Power Query;Excel;Python;SQL;R,MNC,On-site,2026-10-13
+JMA-0386,Business Analyst,MetricMinds Technologies,Ahmedabad,1,3,6.0,8.0,Statistics;SQL;Communication;Power BI;Excel,MNC,On-site,2026-10-13
+JMA-0585,Data Analyst,GoldRidge Technologies,Bengaluru,0,1,3.5,5.0,Communication;Power BI;Excel;Tableau;Power Query;SQL;Statistics,Mid-size,On-site,2026-10-13
+JMA-0803,Business Analyst,BlueOrbit Technologies,Chennai,3,5,9.0,12.0,Excel;SQL;Communication;Statistics;Stakeholder Management,Startup,On-site,2026-10-13
+JMA-0582,MIS Executive,HarborLine Dataworks,Mumbai,0,0,4.5,6.0,Python;SQL;Excel;Power Query,MNC,Remote,2026-10-13
+JMA-0514,Data Analyst,FluxWorks Analytics,Bengaluru,0,1,4.5,6.0,Communication;Tableau;SQL;Power BI;Python;Excel,Startup,Remote,2026-10-12
+JMA-0783,Data Analyst,DeepCurrent Systems,Kolkata,3,5,10.5,13.5,Power Query;SQL;Excel;Communication;Tableau;ETL,Startup,On-site,2026-10-12
+JMA-0324,Data Analyst,MoonRidge Insights,Kolkata,5,8,15.5,21.0,Python;DAX;Excel;SQL;Statistics;Power Query;Power BI,Mid-size,Remote,2026-10-12
+JMA-0971,MIS Executive,Crestline Analytics,Kolkata,3,5,9.5,12.0,Stakeholder Management;Excel;DAX;Power Query;Communication,MNC,Remote,2026-10-12
+JMA-1163,Data Analyst,NovaGrid Systems,Mumbai,1,3,7.5,10.5,Excel;SQL;Communication;Python;Statistics;Tableau;Power BI,Mid-size,On-site,2026-10-12
+JMA-0120,Data Analyst,HarborLine Insights,Chennai,1,3,8.0,10.0,ETL;Power Query;SQL;Python;Excel;Communication,MNC,On-site,2026-10-12
+JMA-0472,Analytics Associate,Crestline Labs,Delhi NCR,5,9,16.5,23.0,Python;Communication;SQL;Power BI;Excel;Statistics;Stakeholder Management,Mid-size,Hybrid,2026-10-12
+JMA-1014,Senior Data Analyst,IronPeak Consulting,Pune,0,0,4.0,6.0,ETL;Statistics;R;Excel;Communication;Python;SQL,Startup,On-site,2026-10-12
+JMA-0879,Senior Data Analyst,BlueOrbit Technologies,Bengaluru,1,3,8.5,11.0,Data Modeling;Machine Learning;Communication;Power Query;Statistics;Power BI;SQL,Mid-size,On-site,2026-10-12
+JMA-0298,Senior Data Analyst,ApexLoop Solutions,Pune,1,3,8.0,10.5,Communication;ETL;Tableau;Data Modeling;Python;Statistics;SQL,Startup,On-site,2026-10-12
+JMA-1124,Business Analyst,ApexLoop Systems,Ahmedabad,3,5,8.0,11.0,Communication;ETL;Excel;Stakeholder Management;Power BI;SQL;Statistics,Startup,On-site,2026-10-12
+JMA-0656,MIS Executive,SwiftKite Labs,Bengaluru,3,5,9.5,13.0,SQL;Excel;Communication,Mid-size,Hybrid,2026-10-12
+JMA-0892,MIS Executive,GoldRidge Technologies,Mumbai,1,3,7.0,9.0,SQL;Stakeholder Management;DAX;Excel;Power Query,Mid-size,On-site,2026-10-12
+JMA-0740,Analytics Associate,LumenArc Analytics,Mumbai,3,5,12.0,16.0,Power BI;Communication;SQL;Data Modeling;Power Query;Python;Excel,Startup,On-site,2026-10-11
+JMA-0707,MIS Executive,BrightStack Systems,Chennai,3,5,10.0,12.5,Data Modeling;Communication;DAX;Excel;Power Query;Tableau;SQL,Startup,Hybrid,2026-10-11
+JMA-0545,MIS Executive,FluxWorks Solutions,Pune,5,7,18.5,23.5,Excel;Communication;Power Query;SQL,MNC,Remote,2026-10-11
+JMA-0117,Data Analyst,PrimeVector Consulting,Pune,1,3,7.0,9.0,Power BI;DAX;SQL;Tableau;Communication,Mid-size,Hybrid,2026-10-11
+JMA-0511,Analytics Associate,NorthPeak Technologies,Pune,6,7,16.5,21.5,Tableau;Stakeholder Management;Excel;SQL;Statistics;Python;Power Query,Startup,On-site,2026-10-11
+JMA-0415,Data Analyst,EdgeStone Consulting,Hyderabad,3,5,10.5,14.0,Excel;SQL;Tableau,Startup,On-site,2026-10-11
+JMA-0513,Business Analyst,OpalGrid Dataworks,Kolkata,1,3,7.0,9.0,Communication;Stakeholder Management;Excel;Power BI;SQL;DAX,Startup,On-site,2026-10-11
+JMA-0242,Data Analyst,HarborLine Solutions,Delhi NCR,3,5,11.0,14.5,Power BI;Excel;Python;Statistics;Data Modeling;SQL,Startup,On-site,2026-10-11
+JMA-0509,Data Analyst,BrightStack Labs,Chennai,5,10,14.5,19.5,Power Query;SQL;Power BI;Communication;Excel,MNC,Hybrid,2026-10-11
+JMA-0043,Business Analyst,NimbusWorks Technologies,Mumbai,3,5,11.0,14.5,Power BI;Python;Stakeholder Management;SQL;Data Modeling;Communication;Excel,Mid-size,On-site,2026-10-11
+JMA-0476,Senior Data Analyst,ApexLoop Technologies,Hyderabad,1,3,7.0,9.5,Excel;Communication;Power BI;Statistics;ETL;SQL;Python,Startup,Remote,2026-10-11
+JMA-0379,Data Analyst,KeyStone Consulting,Kolkata,0,1,4.0,5.5,SQL;Excel;Data Modeling,Startup,Hybrid,2026-10-11
+JMA-1107,Analytics Associate,OpalGrid Consulting,Delhi NCR,3,5,9.0,12.5,Communication;SQL;Excel;Power BI,Startup,Hybrid,2026-10-11
+JMA-0210,Data Analyst,PrimeVector Labs,Mumbai,6,8,17.0,23.0,R;SQL;Excel;Python;ETL;Power Query;Power BI,Mid-size,Hybrid,2026-10-10
+JMA-0691,Data Analyst,PixelLedger Analytics,Chennai,0,0,4.0,5.0,SQL;Power Query;Power BI;Python;Excel,Mid-size,On-site,2026-10-10
+JMA-0322,Analytics Associate,HarborLine Dataworks,Chennai,3,5,10.0,12.5,Python;Communication;Statistics;SQL,Startup,Hybrid,2026-10-10
+JMA-0364,Data Analyst,LumenArc Solutions,Kolkata,1,3,6.5,8.5,DAX;Python;Power BI;Communication;Excel,MNC,Remote,2026-10-10
+JMA-0171,Data Analyst,KeyStone Dataworks,Delhi NCR,0,0,4.5,6.0,Excel;Communication;Machine Learning;ETL;SQL;Power BI;Python,Mid-size,Hybrid,2026-10-10
+JMA-0444,Senior Data Analyst,DataVista Technologies,Delhi NCR,1,3,7.5,9.5,Statistics;ETL;Python;SQL;Stakeholder Management;Tableau;Excel,Startup,On-site,2026-10-10
+JMA-0382,Data Analyst,CloudSlate Technologies,Bengaluru,0,1,4.5,6.0,Communication;Excel;Data Modeling;SQL;Python;Power Query;Statistics,MNC,Remote,2026-10-10
+JMA-0214,Data Analyst,IronPeak Consulting,Delhi NCR,3,5,10.0,14.0,Communication;Data Modeling;Power BI;Statistics;SQL;Excel,Startup,On-site,2026-10-10
+JMA-0278,Analytics Associate,Crestline Labs,Delhi NCR,3,5,13.0,17.0,Communication;R;Power BI;Excel;Python,MNC,On-site,2026-10-10
+JMA-0777,Business Analyst,ClearPath Systems,Mumbai,1,3,7.5,10.0,Excel;R;Statistics;Stakeholder Management,Mid-size,Remote,2026-10-10
+JMA-0334,Data Analyst,NovaGrid Systems,Mumbai,5,10,16.5,21.0,Data Modeling;Python;SQL;ETL;DAX;Stakeholder Management;Excel,Mid-size,Hybrid,2026-10-10
+JMA-0001,Senior Data Analyst,DataVista Dataworks,Hyderabad,3,5,10.5,15.0,Power Query;SQL;Machine Learning;Excel;Communication;Power BI;Python,Startup,On-site,2026-10-10
+JMA-1049,MIS Executive,DataVista Technologies,Delhi NCR,3,5,10.5,14.5,Power Query;Power BI;Communication;DAX;Excel,Mid-size,Hybrid,2026-10-09
+JMA-0730,Senior Data Analyst,FluxWorks Consulting,Pune,1,3,7.5,10.0,SQL;Machine Learning;Data Modeling;ETL;Excel;Python,MNC,On-site,2026-10-09
+JMA-0077,Business Analyst,ZenithWorks Labs,Hyderabad,3,5,10.0,13.5,SQL;SAS;Excel;Stakeholder Management;Machine Learning;Communication,Mid-size,On-site,2026-10-09
+JMA-1070,Senior Data Analyst,IronPeak Analytics,Mumbai,1,3,6.5,9.0,Python;R;Excel;Statistics;SQL,Startup,On-site,2026-10-09
+JMA-0807,Data Analyst,Crestline Technologies,Kolkata,0,0,4.0,5.0,Tableau;SQL;Excel,Startup,On-site,2026-10-09
+JMA-0294,Data Analyst,EdgeStone Labs,Delhi NCR,5,9,16.0,20.0,Excel;SQL;Python;Tableau;Power BI;R,MNC,On-site,2026-10-09
+JMA-1149,Data Analyst,JetStream Solutions,Chennai,1,3,6.0,8.0,SQL;Communication;Excel;DAX;SAS;Power Query,Startup,Remote,2026-10-09
+JMA-0598,Data Analyst,HarborLine Insights,Pune,3,5,9.5,13.0,Excel;SQL;Power BI;Tableau;Python,Mid-size,On-site,2026-10-09
+JMA-0752,MIS Executive,HarborLine Systems,Mumbai,1,3,6.5,8.5,Stakeholder Management;Communication;Excel,MNC,Remote,2026-10-09
+JMA-1099,Senior Data Analyst,HarborLine Insights,Delhi NCR,3,5,11.5,15.5,Statistics;Power BI;Python;Excel;SQL,MNC,On-site,2026-10-08
+JMA-0975,Data Analyst,CloudSlate Technologies,Chennai,1,3,6.0,8.0,Excel;Statistics;Stakeholder Management;Power BI;SQL,Startup,Hybrid,2026-10-08
+JMA-0723,Data Analyst,PineCrest Insights,Chennai,1,3,8.0,10.5,Statistics;Excel;Machine Learning;Tableau;Python;Power Query;SQL,Mid-size,Hybrid,2026-10-08
+JMA-0463,Data Analyst,NimbusWorks Technologies,Ahmedabad,0,1,4.5,5.5,Statistics;Python;SQL;DAX;Power BI;Data Modeling;Excel,MNC,Hybrid,2026-10-08
+JMA-0699,MIS Executive,ApexLoop Labs,Mumbai,1,3,7.5,9.5,Power Query;Stakeholder Management;Excel;Communication;DAX,MNC,On-site,2026-10-08
+JMA-1136,MIS Executive,BlueOrbit Technologies,Hyderabad,1,3,6.5,8.5,Python;Excel;Communication;Power BI,Mid-size,Hybrid,2026-10-08
+JMA-0195,Data Analyst,BrightStack Systems,Hyderabad,1,3,7.5,10.0,Excel;Power BI;Python;SQL;Tableau;Statistics,Mid-size,On-site,2026-10-08
+JMA-0009,Data Analyst,BrightStack Systems,Chennai,3,5,10.0,13.5,Power BI;Excel;Statistics;SQL;Python;ETL,Mid-size,On-site,2026-10-08
+JMA-0622,Data Analyst,BlueOrbit Analytics,Kolkata,0,0,4.0,5.5,SAS;Power BI;Excel;SQL;Power Query;Statistics,Mid-size,On-site,2026-10-08
+JMA-0247,MIS Executive,FluxWorks Consulting,Pune,1,3,6.5,8.5,Communication;Statistics;Power Query;SQL;Excel;DAX,Mid-size,On-site,2026-10-08
+JMA-0292,Data Analyst,CloudSlate Systems,Mumbai,3,5,11.0,14.5,Power BI;SQL;Data Modeling;Power Query;ETL,Mid-size,Hybrid,2026-10-08
+JMA-0094,Data Analyst,HarborLine Dataworks,Ahmedabad,1,3,6.5,9.0,Statistics;DAX;ETL;SQL;Data Modeling;Excel,Startup,On-site,2026-10-08
+JMA-0867,Business Analyst,QuantNest Solutions,Mumbai,1,3,7.5,10.0,Data Modeling;SQL;Statistics;Power BI;Communication;Excel;Stakeholder Management,MNC,Hybrid,2026-10-07
+JMA-1184,Business Analyst,OpalGrid Consulting,Delhi NCR,0,0,4.0,5.5,SQL;Communication;Stakeholder Management;Statistics;Excel;Power Query;Power BI,MNC,Hybrid,2026-10-07
+JMA-0313,Senior Data Analyst,InsightForge Consulting,Jaipur,3,5,10.0,13.5,SQL;Data Modeling;ETL;Python;Stakeholder Management;Tableau;Communication,Startup,Hybrid,2026-10-07
+JMA-0354,MIS Executive,MoonRidge Technologies,Pune,1,3,6.5,8.5,SQL;Excel;Power Query,Mid-size,On-site,2026-10-07
+JMA-0644,Analytics Associate,PixelLedger Systems,Jaipur,3,5,9.5,12.0,Data Modeling;Communication;ETL;Power BI;SQL;Excel;Python,Mid-size,On-site,2026-10-07
+JMA-0661,Data Analyst,OpalGrid Dataworks,Kolkata,1,3,6.0,7.5,SQL;Power BI;Statistics;Communication;Tableau;Excel;Power Query,Startup,On-site,2026-10-07
+JMA-0127,Data Analyst,BrightStack Systems,Chennai,1,3,7.5,9.5,DAX;SQL;Communication;Power Query;Power BI;Tableau;Python,Startup,On-site,2026-10-07
+JMA-0143,Business Analyst,CloudSlate Systems,Bengaluru,1,3,7.5,9.5,Excel;Communication;Python;Stakeholder Management;SAS,Startup,On-site,2026-10-07
+JMA-1171,Senior Data Analyst,HarborLine Systems,Mumbai,6,9,18.0,23.0,ETL;Statistics;SQL;Excel;Python;Data Modeling,Startup,Hybrid,2026-10-07
+JMA-0630,MIS Executive,FluxWorks Analytics,Chennai,3,5,9.0,12.0,Stakeholder Management;SQL;Power Query;Excel;Data Modeling,Startup,Hybrid,2026-10-07
+JMA-0945,Data Analyst,NimbusWorks Insights,Bengaluru,0,0,4.5,6.0,Statistics;Python;Communication;Power BI;Power Query;Excel;SQL,Startup,On-site,2026-10-07
+JMA-0522,MIS Executive,GoldRidge Dataworks,Mumbai,3,5,10.0,13.5,SQL;Power Query;Excel;Stakeholder Management;Communication;DAX;Power BI,Mid-size,Remote,2026-10-07
+JMA-0320,Data Analyst,TrueSignal Labs,Jaipur,0,1,3.5,4.5,DAX;Power Query;Tableau;Power BI;Data Modeling;Excel;SQL,Startup,On-site,2026-10-07
+JMA-0757,Data Analyst,Crestline Analytics,Hyderabad,3,5,12.0,15.0,Communication;SQL;Excel;DAX,Mid-size,On-site,2026-10-06
+JMA-0388,Senior Data Analyst,EdgeStone Labs,Bengaluru,1,3,8.5,10.5,Python;SQL;Excel;Machine Learning;Power BI;Statistics;Stakeholder Management,Startup,On-site,2026-10-06
+JMA-0326,Data Analyst,PixelLedger Analytics,Bengaluru,1,3,7.0,9.0,Python;Excel;SQL;Power Query;Statistics,MNC,On-site,2026-10-06
+JMA-1002,MIS Executive,DataVista Dataworks,Pune,1,3,7.5,9.5,Excel;Communication;Stakeholder Management;SQL;Power Query,Startup,On-site,2026-10-06
+JMA-0999,Data Analyst,LumenArc Technologies,Bengaluru,0,0,5.0,6.0,SQL;Communication;Excel;Power Query;Statistics;Python;Power BI,Startup,On-site,2026-10-06
+JMA-0914,MIS Executive,NorthPeak Systems,Mumbai,0,0,3.5,5.0,SQL;Excel;Power BI,Startup,Hybrid,2026-10-06
+JMA-0099,Data Analyst,IronPeak Consulting,Pune,0,1,4.5,6.0,ETL;Communication;SQL;Statistics;Excel;R,MNC,On-site,2026-10-06
+JMA-0380,Data Analyst,BlueOrbit Technologies,Chennai,0,0,4.5,6.0,R;Python;Communication;SQL;Excel;Statistics,Mid-size,Hybrid,2026-10-06
+JMA-1043,MIS Executive,MoonRidge Dataworks,Lucknow,3,5,9.0,12.0,Excel;SQL;Power Query,Startup,Hybrid,2026-10-06
+JMA-0133,Data Analyst,IronPeak Insights,Pune,6,8,16.5,22.5,Statistics;SQL;Power BI;R;Excel;ETL,Mid-size,On-site,2026-10-06
+JMA-0937,Data Analyst,NovaGrid Consulting,Delhi NCR,3,5,11.0,15.5,Power Query;SQL;Communication;Data Modeling;Tableau;Power BI;DAX,MNC,On-site,2026-10-06
+JMA-0014,Senior Data Analyst,BrightStack Consulting,Bengaluru,6,9,17.0,22.5,Tableau;Stakeholder Management;Communication;Python;Machine Learning;Excel;Statistics,MNC,On-site,2026-10-06
+JMA-0742,Data Analyst,CloudSlate Technologies,Mumbai,0,0,4.5,6.0,Power BI;SQL;Tableau;Data Modeling;Excel;Communication,MNC,On-site,2026-10-06
+JMA-0633,Data Analyst,ApexLoop Insights,Bengaluru,3,5,10.0,13.0,Communication;Tableau;Python;SQL;Statistics;Excel,Mid-size,Hybrid,2026-10-06
+JMA-0553,Data Analyst,PrimeVector Insights,Bengaluru,3,5,13.5,17.0,Communication;Excel;Power Query;Python;Statistics;Tableau;SQL,MNC,On-site,2026-10-05
+JMA-0724,Senior Data Analyst,NorthPeak Technologies,Pune,3,5,10.5,14.0,Tableau;Statistics;SQL;Stakeholder Management;Excel;Power BI,Startup,Hybrid,2026-10-05
+JMA-1066,Senior Data Analyst,MetricMinds Systems,Hyderabad,5,8,15.5,19.0,ETL;SQL;Tableau;Power BI;Communication;Python;Excel,Mid-size,On-site,2026-10-05
+JMA-0233,Senior Data Analyst,IronPeak Insights,Ahmedabad,5,7,19.0,25.0,Data Modeling;Machine Learning;Python;Power BI;SQL;Communication;Excel,MNC,On-site,2026-10-05
+JMA-0532,Data Analyst,ApexLoop Insights,Hyderabad,3,5,11.5,15.0,Excel;Tableau;DAX;Power BI;Python;SQL;Communication,Startup,On-site,2026-10-05
+JMA-0246,Senior Data Analyst,FluxWorks Solutions,Mumbai,3,5,12.0,16.0,Stakeholder Management;SQL;Data Modeling;Power BI;Excel;Machine Learning;Python,Mid-size,Remote,2026-10-05
+JMA-0128,Senior Data Analyst,InsightForge Consulting,Bengaluru,0,0,4.0,5.5,Communication;SQL;Power BI;Machine Learning;Stakeholder Management;Tableau;Statistics,Mid-size,On-site,2026-10-05
+JMA-0430,Data Analyst,GoldRidge Consulting,Pune,0,1,4.5,5.5,Excel;Power BI;SQL;Stakeholder Management,Mid-size,On-site,2026-10-05
+JMA-0623,Data Analyst,MoonRidge Insights,Delhi NCR,3,5,11.5,16.0,Statistics;Excel;SAS;Power BI;SQL;Communication,MNC,Hybrid,2026-10-05
+JMA-0197,Data Analyst,BlueOrbit Insights,Chennai,0,0,4.0,5.5,Python;Statistics;Power BI;SQL;Tableau;Excel;Power Query,Startup,Hybrid,2026-10-05
+JMA-0792,Data Analyst,SwiftKite Labs,Delhi NCR,1,3,7.5,10.0,Power BI;Python;Communication;Power Query;SQL;Tableau;Excel,Mid-size,On-site,2026-10-05
+JMA-0629,Data Analyst,DeepCurrent Systems,Bengaluru,1,3,6.5,8.5,Communication;SQL;Excel,Mid-size,On-site,2026-10-05
+JMA-0855,Business Analyst,DataVista Technologies,Pune,3,5,11.5,15.5,Power Query;Data Modeling;Python;Stakeholder Management;Communication;Excel;SQL,Mid-size,Hybrid,2026-10-05
+JMA-0663,Data Analyst,KeyStone Labs,Delhi NCR,1,3,9.0,11.5,Excel;Data Modeling;SQL;Python,MNC,Hybrid,2026-10-05
+JMA-0005,Data Analyst,MetricMinds Systems,Delhi NCR,5,9,16.0,21.5,Excel;SQL;Tableau;R;ETL;Statistics;DAX,Mid-size,On-site,2026-10-05
+JMA-0943,Senior Data Analyst,NorthPeak Solutions,Mumbai,1,3,6.5,8.5,Statistics;Excel;Communication;Data Modeling;ETL;SQL;Power BI,Mid-size,Hybrid,2026-10-05
+JMA-1105,Data Analyst,LumenArc Insights,Delhi NCR,6,7,16.0,22.5,Machine Learning;Power Query;SQL;SAS,MNC,Remote,2026-10-05
+JMA-0347,Data Analyst,PineCrest Dataworks,Delhi NCR,1,3,7.5,9.5,Communication;Excel;Tableau;Statistics;Power Query;Python;SQL,Mid-size,Hybrid,2026-10-05
+JMA-0352,Business Analyst,NimbusWorks Insights,Chennai,3,5,11.0,14.0,SQL;Tableau;Excel;Power BI;Communication;Python,MNC,Remote,2026-10-05
+JMA-0498,Data Analyst,MoonRidge Labs,Mumbai,3,5,10.5,13.0,Power BI;SQL;Statistics;DAX;Excel,Startup,On-site,2026-10-04
+JMA-0317,MIS Executive,NorthPeak Technologies,Hyderabad,3,5,10.0,13.5,Excel;SAS;Communication;Power Query;SQL,Startup,Hybrid,2026-10-04
+JMA-0469,Data Analyst,NimbusWorks Technologies,Mumbai,3,5,10.0,14.0,DAX;Stakeholder Management;Machine Learning;SQL;Communication;Power BI;R,MNC,On-site,2026-10-04
+JMA-1138,Data Analyst,MetricMinds Systems,Bengaluru,1,3,8.0,11.0,Excel;Python;SAS;SQL;Stakeholder Management,Mid-size,On-site,2026-10-04
+JMA-1094,Data Analyst,PrimeVector Insights,Mumbai,1,3,8.0,10.5,DAX;SQL;Excel;Statistics;Python,Mid-size,Hybrid,2026-10-04
+JMA-0641,Senior Data Analyst,KeyStone Consulting,Kolkata,1,3,7.0,9.5,Power BI;Excel;Communication;Python;Data Modeling;ETL;SQL,Mid-size,Hybrid,2026-10-04
+JMA-0010,Data Analyst,ApexLoop Labs,Mumbai,5,9,15.5,20.0,Communication;Power BI;SQL;Statistics;ETL;DAX;Excel,Startup,On-site,2026-10-04
+JMA-0284,Data Analyst,JetStream Insights,Kolkata,0,1,4.0,5.0,Python;SQL;Excel;Statistics;Power Query,Mid-size,On-site,2026-10-04
+JMA-0425,Data Analyst,EdgeStone Analytics,Bengaluru,3,5,11.5,15.5,Excel;Data Modeling;Python;Statistics;SQL,Mid-size,On-site,2026-10-04
+JMA-1074,Senior Data Analyst,MoonRidge Insights,Delhi NCR,1,3,7.5,10.0,Excel;Machine Learning;Data Modeling;Python;ETL;SQL;Communication,Startup,On-site,2026-10-04
+JMA-0100,MIS Executive,NorthPeak Technologies,Mumbai,1,3,7.5,10.0,SQL;Stakeholder Management;Excel,Mid-size,On-site,2026-10-04
+JMA-0262,Senior Data Analyst,GoldRidge Dataworks,Bengaluru,5,7,19.5,27.0,Machine Learning;Communication;Data Modeling;Excel;Python;SQL;R,Mid-size,Hybrid,2026-10-04
+JMA-1011,Data Analyst,EdgeStone Labs,Delhi NCR,3,5,11.5,15.5,Excel;SAS;Tableau;ETL;SQL;Communication,Mid-size,On-site,2026-10-04
+JMA-0580,Data Analyst,BrightStack Labs,Pune,6,9,19.0,24.0,SQL;DAX;Tableau;Excel;Communication;Python,MNC,On-site,2026-10-04
+JMA-0544,Data Analyst,FluxWorks Labs,Mumbai,1,3,7.5,9.5,Excel;Power BI;Statistics;SQL;SAS;DAX,Mid-size,On-site,2026-10-04
+JMA-0769,MIS Executive,PrimeVector Insights,Mumbai,6,7,14.5,20.0,Excel;Power Query;Python;Communication;SQL,Startup,On-site,2026-10-04
+JMA-0749,Business Analyst,LumenArc Technologies,Delhi NCR,3,5,11.0,14.5,Excel;Communication;SQL;Stakeholder Management,Mid-size,On-site,2026-10-04
+JMA-0771,Data Analyst,CloudSlate Dataworks,Bengaluru,1,3,8.0,10.0,Statistics;Power Query;Tableau;Excel;Communication;DAX;SQL,MNC,On-site,2026-10-04
+JMA-0746,Data Analyst,EdgeStone Technologies,Bengaluru,3,5,10.5,13.5,Python;DAX;SQL;Communication;Excel,Startup,Hybrid,2026-10-03
+JMA-1025,Data Analyst,EdgeStone Analytics,Bengaluru,3,5,11.5,14.5,Power Query;Statistics;Python;Excel;SQL,Mid-size,On-site,2026-10-03
+JMA-0395,Data Analyst,PixelLedger Systems,Delhi NCR,3,5,10.5,15.0,Tableau;Power BI;Statistics;Python;Stakeholder Management;SQL;Excel,Mid-size,On-site,2026-10-03
+JMA-0374,Data Analyst,Crestline Analytics,Bengaluru,3,5,11.5,15.0,SQL;Statistics;Power Query;Python;Excel,MNC,On-site,2026-10-03
+JMA-0682,Data Analyst,JetStream Insights,Kolkata,0,0,4.0,5.5,SQL;Communication;Excel,MNC,Hybrid,2026-10-03
+JMA-0905,MIS Executive,IronPeak Insights,Delhi NCR,1,3,6.5,8.0,Excel;Statistics;Power Query,Startup,Hybrid,2026-10-03
+JMA-0784,Data Analyst,NovaGrid Systems,Delhi NCR,0,1,5.0,6.0,Data Modeling;Communication;Statistics;Excel;Power BI;Python;SQL,Mid-size,Hybrid,2026-10-03
+JMA-0123,Senior Data Analyst,OpalGrid Technologies,Bengaluru,0,0,4.0,5.5,Stakeholder Management;SQL;Power BI;Machine Learning;Data Modeling;Python;Excel,Startup,On-site,2026-10-03
+JMA-0756,Data Analyst,TrueSignal Consulting,Chennai,1,3,8.0,10.5,Power BI;Communication;DAX;SQL;Python;Statistics;Excel,MNC,On-site,2026-10-03
+JMA-0912,Data Analyst,NimbusWorks Analytics,Delhi NCR,3,5,12.0,16.0,Python;Power Query;SQL;Excel;Statistics;Communication;Tableau,MNC,On-site,2026-10-03
+JMA-0678,Data Analyst,OpalGrid Dataworks,Mumbai,0,1,4.0,5.5,Power BI;Stakeholder Management;Power Query;Excel;SQL,Startup,On-site,2026-10-03
+JMA-0657,MIS Executive,FluxWorks Consulting,Chennai,0,1,4.0,5.5,Excel;SQL;SAS;Stakeholder Management,Startup,On-site,2026-10-03
+JMA-0668,Data Analyst,ClearPath Insights,Kolkata,3,5,11.0,14.5,Excel;Data Modeling;DAX;SQL;Statistics;Tableau;Power BI,Startup,Hybrid,2026-10-03
+JMA-0448,Data Analyst,EdgeStone Systems,Pune,1,3,7.5,9.5,Power Query;Tableau;Excel;Statistics;SQL;Python,Startup,On-site,2026-10-03
+JMA-0036,Data Analyst,MetricMinds Dataworks,Chennai,3,5,11.5,15.0,Power BI;Excel;Statistics;Tableau;ETL;SQL;Stakeholder Management,MNC,Hybrid,2026-10-03
+JMA-0495,Data Analyst,DataVista Technologies,Delhi NCR,1,3,6.5,8.5,Excel;SQL;Statistics;Power Query;Tableau;Data Modeling,Startup,Hybrid,2026-10-03
+JMA-0834,Data Analyst,LumenArc Solutions,Delhi NCR,1,3,7.0,10.0,Power Query;SQL;Power BI;Data Modeling;DAX;Python,MNC,Hybrid,2026-10-03
+JMA-0269,Data Analyst,NorthPeak Technologies,Mumbai,0,0,5.0,6.0,Excel;SQL;Communication;Statistics;Power Query;Power BI;Python,Mid-size,On-site,2026-10-02
+JMA-1167,Business Analyst,PrimeVector Analytics,Ahmedabad,3,5,9.5,13.0,Excel;SQL;Data Modeling;ETL;Stakeholder Management;Power BI;Statistics,Startup,Hybrid,2026-10-02
+JMA-0104,Data Analyst,DeepCurrent Systems,Delhi NCR,1,3,6.0,8.0,Tableau;Statistics;Communication;SQL;Excel;DAX;SAS,Startup,Hybrid,2026-10-02
+JMA-0824,Senior Data Analyst,LumenArc Systems,Ahmedabad,0,0,3.5,5.0,Python;Machine Learning;DAX;Statistics;SQL,Startup,Hybrid,2026-10-02
+JMA-0363,Data Analyst,BrightStack Consulting,Delhi NCR,0,0,4.0,6.0,Stakeholder Management;SQL;Python;Power BI;Statistics;DAX;Excel,Startup,On-site,2026-10-02
+JMA-0145,Senior Data Analyst,FluxWorks Consulting,Kolkata,3,5,10.0,13.0,Power BI;Machine Learning;SQL;Data Modeling;Statistics;Excel;ETL,Startup,On-site,2026-10-02
+JMA-0605,Senior Data Analyst,BrightStack Consulting,Hyderabad,6,9,17.0,24.0,Power Query;Data Modeling;Statistics;Machine Learning;Python;SQL;ETL,MNC,On-site,2026-10-02
+JMA-0982,Data Analyst,OpalGrid Consulting,Bengaluru,6,9,17.0,22.5,Power Query;Excel;SQL,Mid-size,Remote,2026-10-02
+JMA-0983,Data Analyst,KeyStone Systems,Delhi NCR,3,5,12.0,16.0,Power BI;Python;Excel;Statistics;Power Query;SQL;Communication,MNC,Remote,2026-10-02
+JMA-0738,Business Analyst,GoldRidge Dataworks,Delhi NCR,0,1,4.0,5.5,Communication;Statistics;Power Query;Excel;SQL,Mid-size,On-site,2026-10-02
+JMA-0083,Data Analyst,NorthPeak Analytics,Bengaluru,0,1,3.5,5.0,DAX;ETL;SAS;SQL;Power BI;Tableau;Excel,Mid-size,Hybrid,2026-10-02
+JMA-0857,Data Analyst,SwiftKite Analytics,Mumbai,3,5,11.5,15.5,ETL;SQL;Excel;Python,Startup,On-site,2026-10-02
+JMA-0916,Business Analyst,PixelLedger Systems,Pune,0,0,4.5,6.0,Python;SQL;Statistics;Excel;Stakeholder Management;Communication;Power Query,Startup,Hybrid,2026-10-02
+JMA-0925,Data Analyst,BlueOrbit Insights,Mumbai,1,3,8.0,10.5,DAX;SQL;Excel;Python;Power BI,Mid-size,On-site,2026-10-02
+JMA-0435,MIS Executive,JetStream Insights,Pune,1,3,7.0,10.0,Excel;SQL;Data Modeling;Communication;Power Query;Statistics;DAX,Startup,On-site,2026-10-02
+JMA-0913,Data Analyst,MetricMinds Systems,Bengaluru,3,5,12.5,16.5,Excel;Power BI;Python;Power Query;DAX;Data Modeling;SQL,MNC,Hybrid,2026-10-01
+JMA-0372,Data Analyst,HarborLine Dataworks,Jaipur,1,3,7.0,9.0,Power BI;Python;SQL;Excel;Communication;Statistics;Tableau,Mid-size,Hybrid,2026-10-01
+JMA-0608,MIS Executive,ApexLoop Analytics,Chennai,5,7,15.5,20.0,Power BI;ETL;Excel;Communication,Startup,Remote,2026-10-01
+JMA-0135,Data Analyst,ClearPath Consulting,Chennai,5,8,15.5,20.0,SQL;Stakeholder Management;R;Excel;Python,Mid-size,On-site,2026-10-01
+JMA-0885,MIS Executive,EdgeStone Labs,Delhi NCR,0,1,4.0,5.0,Communication;Power Query;Excel;Power BI,Startup,Remote,2026-10-01
+JMA-0611,Data Analyst,PineCrest Dataworks,Pune,1,3,8.5,10.5,Machine Learning;Python;DAX;Excel,Startup,Hybrid,2026-10-01
+JMA-0655,Data Analyst,NimbusWorks Technologies,Bengaluru,1,3,6.5,9.0,Excel;Communication;Power BI;SQL;Statistics;SAS;Stakeholder Management,Startup,On-site,2026-10-01
+JMA-0931,Senior Data Analyst,GoldRidge Dataworks,Delhi NCR,6,9,18.5,25.0,Excel;Python;Stakeholder Management;Data Modeling;Statistics;Machine Learning;SQL,Startup,Hybrid,2026-10-01
+JMA-0181,MIS Executive,LumenArc Analytics,Hyderabad,5,7,15.0,20.0,SQL;Power Query;Excel,Mid-size,Remote,2026-10-01
+JMA-0745,MIS Executive,KeyStone Labs,Mumbai,0,0,4.5,6.0,Communication;Power Query;SQL;Excel;Stakeholder Management;Data Modeling,MNC,Hybrid,2026-10-01
+JMA-1170,Senior Data Analyst,Crestline Labs,Mumbai,1,3,6.5,8.5,Excel;Communication;Statistics;Machine Learning;SQL;Stakeholder Management;ETL,Startup,Hybrid,2026-10-01
+JMA-0552,Business Analyst,PrimeVector Dataworks,Hyderabad,0,1,4.5,6.5,Data Modeling;Statistics;Power Query;Communication;Stakeholder Management;Excel;Power BI,MNC,Hybrid,2026-10-01
+JMA-1128,Data Analyst,GoldRidge Technologies,Mumbai,1,3,7.5,10.0,ETL;SQL;Excel,Mid-size,Remote,2026-10-01
+JMA-0531,Data Analyst,JetStream Insights,Mumbai,1,3,7.5,11.0,SQL;Python;Communication;Power BI;Excel,Mid-size,On-site,2026-10-01
+JMA-0434,Senior Data Analyst,GoldRidge Dataworks,Lucknow,0,1,4.0,5.0,Python;Statistics;SQL;ETL;Data Modeling;Power BI;Machine Learning,MNC,On-site,2026-10-01
+JMA-0866,Data Analyst,InsightForge Solutions,Mumbai,1,3,7.0,9.5,Statistics;Tableau;DAX;SQL;Power BI;Excel;Python,Mid-size,On-site,2026-10-01
+JMA-0456,Data Analyst,ClearPath Consulting,Hyderabad,3,5,11.5,15.0,Power Query;Data Modeling;Power BI;Python;Excel;Communication;SQL,Mid-size,Hybrid,2026-10-01
+JMA-0452,Data Analyst,ClearPath Analytics,Delhi NCR,1,3,6.0,8.0,Statistics;Excel;Power BI,Startup,Remote,2026-10-01
+JMA-0442,MIS Executive,PrimeVector Consulting,Bengaluru,1,3,6.5,8.0,SQL;Stakeholder Management;Excel;Power Query;Power BI,Mid-size,Remote,2026-10-01
+JMA-0243,Data Analyst,BrightStack Insights,Kolkata,6,7,16.0,22.5,Excel;SQL;ETL;Python,MNC,On-site,2026-10-01
+JMA-0775,MIS Executive,GoldRidge Dataworks,Jaipur,1,3,5.5,7.5,Stakeholder Management;Communication;Power BI;Excel;SQL,Mid-size,Remote,2026-10-01
+JMA-0048,MIS Executive,QuantNest Solutions,Bengaluru,3,5,11.5,15.0,Excel;Power Query;ETL;SQL;SAS,Mid-size,Remote,2026-10-01
+JMA-0411,Business Analyst,IronPeak Analytics,Delhi NCR,1,3,7.5,9.5,Communication;Power Query;SQL;Stakeholder Management;Excel,Startup,Hybrid,2026-10-01
+JMA-1144,Data Analyst,MoonRidge Dataworks,Kolkata,5,7,17.5,22.5,Statistics;Tableau;Python;SQL,Mid-size,Remote,2026-10-01
+JMA-0421,Business Analyst,JetStream Solutions,Hyderabad,1,3,6.5,8.5,Communication;Data Modeling;Power BI;SQL;Tableau;Excel;Stakeholder Management,MNC,Hybrid,2026-09-30
+JMA-0312,Data Analyst,ApexLoop Systems,Pune,3,5,11.0,14.5,DAX;Python;SQL;Machine Learning;Excel,Startup,On-site,2026-09-30
+JMA-0353,Analytics Associate,PixelLedger Analytics,Bengaluru,3,5,9.5,13.5,Power BI;Power Query;Communication;Excel,MNC,On-site,2026-09-30
+JMA-0180,MIS Executive,QuantNest Insights,Delhi NCR,1,3,8.0,10.5,Power Query;SQL;Excel,MNC,On-site,2026-09-30
+JMA-0101,Data Analyst,MetricMinds Consulting,Mumbai,3,5,11.5,14.5,Statistics;SQL;Tableau;Excel,Mid-size,On-site,2026-09-30
+JMA-0563,Data Analyst,MoonRidge Insights,Chennai,0,1,5.0,6.5,Python;Tableau;R;SQL;Excel;Machine Learning;Stakeholder Management,MNC,On-site,2026-09-30
+JMA-0669,Business Analyst,SwiftKite Analytics,Lucknow,0,0,3.0,4.5,Stakeholder Management;R;Power BI;Power Query;Excel;Statistics,Startup,Hybrid,2026-09-30
+JMA-0112,Data Analyst,MoonRidge Labs,Ahmedabad,5,7,13.5,17.5,Power Query;Data Modeling;Python;Communication;Tableau;SQL;Excel,Startup,Hybrid,2026-09-30
+JMA-0578,Data Analyst,ApexLoop Analytics,Delhi NCR,1,3,7.0,9.0,DAX;Power BI;Tableau;SQL;Power Query;Statistics,Startup,On-site,2026-09-30
+JMA-0396,Data Analyst,IronPeak Consulting,Mumbai,3,5,9.5,13.0,Excel;SQL;Tableau,Mid-size,Hybrid,2026-09-30
+JMA-0847,Business Analyst,NovaGrid Consulting,Jaipur,1,3,6.5,8.0,Machine Learning;Excel;Communication;SQL;Statistics,Startup,On-site,2026-09-29
+JMA-0325,Data Analyst,ApexLoop Solutions,Bengaluru,0,1,4.5,6.0,Python;Power Query;Tableau;SQL;Power BI;Communication;Excel,Startup,Remote,2026-09-29
+JMA-1013,Data Analyst,PrimeVector Technologies,Kolkata,1,3,7.5,9.5,Tableau;Data Modeling;SQL;Power BI;Excel;Communication;Python,MNC,On-site,2026-09-29
+JMA-0778,Data Analyst,SwiftKite Analytics,Delhi NCR,1,3,7.0,9.0,ETL;Tableau;SQL;Power BI;Power Query;Communication;Python,Mid-size,Remote,2026-09-29
+JMA-1135,Analytics Associate,NovaGrid Systems,Delhi NCR,0,0,4.0,5.5,Statistics;Excel;SQL,MNC,Hybrid,2026-09-29
+JMA-0880,Analytics Associate,PineCrest Insights,Delhi NCR,1,3,6.5,8.5,Power Query;DAX;Power BI;Communication;Statistics;Excel;SQL,MNC,Remote,2026-09-29
+JMA-0309,Senior Data Analyst,HarborLine Systems,Kolkata,0,0,4.0,5.5,Python;R;Excel;Machine Learning;SQL,MNC,Hybrid,2026-09-29
+JMA-0534,Analytics Associate,Crestline Analytics,Mumbai,1,3,7.5,9.5,Excel;DAX;SQL;Power BI;Python;Communication;Statistics,MNC,Remote,2026-09-29
+JMA-0055,Data Analyst,DataVista Technologies,Chennai,0,1,4.0,5.0,Power BI;Data Modeling;Tableau;Excel;Statistics;SQL,Mid-size,On-site,2026-09-29
+JMA-0779,Data Analyst,IronPeak Consulting,Lucknow,1,3,6.5,8.5,DAX;Tableau;SQL;Statistics;Excel;Stakeholder Management,MNC,On-site,2026-09-29
+JMA-0559,Data Analyst,EdgeStone Technologies,Delhi NCR,6,8,15.0,20.5,Data Modeling;SQL;R;Python;Statistics;Excel;DAX,Mid-size,On-site,2026-09-29
+JMA-0593,Data Analyst,PineCrest Labs,Bengaluru,3,5,9.0,12.5,Statistics;Power BI;ETL;SQL;Excel,Startup,Remote,2026-09-28
+JMA-0523,Data Analyst,PrimeVector Analytics,Pune,0,1,4.5,6.0,SQL;Python;Excel,Mid-size,Hybrid,2026-09-28
+JMA-0586,Business Analyst,GoldRidge Consulting,Kolkata,1,3,6.5,9.0,Excel;Communication;Stakeholder Management,Mid-size,On-site,2026-09-28
+JMA-0090,Data Analyst,OpalGrid Technologies,Lucknow,1,3,7.0,9.0,SQL;ETL;Python;Power BI;Communication;Power Query;Excel,Mid-size,Hybrid,2026-09-28
+JMA-0416,Data Analyst,PrimeVector Analytics,Chennai,3,5,9.5,13.0,Power BI;Communication;Python;Power Query;Stakeholder Management;Excel;SQL,Startup,On-site,2026-09-28
+JMA-0603,Data Analyst,QuantNest Consulting,Bengaluru,1,3,6.5,9.0,SQL;Excel;DAX,Startup,On-site,2026-09-28
+JMA-0486,Data Analyst,CloudSlate Dataworks,Delhi NCR,1,3,7.0,9.5,SQL;Power BI;Communication,Mid-size,On-site,2026-09-28
+JMA-0525,Data Analyst,OpalGrid Labs,Mumbai,6,10,18.5,23.5,SQL;Communication;Tableau;Statistics;Excel;Power BI;Python,Mid-size,On-site,2026-09-28
+JMA-0051,MIS Executive,TrueSignal Technologies,Bengaluru,1,3,6.5,8.5,Excel;Communication;Data Modeling;Stakeholder Management;Power Query,Mid-size,On-site,2026-09-28
+JMA-0081,Analytics Associate,ApexLoop Solutions,Bengaluru,0,0,4.5,6.0,SQL;Tableau;Excel;DAX;Statistics;Python,MNC,On-site,2026-09-28
+JMA-0409,Data Analyst,TrueSignal Labs,Kolkata,0,1,4.0,5.0,ETL;SQL;Power Query;Tableau;Excel;Communication;Statistics,Mid-size,On-site,2026-09-28
+JMA-0068,Data Analyst,DataVista Technologies,Lucknow,1,3,6.5,8.5,Excel;Power BI;SQL,Mid-size,Hybrid,2026-09-28
+JMA-0948,Data Analyst,InsightForge Consulting,Mumbai,0,0,5.0,6.5,Machine Learning;DAX;Power Query;SQL;Python;Stakeholder Management;SAS,MNC,Hybrid,2026-09-28
+JMA-1108,Data Analyst,BlueOrbit Labs,Delhi NCR,3,5,12.0,15.5,Python;Power Query;Communication;SQL;Power BI,Mid-size,On-site,2026-09-28
+JMA-1095,Data Analyst,KeyStone Consulting,Chennai,0,1,4.5,6.0,Excel;Python;SQL;Statistics;Power BI;DAX,Startup,On-site,2026-09-28
+JMA-0285,Data Analyst,FluxWorks Analytics,Bengaluru,5,8,18.5,24.0,Tableau;ETL;Excel;Python,Mid-size,Hybrid,2026-09-28
+JMA-0121,MIS Executive,ClearPath Consulting,Bengaluru,3,5,11.5,16.0,SQL;Excel;Communication;Power Query,Mid-size,On-site,2026-09-28
+JMA-0149,Senior Data Analyst,PrimeVector Dataworks,Delhi NCR,0,0,4.5,6.0,SQL;Communication;ETL;Python;Stakeholder Management,Startup,Remote,2026-09-28
+JMA-0234,Business Analyst,OpalGrid Dataworks,Mumbai,1,3,7.0,9.5,Stakeholder Management;SQL;Power BI;Communication;Tableau;Excel,MNC,On-site,2026-09-28
+JMA-0170,Data Analyst,EdgeStone Analytics,Bengaluru,3,5,12.0,15.5,Excel;Communication;Statistics;Machine Learning;Power Query;SQL;Power BI,MNC,On-site,2026-09-27
+JMA-0590,Data Analyst,GoldRidge Technologies,Kolkata,3,5,11.0,14.5,Tableau;Python;DAX;Power Query;SQL,Mid-size,Hybrid,2026-09-27
+JMA-1029,Data Analyst,LumenArc Labs,Mumbai,3,5,11.0,14.0,Communication;SQL;Power BI;Python,Startup,On-site,2026-09-27
+JMA-0114,Business Analyst,IronPeak Analytics,Delhi NCR,3,5,12.0,15.5,Tableau;Statistics;Communication;Excel;SQL;Stakeholder Management,Mid-size,On-site,2026-09-27
+JMA-0378,Data Analyst,LumenArc Analytics,Mumbai,3,5,10.0,14.0,Python;SQL;Excel;Data Modeling;DAX,Startup,On-site,2026-09-27
+JMA-1119,Business Analyst,PrimeVector Dataworks,Chennai,0,0,4.5,5.5,Power BI;Data Modeling;Stakeholder Management;Statistics;Communication;Excel;SQL,Startup,Hybrid,2026-09-27
+JMA-0007,Data Analyst,BrightStack Consulting,Pune,6,8,17.5,22.5,Tableau;Excel;Python;SQL;Power BI;Power Query;Data Modeling,Startup,Remote,2026-09-27
+JMA-0897,MIS Executive,KeyStone Systems,Mumbai,3,5,10.5,14.5,DAX;Excel;SQL;Power Query,Mid-size,On-site,2026-09-27
+JMA-0006,Senior Data Analyst,PrimeVector Technologies,Hyderabad,5,7,14.0,19.5,Machine Learning;SQL;Data Modeling;Statistics,Startup,On-site,2026-09-27
+JMA-0144,Senior Data Analyst,MoonRidge Dataworks,Mumbai,3,5,12.0,16.0,Power BI;SQL;Python;Data Modeling;Excel;Machine Learning;Statistics,Mid-size,Hybrid,2026-09-27
+JMA-0679,Data Analyst,ClearPath Analytics,Chennai,1,3,8.0,10.5,SQL;Power Query;Communication;Python;Tableau,MNC,On-site,2026-09-27
+JMA-0039,Business Analyst,InsightForge Consulting,Bengaluru,1,3,8.5,10.5,Power BI;Communication;Python;Stakeholder Management;Data Modeling;Excel;SQL,Mid-size,On-site,2026-09-27
+JMA-0300,Business Analyst,BrightStack Dataworks,Mumbai,3,5,10.5,13.5,Communication;Stakeholder Management;SQL;Power Query;Excel;Statistics;ETL,MNC,On-site,2026-09-27
+JMA-0053,Analytics Associate,HarborLine Solutions,Bengaluru,3,5,13.0,17.0,Python;Tableau;Power BI;Power Query;SQL;Excel;Communication,MNC,Hybrid,2026-09-27
+JMA-1103,Senior Data Analyst,ApexLoop Insights,Ahmedabad,3,5,10.0,14.0,SQL;Statistics;ETL;Data Modeling;DAX,Mid-size,On-site,2026-09-26
+JMA-0512,Business Analyst,LumenArc Technologies,Bengaluru,0,1,5.0,7.0,SQL;Data Modeling;Excel;Stakeholder Management;Communication;Statistics;Power Query,MNC,Hybrid,2026-09-26
+JMA-1169,Business Analyst,BrightStack Insights,Delhi NCR,1,3,7.0,9.0,Communication;Tableau;Excel;Data Modeling;Stakeholder Management;Statistics;R,Startup,On-site,2026-09-26
+JMA-0790,MIS Executive,OpalGrid Dataworks,Mumbai,0,0,4.0,5.5,Power Query;SQL;Excel;ETL,Startup,On-site,2026-09-26
+JMA-0789,Data Analyst,MoonRidge Dataworks,Ahmedabad,0,0,3.5,5.0,Power Query;Statistics;SQL;Communication;Excel;Python;Power BI,MNC,Hybrid,2026-09-26
+JMA-0889,Data Analyst,GoldRidge Consulting,Delhi NCR,1,3,7.0,9.5,Data Modeling;Excel;Tableau;SQL,Startup,Hybrid,2026-09-26
+JMA-0474,Data Analyst,IronPeak Consulting,Delhi NCR,0,0,4.0,5.5,Excel;Power BI;Tableau;Python;SQL,MNC,Hybrid,2026-09-26
+JMA-0895,Data Analyst,ClearPath Consulting,Pune,1,3,6.5,9.0,Communication;R;Python;SQL;Power BI;Excel,MNC,On-site,2026-09-26
+JMA-0884,Data Analyst,PineCrest Labs,Pune,1,3,7.5,9.5,Statistics;DAX;Communication;Power Query;Power BI;Excel;Python,Startup,On-site,2026-09-26
+JMA-0066,Business Analyst,ApexLoop Solutions,Hyderabad,1,3,7.5,9.5,Communication;Stakeholder Management;Excel;SQL;Power BI;Power Query;Data Modeling,MNC,On-site,2026-09-26
+JMA-0933,Business Analyst,HarborLine Insights,Chennai,1,3,7.0,10.0,SQL;Communication;Stakeholder Management;Data Modeling;Excel;Power BI,Startup,On-site,2026-09-26
+JMA-1088,Data Analyst,JetStream Solutions,Bengaluru,5,9,15.0,21.0,Power BI;SQL;Power Query;Excel;Tableau;Statistics;Python,Mid-size,On-site,2026-09-26
+JMA-0860,Senior Data Analyst,SwiftKite Solutions,Chennai,1,3,8.0,10.0,Data Modeling;Python;ETL;SQL;Excel;Stakeholder Management;Tableau,Startup,Hybrid,2026-09-26
+JMA-1089,Business Analyst,HarborLine Dataworks,Bengaluru,0,0,4.0,5.5,Statistics;Communication;SQL;Excel;Stakeholder Management;DAX;Power Query,Mid-size,On-site,2026-09-26
+JMA-1084,Analytics Associate,LumenArc Technologies,Delhi NCR,1,3,8.0,10.0,Data Modeling;SQL;Communication;ETL;Power BI;Excel;Statistics,MNC,Hybrid,2026-09-26
+JMA-0088,MIS Executive,DeepCurrent Technologies,Mumbai,3,5,11.5,14.5,Power BI;SQL;Excel;Power Query,Mid-size,On-site,2026-09-26
+JMA-1062,MIS Executive,MetricMinds Dataworks,Jaipur,1,3,7.5,9.5,DAX;Machine Learning;Excel;SAS,Mid-size,On-site,2026-09-25
+JMA-0785,Data Analyst,IronPeak Analytics,Mumbai,3,5,11.5,15.5,Excel;SQL;Power Query;Python,Mid-size,On-site,2026-09-25
+JMA-0270,MIS Executive,Crestline Analytics,Chennai,3,5,10.0,12.5,Excel;DAX;SAS;SQL;Power Query,Startup,Hybrid,2026-09-25
+JMA-0370,MIS Executive,Crestline Labs,Ahmedabad,1,3,6.5,8.5,Statistics;Excel;Power Query,MNC,Remote,2026-09-25
+JMA-0970,Data Analyst,BrightStack Analytics,Chennai,1,3,7.5,9.5,Power BI;Communication;SQL;Power Query;Excel;Python,MNC,On-site,2026-09-25
+JMA-0184,Senior Data Analyst,QuantNest Solutions,Bengaluru,3,5,12.5,17.5,Python;Communication;Excel;Statistics;ETL;SQL;Power Query,MNC,Hybrid,2026-09-25
+JMA-0490,Data Analyst,ApexLoop Technologies,Delhi NCR,3,5,10.5,14.5,Power Query;Statistics;Python;SQL;Excel;DAX;Communication,Startup,On-site,2026-09-25
+JMA-0164,Data Analyst,NorthPeak Consulting,Bengaluru,3,5,11.5,15.0,Power BI;Power Query;Communication;SQL;Python;Tableau;Excel,Mid-size,Hybrid,2026-09-25
+JMA-0165,Data Analyst,DataVista Technologies,Chennai,6,10,16.0,20.5,SQL;Excel;DAX;Power BI;Stakeholder Management;Communication;Python,Mid-size,Hybrid,2026-09-25
+JMA-0318,Analytics Associate,JetStream Insights,Delhi NCR,1,3,7.0,9.0,Python;Tableau;Statistics;SQL,MNC,Hybrid,2026-09-25
+JMA-0381,Data Analyst,KeyStone Dataworks,Hyderabad,1,3,6.5,8.5,ETL;Excel;R;Data Modeling;SQL;Communication;DAX,Mid-size,On-site,2026-09-25
+JMA-0350,Data Analyst,GoldRidge Labs,Bengaluru,6,7,14.0,18.5,Power BI;SQL;Tableau;DAX;Statistics;Communication;Excel,Startup,Remote,2026-09-25
+JMA-0062,Data Analyst,NovaGrid Consulting,Bengaluru,1,3,7.0,9.0,SQL;Python;Power Query;Excel,Startup,On-site,2026-09-25
+JMA-0518,Analytics Associate,JetStream Solutions,Hyderabad,0,1,3.5,5.0,SQL;ETL;Tableau;DAX;Excel;Communication,Mid-size,On-site,2026-09-25
+JMA-0061,Business Analyst,DataVista Labs,Lucknow,0,1,4.0,5.0,Stakeholder Management;Communication;DAX;SQL;Excel,Mid-size,Hybrid,2026-09-25
+JMA-0132,Data Analyst,DeepCurrent Systems,Hyderabad,1,3,6.0,8.0,Tableau;R;Excel;SQL;Statistics;Communication,Mid-size,On-site,2026-09-25
+JMA-1146,Data Analyst,EdgeStone Consulting,Ahmedabad,0,0,4.5,5.5,Tableau;Statistics;Communication;Python;Excel;SQL;Power BI,MNC,Hybrid,2026-09-24
+JMA-0872,Business Analyst,PrimeVector Insights,Delhi NCR,3,5,12.0,15.5,Stakeholder Management;Statistics;Excel,MNC,Hybrid,2026-09-24
+JMA-1063,Data Analyst,GoldRidge Labs,Pune,1,3,8.0,11.0,Excel;SQL;Python;Power BI;Data Modeling;SAS,Mid-size,On-site,2026-09-24
+JMA-0136,Data Analyst,Crestline Analytics,Hyderabad,0,1,4.5,6.0,Power BI;Excel;Statistics;SQL;DAX,Mid-size,On-site,2026-09-24
+JMA-0335,Senior Data Analyst,ApexLoop Solutions,Lucknow,1,3,5.5,7.5,Python;ETL;Communication;Excel;Power BI;SQL;Tableau,Startup,On-site,2026-09-24
+JMA-0457,MIS Executive,PineCrest Dataworks,Mumbai,3,5,11.5,15.0,Excel;Communication;Power Query;Power BI,MNC,On-site,2026-09-24
+JMA-0400,MIS Executive,NorthPeak Analytics,Chennai,1,3,7.0,9.5,Power BI;SQL;Power Query;DAX;Stakeholder Management;Data Modeling;Excel,Mid-size,Remote,2026-09-24
+JMA-0686,Business Analyst,GoldRidge Consulting,Chennai,1,3,7.5,9.5,ETL;SAS;Power Query;Stakeholder Management;Excel;Statistics,Mid-size,On-site,2026-09-24
+JMA-0673,Data Analyst,CloudSlate Dataworks,Jaipur,1,3,7.5,10.0,SQL;Python;Statistics;Excel;Machine Learning;Power BI,MNC,On-site,2026-09-24
+JMA-0487,Data Analyst,HarborLine Solutions,Mumbai,3,5,12.0,15.0,Statistics;Power BI;Excel;Tableau;Data Modeling;SQL;Communication,Mid-size,Remote,2026-09-24
+JMA-0198,Data Analyst,TrueSignal Systems,Delhi NCR,1,3,6.5,9.5,SQL;Excel;ETL;Power Query;Power BI;Data Modeling;Statistics,Mid-size,On-site,2026-09-24
+JMA-0358,MIS Executive,JetStream Solutions,Mumbai,1,3,6.5,9.5,Data Modeling;SQL;Excel,Mid-size,Remote,2026-09-24
+JMA-1125,Data Analyst,ClearPath Systems,Pune,3,5,12.0,15.5,Data Modeling;Excel;Statistics;Machine Learning;Python;Power BI;SQL,Startup,Hybrid,2026-09-23
+JMA-0449,Data Analyst,ClearPath Insights,Kolkata,1,3,7.0,9.5,Power BI;R;Python;Power Query;Machine Learning;SQL,MNC,Hybrid,2026-09-23
+JMA-0899,Data Analyst,JetStream Insights,Bengaluru,0,1,4.5,5.5,Data Modeling;Statistics;SQL;R;DAX;Excel;Communication,Startup,Remote,2026-09-23
+JMA-0331,Data Analyst,ApexLoop Technologies,Bengaluru,0,1,4.0,6.0,SQL;Power BI;Excel;Communication;Power Query;Tableau,MNC,On-site,2026-09-23
+JMA-0557,Data Analyst,KeyStone Labs,Jaipur,1,3,6.0,8.0,Communication;Excel;Python;Stakeholder Management;Power BI;Data Modeling;SQL,Startup,On-site,2026-09-23
+JMA-0993,Data Analyst,NimbusWorks Insights,Ahmedabad,3,5,9.0,11.5,Statistics;Data Modeling;Excel;SQL,Startup,On-site,2026-09-23
+JMA-0367,Data Analyst,MetricMinds Technologies,Hyderabad,1,3,7.0,9.5,Excel;Power Query;SQL;Communication;Statistics;DAX;Tableau,Mid-size,On-site,2026-09-23
+JMA-0103,Business Analyst,BrightStack Analytics,Bengaluru,1,3,8.0,10.0,Power Query;Python;SQL;Communication;Excel;Stakeholder Management;Data Modeling,Mid-size,On-site,2026-09-23
+JMA-0304,Business Analyst,PineCrest Insights,Ahmedabad,3,5,9.0,11.5,Communication;Power BI;Excel;Statistics;Stakeholder Management,Mid-size,Hybrid,2026-09-23
+JMA-0565,Senior Data Analyst,GoldRidge Technologies,Bengaluru,0,1,4.5,5.5,Excel;Python;Power BI;Statistics;SQL;Communication;Data Modeling,Mid-size,On-site,2026-09-23
+JMA-0110,Data Analyst,NovaGrid Consulting,Delhi NCR,3,5,10.5,14.5,Communication;Excel;Tableau;Statistics;Power BI;SQL;Power Query,Startup,Hybrid,2026-09-23
+JMA-0329,Data Analyst,BrightStack Consulting,Delhi NCR,6,8,15.5,20.0,Statistics;Excel;SQL;Tableau;Communication;Power Query;Python,Startup,On-site,2026-09-23
+JMA-1176,Data Analyst,PixelLedger Analytics,Mumbai,3,5,11.0,15.5,Python;Excel;DAX;Power Query;SQL;ETL,Mid-size,On-site,2026-09-23
+JMA-0569,Data Analyst,TrueSignal Systems,Hyderabad,1,3,7.5,10.0,Excel;SAS;Stakeholder Management;Power BI;SQL,MNC,On-site,2026-09-22
+JMA-0256,Senior Data Analyst,ApexLoop Technologies,Bengaluru,0,0,5.0,6.5,ETL;SQL;Python;Power BI;Stakeholder Management;Machine Learning;R,Mid-size,On-site,2026-09-22
+JMA-1177,Data Analyst,ApexLoop Labs,Mumbai,3,5,11.0,15.5,SQL;Data Modeling;DAX;Excel;Stakeholder Management,Mid-size,On-site,2026-09-22
+JMA-0462,Analytics Associate,SwiftKite Analytics,Hyderabad,3,5,11.0,15.0,Power BI;SQL;Excel,Startup,Hybrid,2026-09-22
+JMA-0737,MIS Executive,HarborLine Systems,Delhi NCR,6,10,17.0,22.5,SQL;Communication;ETL;Excel;Stakeholder Management,Mid-size,On-site,2026-09-22
+JMA-1028,Data Analyst,OpalGrid Consulting,Kolkata,1,3,7.0,9.5,ETL;Python;Statistics;SQL;Communication;Excel;DAX,Startup,Hybrid,2026-09-22
+JMA-0002,Senior Data Analyst,ClearPath Systems,Delhi NCR,3,5,11.5,15.5,Power BI;Communication;SQL;Python;Statistics;ETL;Power Query,Mid-size,On-site,2026-09-22
+JMA-0683,Analytics Associate,ZenithWorks Labs,Lucknow,0,0,4.0,5.0,Communication;Python;Statistics;Power Query;SQL;Tableau;Excel,Startup,On-site,2026-09-22
+JMA-0692,Business Analyst,GoldRidge Consulting,Hyderabad,5,10,17.0,21.5,Communication;ETL;Excel;Stakeholder Management,Startup,Hybrid,2026-09-22
+JMA-0092,Data Analyst,NovaGrid Systems,Delhi NCR,3,5,12.0,16.5,Communication;Python;SQL;Excel,Mid-size,Hybrid,2026-09-22
+JMA-0443,Data Analyst,Crestline Analytics,Pune,1,3,8.0,10.0,Python;SQL;Statistics;Communication;Power Query;Power BI;Excel,Mid-size,On-site,2026-09-22
+JMA-0968,Data Analyst,BrightStack Labs,Hyderabad,0,0,4.5,6.0,SAS;Machine Learning;Power BI;Communication;SQL;Excel,Mid-size,On-site,2026-09-22
+JMA-0907,Business Analyst,TrueSignal Labs,Kolkata,6,9,14.0,17.5,Excel;Communication;Power Query;SQL,Startup,On-site,2026-09-22
+JMA-0891,Data Analyst,LumenArc Labs,Hyderabad,5,8,13.5,18.5,Statistics;SQL;Power Query;Excel,Mid-size,On-site,2026-09-22
+JMA-0067,Analytics Associate,ApexLoop Solutions,Delhi NCR,1,3,6.5,8.5,Python;SQL;Tableau;Statistics;Excel;Power Query,Mid-size,On-site,2026-09-21
+JMA-1190,Senior Data Analyst,ApexLoop Labs,Mumbai,1,3,7.5,10.5,Power BI;Statistics;Stakeholder Management;Communication;SQL;Machine Learning;ETL,MNC,On-site,2026-09-21
+JMA-0572,Data Analyst,SwiftKite Dataworks,Chennai,1,3,7.0,9.5,Communication;Power BI;Tableau;Excel;Python;Power Query;DAX,Startup,On-site,2026-09-21
+JMA-0521,Data Analyst,IronPeak Analytics,Hyderabad,3,5,10.0,13.5,Statistics;DAX;SQL;Communication;Excel,Startup,Hybrid,2026-09-21
+JMA-0628,Data Analyst,ClearPath Consulting,Pune,1,3,7.0,9.5,Excel;SQL;Stakeholder Management;Communication;Power BI,Mid-size,Remote,2026-09-21
+JMA-0713,MIS Executive,FluxWorks Dataworks,Bengaluru,5,8,18.0,25.0,Power Query;Communication;Excel,MNC,On-site,2026-09-21
+JMA-0570,MIS Executive,KeyStone Consulting,Mumbai,6,8,15.5,21.0,SQL;Power Query;Power BI;Tableau;Stakeholder Management;Excel,Mid-size,Hybrid,2026-09-21
+JMA-0428,Data Analyst,DataVista Labs,Bengaluru,5,7,15.5,20.0,Excel;R;SQL;Power Query,MNC,On-site,2026-09-21
+JMA-0921,Data Analyst,MetricMinds Systems,Mumbai,0,0,4.5,5.5,Statistics;Python;SQL;Data Modeling;Excel;Power BI;R,Startup,On-site,2026-09-21
+JMA-0684,Senior Data Analyst,MoonRidge Systems,Mumbai,3,5,12.5,17.5,Statistics;Power Query;SQL;Python;Excel;Data Modeling;ETL,MNC,Hybrid,2026-09-21
+JMA-0401,Data Analyst,SwiftKite Solutions,Bengaluru,5,7,17.0,21.5,Tableau;SQL;Excel;Statistics,Mid-size,Hybrid,2026-09-21
+JMA-0870,Data Analyst,MoonRidge Insights,Pune,1,3,7.0,9.0,Power BI;Python;SQL;Excel;Tableau,Mid-size,On-site,2026-09-20
+JMA-1057,MIS Executive,SwiftKite Dataworks,Jaipur,3,5,9.0,12.5,Statistics;Python;Excel;Communication;Power Query,Mid-size,On-site,2026-09-20
+JMA-1150,Data Analyst,TrueSignal Labs,Mumbai,3,5,10.0,12.5,Excel;Power Query;Communication;SQL;Stakeholder Management;Tableau;DAX,Mid-size,On-site,2026-09-20
+JMA-0445,Senior Data Analyst,ApexLoop Labs,Hyderabad,6,8,15.5,19.5,SQL;Excel;Data Modeling;Communication;Python,Mid-size,Hybrid,2026-09-20
+JMA-0152,Data Analyst,BrightStack Analytics,Delhi NCR,0,1,4.5,6.0,Power Query;SQL;Excel;Python;Statistics,Mid-size,Hybrid,2026-09-20
+JMA-0838,Business Analyst,BrightStack Labs,Pune,3,5,11.0,14.5,Tableau;Communication;Stakeholder Management;Data Modeling;Power BI;SQL;Excel,Startup,Hybrid,2026-09-20
+JMA-1180,MIS Executive,QuantNest Consulting,Pune,1,3,7.0,8.5,Excel;Power BI;Stakeholder Management;Power Query,Startup,On-site,2026-09-20
+JMA-0851,Data Analyst,BlueOrbit Insights,Delhi NCR,0,0,5.0,6.5,Python;Statistics;SQL;Data Modeling,Mid-size,On-site,2026-09-19
+JMA-0219,MIS Executive,EdgeStone Systems,Chennai,1,3,6.0,8.0,Power BI;ETL;SQL;Excel;Power Query,Mid-size,Hybrid,2026-09-19
+JMA-0516,MIS Executive,DataVista Consulting,Kolkata,1,3,6.0,8.0,Python;SQL;Excel;Statistics,Mid-size,On-site,2026-09-19
+JMA-1076,Data Analyst,DataVista Labs,Bengaluru,0,1,4.5,5.5,Power BI;Statistics;DAX;Tableau;SQL;Excel,MNC,Hybrid,2026-09-19
+JMA-0642,Data Analyst,IronPeak Consulting,Mumbai,3,5,12.5,15.5,Communication;SAS;Python;SQL;Power BI;Excel,MNC,On-site,2026-09-19
+JMA-1032,Data Analyst,BrightStack Insights,Bengaluru,0,1,4.5,6.0,Data Modeling;Tableau;DAX;Statistics;Communication;SQL,Startup,Remote,2026-09-19
+JMA-0249,Data Analyst,EdgeStone Technologies,Bengaluru,3,5,12.0,15.0,Statistics;Power BI;Machine Learning;Data Modeling;SQL,Startup,On-site,2026-09-19
+JMA-0556,Business Analyst,CloudSlate Technologies,Hyderabad,3,5,11.0,14.0,SQL;Stakeholder Management;Excel;Power BI,Startup,On-site,2026-09-19
+JMA-1046,Business Analyst,OpalGrid Labs,Delhi NCR,1,3,7.0,10.0,SQL;Data Modeling;Power BI;R,Startup,On-site,2026-09-19
+JMA-0107,Data Analyst,BlueOrbit Insights,Mumbai,1,3,7.5,9.5,DAX;Power Query;SQL;Statistics;Data Modeling;ETL;Excel,Startup,Hybrid,2026-09-19
+JMA-0499,Business Analyst,KeyStone Labs,Bengaluru,3,5,13.0,16.5,Data Modeling;Machine Learning;Power BI;Stakeholder Management;Communication;Excel;SQL,Mid-size,Hybrid,2026-09-19
+JMA-0156,Data Analyst,PrimeVector Technologies,Delhi NCR,5,10,17.0,21.5,Data Modeling;SQL;Statistics;ETL;Excel;Python;Communication,Mid-size,Remote,2026-09-19
+JMA-0488,Data Analyst,MetricMinds Systems,Chennai,1,3,6.0,8.0,Python;Power BI;Statistics;Power Query;SQL;ETL;DAX,Startup,On-site,2026-09-18
+JMA-0571,Analytics Associate,TrueSignal Technologies,Ahmedabad,5,7,16.0,21.0,Power BI;Communication;Python;Excel;SQL;Statistics;Power Query,Mid-size,On-site,2026-09-18
+JMA-0706,Business Analyst,FluxWorks Consulting,Delhi NCR,0,1,4.0,5.0,Stakeholder Management;Python;SQL;Power BI;ETL;Communication;Excel,Startup,On-site,2026-09-18
+JMA-1101,Data Analyst,MoonRidge Insights,Lucknow,3,5,11.5,14.5,Python;Excel;SQL,MNC,On-site,2026-09-18
+JMA-0091,MIS Executive,BlueOrbit Analytics,Pune,0,0,4.0,5.0,Power BI;Power Query;SQL;SAS;Excel;Communication,Mid-size,On-site,2026-09-18
+JMA-0987,Data Analyst,MetricMinds Dataworks,Ahmedabad,1,3,6.5,8.5,Communication;Python;Power BI;Stakeholder Management;SQL;Excel,MNC,On-site,2026-09-18
+JMA-0898,Senior Data Analyst,ApexLoop Solutions,Bengaluru,1,3,7.0,8.5,Statistics;Python;ETL;Power BI;Machine Learning;Communication;SQL,Startup,Hybrid,2026-09-18
+JMA-0871,MIS Executive,PixelLedger Systems,Mumbai,1,3,7.0,10.0,Stakeholder Management;Excel;Communication,Startup,On-site,2026-09-18
+JMA-0547,Data Analyst,PrimeVector Consulting,Mumbai,0,0,4.5,6.0,Tableau;Python;Data Modeling;Statistics;SQL;Excel;ETL,Mid-size,On-site,2026-09-18
+JMA-0339,Data Analyst,TrueSignal Systems,Mumbai,1,3,6.0,8.0,Communication;Tableau;SQL;Statistics;Power BI;Excel;DAX,Startup,Hybrid,2026-09-18
+JMA-0526,Business Analyst,PrimeVector Analytics,Hyderabad,0,0,5.0,6.5,Power Query;Stakeholder Management;Excel;Statistics;Machine Learning;Communication,MNC,Remote,2026-09-18
+JMA-0957,Analytics Associate,HarborLine Insights,Delhi NCR,3,5,12.5,16.5,Power Query;Communication;Power BI;SQL;Python;Excel;Statistics,Mid-size,Remote,2026-09-18
+JMA-1173,Senior Data Analyst,BrightStack Labs,Kolkata,3,5,11.5,16.0,Excel;Statistics;ETL;SQL;Python;Data Modeling;Power BI,Mid-size,Hybrid,2026-09-18
+JMA-0040,MIS Executive,NorthPeak Solutions,Bengaluru,1,3,7.5,9.0,DAX;Power Query;Excel;SQL;Power BI;R,MNC,Hybrid,2026-09-18
+JMA-0887,MIS Executive,LumenArc Labs,Hyderabad,5,8,16.0,23.0,Communication;Data Modeling;DAX;Power Query;SAS;Excel,Startup,Hybrid,2026-09-18
+JMA-0640,Senior Data Analyst,Crestline Technologies,Pune,3,5,11.0,14.5,Machine Learning;Power BI;Excel;Communication;SQL;Python;Statistics,MNC,Hybrid,2026-09-17
+JMA-0159,Data Analyst,MetricMinds Dataworks,Chennai,1,3,7.0,9.0,SQL;Tableau;Power Query;Power BI;Statistics;Excel;Python,Mid-size,Remote,2026-09-17
+JMA-0455,Business Analyst,QuantNest Insights,Pune,5,10,16.0,20.5,Tableau;SQL;Excel;Stakeholder Management;Data Modeling;Power BI;Communication,MNC,On-site,2026-09-17
+JMA-0810,Data Analyst,ApexLoop Technologies,Chennai,5,9,16.0,21.5,Power Query;Power BI;Python;Excel,Mid-size,Remote,2026-09-17
+JMA-0670,Analytics Associate,LumenArc Labs,Bengaluru,0,0,4.0,4.5,Power Query;Power BI;ETL;Statistics;SQL,Startup,On-site,2026-09-17
+JMA-0410,Data Analyst,MetricMinds Dataworks,Mumbai,3,5,10.0,13.0,Excel;Power Query;Power BI;Tableau;Communication;Statistics;Python,Startup,On-site,2026-09-17
+JMA-1093,Data Analyst,DeepCurrent Systems,Bengaluru,0,1,4.5,6.0,Power Query;Power BI;Python,Mid-size,Remote,2026-09-17
+JMA-0616,Data Analyst,ClearPath Consulting,Bengaluru,1,3,8.0,10.0,Excel;Python;SQL;Statistics;Power Query,Startup,On-site,2026-09-17
+JMA-0206,Business Analyst,QuantNest Solutions,Kolkata,6,7,13.0,18.5,Statistics;Power BI;SQL;Communication;Tableau;Excel,Startup,On-site,2026-09-17
+JMA-0075,Data Analyst,BlueOrbit Analytics,Bengaluru,3,5,10.0,13.0,SQL;Power BI;Power Query;Tableau;Communication;Statistics;Excel,MNC,On-site,2026-09-17
+JMA-0637,Analytics Associate,NimbusWorks Technologies,Bengaluru,3,5,12.5,15.5,Excel;Tableau;Communication;Statistics;SQL,MNC,On-site,2026-09-17
+JMA-1154,Data Analyst,Crestline Labs,Bengaluru,3,5,9.5,13.0,SQL;Excel;Communication;R;Statistics;Power BI,Mid-size,On-site,2026-09-17
+JMA-0413,Business Analyst,NorthPeak Technologies,Hyderabad,3,5,10.0,14.0,DAX;Excel;Stakeholder Management;Communication;Statistics;SAS;SQL,Mid-size,On-site,2026-09-17
+JMA-0858,Data Analyst,IronPeak Insights,Bengaluru,3,5,9.0,13.0,SQL;Power Query;Excel;DAX;Power BI,Mid-size,On-site,2026-09-17
+JMA-0576,Data Analyst,BrightStack Consulting,Mumbai,3,5,13.0,18.0,Machine Learning;Power BI;DAX;Python;Data Modeling;Excel;SQL,MNC,Remote,2026-09-17
+JMA-0519,MIS Executive,BrightStack Dataworks,Hyderabad,3,5,9.5,13.0,Power BI;SQL;Excel,Startup,On-site,2026-09-17
+JMA-0985,Business Analyst,EdgeStone Analytics,Bengaluru,5,9,18.0,22.5,Python;Communication;SQL;Excel;Data Modeling;Stakeholder Management;Tableau,MNC,Hybrid,2026-09-17
+JMA-0689,Data Analyst,FluxWorks Labs,Mumbai,3,5,11.0,14.5,Statistics;SQL;DAX;Excel;Communication;Python;Power BI,Mid-size,Hybrid,2026-09-17
+JMA-0253,Senior Data Analyst,Crestline Technologies,Chennai,0,1,4.5,5.5,Statistics;Python;Stakeholder Management;DAX;Communication;R;SQL,Mid-size,Remote,2026-09-17
+JMA-0166,Analytics Associate,BrightStack Systems,Delhi NCR,0,0,4.5,6.0,Excel;Stakeholder Management;Power BI;Tableau;SQL;Statistics;Python,MNC,On-site,2026-09-17
+JMA-0241,Data Analyst,JetStream Solutions,Hyderabad,0,1,4.5,6.0,Excel;SQL;Tableau;Statistics;Power BI,MNC,Remote,2026-09-17
+JMA-0301,Data Analyst,NorthPeak Systems,Bengaluru,1,3,7.0,9.0,Tableau;SQL;R;Python;Statistics;Power BI,Mid-size,On-site,2026-09-17
+JMA-0244,Data Analyst,EdgeStone Labs,Mumbai,0,1,4.0,5.0,Excel;R;Power BI;SQL,Mid-size,On-site,2026-09-17
+JMA-1006,Analytics Associate,BlueOrbit Labs,Bengaluru,0,0,4.0,5.0,Excel;R;SQL,MNC,Hybrid,2026-09-16
+JMA-0126,Data Analyst,KeyStone Dataworks,Chennai,3,5,10.0,13.5,Python;Excel;DAX;Statistics;Stakeholder Management;SQL,Mid-size,On-site,2026-09-16
+JMA-0113,Data Analyst,LumenArc Technologies,Mumbai,1,3,7.0,9.0,Tableau;DAX;Python;Excel;SQL;Power BI,Mid-size,Hybrid,2026-09-16
+JMA-0832,Data Analyst,IronPeak Analytics,Mumbai,0,1,4.5,6.0,Tableau;SQL;Excel;ETL,Startup,Hybrid,2026-09-16
+JMA-0118,Data Analyst,LumenArc Systems,Pune,3,5,10.0,13.5,Statistics;SQL;Data Modeling;Power BI;Communication;Excel;Tableau,Mid-size,Hybrid,2026-09-16
+JMA-1100,Data Analyst,ZenithWorks Labs,Chennai,3,5,11.5,15.0,Excel;Power BI;DAX;Python;Communication;Statistics;SQL,MNC,On-site,2026-09-16
+JMA-0267,MIS Executive,BrightStack Consulting,Chennai,1,3,7.5,10.0,SQL;Excel;Power Query;DAX;Communication,Mid-size,Hybrid,2026-09-16
+JMA-1129,Data Analyst,MoonRidge Insights,Chennai,1,3,7.0,9.5,Excel;Power BI;SQL;DAX;Communication;Python;Statistics,Mid-size,On-site,2026-09-16
+JMA-0836,Data Analyst,NorthPeak Consulting,Delhi NCR,3,5,10.5,14.5,SQL;Excel;Communication;Statistics,MNC,On-site,2026-09-16
+JMA-0310,Data Analyst,SwiftKite Solutions,Mumbai,6,9,17.5,24.0,Python;Excel;SQL;Tableau,Mid-size,Remote,2026-09-16
+JMA-0390,MIS Executive,ClearPath Insights,Pune,3,5,11.0,14.5,Communication;DAX;Excel;SQL;Power BI,Mid-size,On-site,2026-09-16
+JMA-0402,Analytics Associate,GoldRidge Labs,Mumbai,6,10,17.0,22.5,DAX;Python;Excel;SQL,Mid-size,On-site,2026-09-16
+JMA-0466,Business Analyst,NorthPeak Solutions,Mumbai,1,3,7.0,9.5,Python;Excel;Communication;Power Query;DAX,MNC,On-site,2026-09-16
+JMA-0583,Business Analyst,DataVista Labs,Mumbai,1,3,6.5,9.0,Communication;DAX;ETL;Excel;SQL;Stakeholder Management;Power Query,MNC,On-site,2026-09-16
+JMA-0417,Data Analyst,KeyStone Labs,Kolkata,0,1,4.0,5.0,SQL;Excel;Communication;Statistics,MNC,On-site,2026-09-16
+JMA-0436,Data Analyst,CloudSlate Dataworks,Kolkata,1,3,6.5,8.0,ETL;SQL;Power BI;Excel,Mid-size,Hybrid,2026-09-16
+JMA-0116,Analytics Associate,IronPeak Consulting,Delhi NCR,1,3,7.0,9.5,ETL;Communication;Tableau;SQL;Excel,Startup,Hybrid,2026-09-15
+JMA-1152,Data Analyst,SwiftKite Analytics,Delhi NCR,1,3,7.0,9.0,SQL;Power BI;Statistics;ETL;DAX;Excel;Communication,Mid-size,On-site,2026-09-15
+JMA-0595,Analytics Associate,PixelLedger Analytics,Jaipur,1,3,6.0,8.5,Data Modeling;Communication;Tableau;Excel;Statistics;Python;SQL,Mid-size,On-site,2026-09-15
+JMA-0524,Data Analyst,CloudSlate Dataworks,Bengaluru,1,3,7.0,9.0,Power Query;SAS;Python;Excel;Communication;SQL;Data Modeling,Startup,Hybrid,2026-09-15
+JMA-0794,Business Analyst,MetricMinds Systems,Mumbai,3,5,13.0,17.0,Excel;Machine Learning;Stakeholder Management;Data Modeling;Tableau;Communication,MNC,Hybrid,2026-09-15
+JMA-0215,Data Analyst,NimbusWorks Insights,Hyderabad,1,3,7.0,9.0,SQL;Statistics;DAX;Tableau;Python;Excel;Power BI,Mid-size,Hybrid,2026-09-15
+JMA-0671,Data Analyst,GoldRidge Labs,Bengaluru,3,5,11.0,14.5,SQL;Communication;Power Query;Power BI;Tableau;Python;Excel,MNC,Hybrid,2026-09-15
+JMA-0254,MIS Executive,SwiftKite Analytics,Bengaluru,1,3,7.5,10.0,SQL;Communication;Excel;Stakeholder Management,Startup,On-site,2026-09-15
+JMA-1075,Business Analyst,PrimeVector Technologies,Jaipur,0,0,3.5,5.0,Data Modeling;Power Query;Excel;SQL;Statistics;Power BI;Communication,Mid-size,Hybrid,2026-09-15
+JMA-0843,Senior Data Analyst,LumenArc Insights,Mumbai,0,1,4.0,5.5,Excel;Statistics;SQL;ETL;Tableau;Python,MNC,Hybrid,2026-09-15
+JMA-0953,MIS Executive,OpalGrid Dataworks,Bengaluru,3,5,12.0,15.5,Stakeholder Management;Excel;SQL;Communication,MNC,On-site,2026-09-15
+JMA-0634,Data Analyst,BrightStack Analytics,Ahmedabad,0,0,4.0,5.0,Data Modeling;SQL;Excel;Tableau;Stakeholder Management;Communication,MNC,Hybrid,2026-09-15
+JMA-0078,Analytics Associate,KeyStone Consulting,Mumbai,6,8,18.5,23.5,ETL;Power BI;Statistics;Stakeholder Management;Excel;SQL;Data Modeling,Mid-size,Hybrid,2026-09-15
+JMA-0776,Senior Data Analyst,ClearPath Consulting,Pune,0,0,5.0,6.5,Statistics;Communication;SQL;Machine Learning;Data Modeling;Python;Excel,Startup,Hybrid,2026-09-15
+JMA-0032,Business Analyst,PrimeVector Labs,Hyderabad,6,8,17.5,23.0,Statistics;Python;Excel;Stakeholder Management;SQL;Communication;Power BI,Mid-size,Hybrid,2026-09-14
+JMA-0973,Data Analyst,PixelLedger Systems,Delhi NCR,5,7,18.0,24.0,Stakeholder Management;Statistics;Data Modeling;Excel;Power BI;SQL,MNC,Hybrid,2026-09-14
+JMA-0097,Analytics Associate,ApexLoop Insights,Jaipur,0,0,4.5,6.0,Python;Data Modeling;Excel;SQL;Power Query;DAX;Machine Learning,Startup,Remote,2026-09-14
+JMA-0947,Data Analyst,EdgeStone Systems,Mumbai,0,0,4.5,5.5,Communication;Statistics;Excel;Tableau,Startup,Hybrid,2026-09-14
+JMA-1079,Senior Data Analyst,IronPeak Insights,Delhi NCR,6,10,15.5,20.5,Tableau;Data Modeling;SQL;Excel;DAX;Communication;ETL,MNC,Remote,2026-09-14
+JMA-0018,Data Analyst,KeyStone Consulting,Bengaluru,1,3,8.0,11.0,Python;Statistics;Communication;SQL;Excel,Mid-size,On-site,2026-09-14
+JMA-1015,Data Analyst,LumenArc Technologies,Mumbai,1,3,7.0,9.5,Data Modeling;Excel;Communication;SQL;DAX,MNC,On-site,2026-09-14
+JMA-0315,Data Analyst,BlueOrbit Labs,Lucknow,0,0,3.5,4.5,Data Modeling;Machine Learning;Statistics;Excel,Startup,On-site,2026-09-14
+JMA-0276,Data Analyst,LumenArc Solutions,Pune,6,7,16.5,22.5,Power BI;SQL;ETL;Data Modeling;SAS;Excel;Power Query,MNC,On-site,2026-09-14
+JMA-0841,Business Analyst,NimbusWorks Technologies,Hyderabad,3,5,10.5,14.5,Excel;Communication;Data Modeling;Stakeholder Management;Statistics;Power Query;SQL,MNC,On-site,2026-09-14
+JMA-1039,MIS Executive,NorthPeak Consulting,Pune,3,5,10.5,13.5,Communication;Power BI;SQL;Excel;Stakeholder Management;Power Query,MNC,Remote,2026-09-14
+JMA-0874,Business Analyst,CloudSlate Technologies,Hyderabad,1,3,6.5,8.5,Power Query;SQL;Python;Communication;SAS;Excel;Stakeholder Management,MNC,Hybrid,2026-09-14
+JMA-1007,Data Analyst,CloudSlate Systems,Delhi NCR,3,5,12.0,15.0,SQL;Tableau;Statistics;Communication;Excel,Mid-size,Remote,2026-09-14
+JMA-0013,Data Analyst,PineCrest Solutions,Bengaluru,1,3,7.0,9.5,SQL;Communication;ETL,Mid-size,Hybrid,2026-09-14
+JMA-1131,Business Analyst,QuantNest Insights,Bengaluru,1,3,7.5,10.0,SQL;Excel;Stakeholder Management,Mid-size,On-site,2026-09-14
+JMA-0917,Business Analyst,GoldRidge Labs,Mumbai,1,3,7.0,9.5,Excel;Power Query;SQL;Tableau;Statistics;Communication;Data Modeling,Startup,On-site,2026-09-13
+JMA-0596,Data Analyst,ClearPath Insights,Mumbai,0,1,4.0,5.0,DAX;SQL;Communication;Python;Excel,Mid-size,On-site,2026-09-13
+JMA-0962,Data Analyst,DataVista Technologies,Mumbai,6,9,17.0,22.5,SQL;Python;Communication,Mid-size,Hybrid,2026-09-13
+JMA-0538,Business Analyst,ClearPath Insights,Chennai,3,5,12.5,16.5,Data Modeling;Statistics;SQL;Power BI;Communication;Stakeholder Management;Excel,MNC,On-site,2026-09-13
+JMA-0527,MIS Executive,ApexLoop Labs,Bengaluru,0,0,4.5,6.0,Excel;Power BI;DAX;Power Query;SQL,Startup,On-site,2026-09-13
+JMA-0020,Data Analyst,BlueOrbit Technologies,Hyderabad,3,5,11.0,15.0,Communication;Excel;SAS;SQL;Data Modeling;ETL;DAX,Mid-size,On-site,2026-09-13
+JMA-1120,Senior Data Analyst,HarborLine Systems,Mumbai,5,9,17.5,22.5,Python;Statistics;Communication;SQL;Data Modeling;Machine Learning;Excel,MNC,On-site,2026-09-13
+JMA-0239,Business Analyst,PineCrest Labs,Ahmedabad,0,1,3.5,4.5,Excel;Stakeholder Management;Power BI;SQL;Communication,Startup,Hybrid,2026-09-13
+JMA-0194,Data Analyst,GoldRidge Consulting,Delhi NCR,5,9,15.0,19.5,Statistics;SQL;SAS;DAX;Tableau;Power Query;Excel,Mid-size,Hybrid,2026-09-13
+JMA-0011,Business Analyst,GoldRidge Technologies,Lucknow,0,1,4.0,5.0,Stakeholder Management;Excel;Power Query;Communication,Mid-size,Remote,2026-09-13
+JMA-0225,Business Analyst,MetricMinds Technologies,Mumbai,1,3,7.5,9.5,Communication;SQL;Python;Stakeholder Management;Excel;Data Modeling,Mid-size,Hybrid,2026-09-13
+JMA-0248,Data Analyst,HarborLine Dataworks,Hyderabad,0,0,4.5,5.5,DAX;Power BI;Python;Communication;Excel;Power Query,Mid-size,On-site,2026-09-13
+JMA-0232,Data Analyst,IronPeak Analytics,Delhi NCR,1,3,7.5,10.0,Power BI;Communication;Excel;Python;Tableau;SQL,Startup,Hybrid,2026-09-13
+JMA-0385,Data Analyst,KeyStone Consulting,Bengaluru,1,3,7.0,10.0,Excel;Tableau;Power BI;Python;SAS;SQL,MNC,Remote,2026-09-13
+JMA-0030,MIS Executive,LumenArc Systems,Chennai,3,5,9.5,12.5,Excel;DAX;Communication;Power Query,MNC,Hybrid,2026-09-12
+JMA-0893,Business Analyst,FluxWorks Solutions,Hyderabad,5,8,16.0,22.0,Power BI;DAX;Stakeholder Management;Excel;Data Modeling;SQL,Mid-size,Hybrid,2026-09-12
+JMA-0221,Analytics Associate,EdgeStone Consulting,Delhi NCR,3,5,9.5,13.5,Excel;SQL;Stakeholder Management;Communication;Statistics;Tableau,MNC,On-site,2026-09-12
+JMA-0308,Data Analyst,BrightStack Dataworks,Bengaluru,3,5,11.0,15.5,R;Power BI;Tableau;Excel,Startup,Remote,2026-09-12
+JMA-0124,Data Analyst,ApexLoop Labs,Bengaluru,1,3,7.0,10.0,Data Modeling;Machine Learning;Power Query;SQL,Mid-size,On-site,2026-09-12
+JMA-0873,Senior Data Analyst,SwiftKite Analytics,Delhi NCR,6,10,17.0,22.5,Python;Communication;Excel;Machine Learning;ETL;Data Modeling;SQL,Startup,On-site,2026-09-12
+JMA-0604,MIS Executive,NovaGrid Consulting,Chennai,3,5,10.5,14.0,Power BI;Communication;SQL;Excel;Power Query,Mid-size,Hybrid,2026-09-12
+JMA-0864,Data Analyst,BrightStack Consulting,Delhi NCR,3,5,11.0,15.5,Power Query;DAX;Excel;SQL;Data Modeling;Communication;Tableau,MNC,On-site,2026-09-12
+JMA-0255,Data Analyst,SwiftKite Analytics,Bengaluru,3,5,12.0,16.5,DAX;SAS;SQL;Excel;Python,Mid-size,On-site,2026-09-12
+JMA-0404,Data Analyst,TrueSignal Consulting,Delhi NCR,3,5,11.0,15.5,Statistics;Tableau;DAX;Excel;Power Query,Startup,On-site,2026-09-11
+JMA-0998,Data Analyst,InsightForge Solutions,Hyderabad,1,3,7.5,10.0,Power BI;SQL;Python;Statistics,Mid-size,Hybrid,2026-09-11
+JMA-0192,MIS Executive,OpalGrid Systems,Kolkata,0,1,4.0,5.5,SQL;SAS;Communication;Python,Mid-size,Remote,2026-09-11
+JMA-1192,Senior Data Analyst,OpalGrid Labs,Jaipur,0,0,4.5,6.0,Statistics;Python;Communication;Excel;Power BI;SQL;Data Modeling,MNC,On-site,2026-09-11
+JMA-0890,Business Analyst,BlueOrbit Insights,Bengaluru,5,10,15.0,20.5,SQL;Data Modeling;Statistics;Communication;Excel;Power Query;Stakeholder Management,Mid-size,Hybrid,2026-09-11
+JMA-1044,Analytics Associate,NovaGrid Consulting,Hyderabad,1,3,6.0,8.5,Power BI;SQL;Python;Communication;Statistics;ETL;Excel,Startup,On-site,2026-09-11
+JMA-0869,Data Analyst,ApexLoop Technologies,Chennai,3,5,10.5,13.5,Excel;Tableau;SQL;Power Query;Power BI;Statistics;Data Modeling,Mid-size,On-site,2026-09-11
+JMA-0805,MIS Executive,ClearPath Consulting,Delhi NCR,0,1,3.5,5.0,SQL;Communication;DAX;Excel,Startup,Hybrid,2026-09-11
+JMA-0881,MIS Executive,OpalGrid Technologies,Delhi NCR,1,3,6.5,9.0,Power BI;Communication;Power Query;SQL;Excel,Startup,On-site,2026-09-11
+JMA-0528,Data Analyst,ZenithWorks Labs,Pune,1,3,8.0,10.5,DAX;Communication;Python;Power BI;SQL;Stakeholder Management;Excel,Mid-size,Hybrid,2026-09-11
+JMA-0420,Data Analyst,NimbusWorks Analytics,Hyderabad,3,5,11.0,15.0,Power BI;Statistics;Excel;Python;SQL,Mid-size,On-site,2026-09-11
+JMA-0355,Data Analyst,EdgeStone Consulting,Hyderabad,3,5,10.5,14.5,Power Query;Communication;SQL;Tableau;Python;Statistics;Excel,MNC,Hybrid,2026-09-11
+JMA-0930,Data Analyst,NovaGrid Consulting,Bengaluru,1,3,7.5,10.5,SQL;Tableau;Power BI;Excel;Statistics;Python;Communication,Startup,On-site,2026-09-11
+JMA-1052,MIS Executive,PrimeVector Consulting,Mumbai,1,3,7.0,9.5,Python;SQL;Excel;Communication,MNC,On-site,2026-09-10
+JMA-1181,Business Analyst,MetricMinds Dataworks,Mumbai,0,1,4.0,5.0,Power BI;Stakeholder Management;Power Query;Communication;SQL,MNC,On-site,2026-09-10
+JMA-0567,MIS Executive,MoonRidge Systems,Mumbai,5,10,14.5,18.5,Excel;Power Query;SQL;R;Stakeholder Management,Mid-size,On-site,2026-09-10
+JMA-1178,Senior Data Analyst,ApexLoop Labs,Bengaluru,1,3,8.0,10.0,SQL;Tableau;Statistics;Data Modeling;Excel;Power BI;ETL,Mid-size,On-site,2026-09-10
+JMA-1081,Data Analyst,PineCrest Dataworks,Bengaluru,3,5,11.5,15.5,SQL;Python;Excel;Power Query;Data Modeling;Power BI;Tableau,Startup,Hybrid,2026-09-10
+JMA-0468,Data Analyst,CloudSlate Technologies,Bengaluru,0,1,4.0,5.5,SQL;Data Modeling;Power BI;Communication;Statistics;Excel,MNC,On-site,2026-09-10
+JMA-0829,Data Analyst,DataVista Dataworks,Pune,5,8,16.5,21.5,Power Query;Python;Communication;Excel;SQL;Data Modeling;Power BI,Startup,On-site,2026-09-10
+JMA-0980,Data Analyst,QuantNest Solutions,Pune,3,5,10.5,14.5,Statistics;Communication;Python;Power Query;Excel;Power BI;SQL,Startup,Hybrid,2026-09-10
+JMA-0342,Data Analyst,EdgeStone Consulting,Pune,0,1,4.0,5.5,Statistics;DAX;Python;Excel;Power Query;SQL;Communication,Mid-size,Hybrid,2026-09-10
+JMA-0281,Data Analyst,BrightStack Dataworks,Delhi NCR,1,3,8.0,10.0,DAX;Tableau;SQL;Python;ETL;Statistics;Excel,Mid-size,On-site,2026-09-10
+JMA-0162,Data Analyst,SwiftKite Dataworks,Hyderabad,3,5,12.5,16.0,Power Query;Communication;Data Modeling;Excel;Python;ETL;SQL,MNC,On-site,2026-09-10
+JMA-0882,MIS Executive,IronPeak Consulting,Lucknow,6,7,12.0,16.0,SQL;DAX;Stakeholder Management;Excel;Tableau,Startup,Hybrid,2026-09-10
+JMA-1186,Data Analyst,GoldRidge Labs,Bengaluru,0,0,4.0,5.5,Power BI;Excel;ETL;Statistics;SQL;Stakeholder Management;Tableau,Startup,On-site,2026-09-10
+JMA-1112,Data Analyst,MoonRidge Technologies,Mumbai,1,3,6.5,8.5,Tableau;SQL;Power Query;Excel;Statistics;Python,Mid-size,Remote,2026-09-10
+JMA-0441,Senior Data Analyst,NorthPeak Technologies,Mumbai,6,9,15.5,20.5,Communication;Statistics;Data Modeling;SQL;Power Query;Python;ETL,Startup,Hybrid,2026-09-10
+JMA-0849,Data Analyst,ApexLoop Systems,Delhi NCR,1,3,6.5,8.5,Power BI;Power Query;Statistics;SQL;Python;Tableau;Excel,Mid-size,On-site,2026-09-09
+JMA-0676,Senior Data Analyst,FluxWorks Solutions,Mumbai,0,1,5.5,7.0,Excel;Python;SQL;Power BI;Machine Learning;Stakeholder Management,MNC,On-site,2026-09-09
+JMA-0057,Data Analyst,GoldRidge Technologies,Hyderabad,3,5,12.0,17.0,DAX;SQL;Data Modeling;Excel;Machine Learning;Statistics,Mid-size,Hybrid,2026-09-09
+JMA-0439,Data Analyst,PixelLedger Analytics,Pune,1,3,7.5,10.5,Excel;Machine Learning;Power BI;SQL;Data Modeling;Communication;Power Query,Mid-size,Hybrid,2026-09-09
+JMA-0392,Data Analyst,FluxWorks Analytics,Delhi NCR,0,1,4.0,5.0,Statistics;Communication;Tableau;SQL;Excel;Power BI,Startup,Hybrid,2026-09-09
+JMA-0393,MIS Executive,DataVista Systems,Pune,3,5,9.5,13.0,Stakeholder Management;Excel;Power BI;Power Query;SQL;Communication,Mid-size,Remote,2026-09-09
+JMA-1085,Senior Data Analyst,ZenithWorks Labs,Chennai,0,0,4.5,6.0,Communication;Statistics;Power BI;Python;Data Modeling;SQL;Excel,Mid-size,On-site,2026-09-09
+JMA-1047,Data Analyst,DataVista Systems,Bengaluru,1,3,6.5,8.5,SAS;Excel;Power BI;Statistics;SQL,Mid-size,On-site,2026-09-09
+JMA-0886,Business Analyst,MoonRidge Systems,Mumbai,0,0,4.0,5.5,Communication;Power Query;Stakeholder Management;Excel;Data Modeling;Statistics,Mid-size,On-site,2026-09-09
+JMA-0837,Data Analyst,SwiftKite Labs,Bengaluru,3,5,12.0,16.5,Power Query;Python;SQL,Mid-size,On-site,2026-09-09
+JMA-0705,Data Analyst,PixelLedger Analytics,Bengaluru,3,5,11.0,15.5,SQL;ETL;Statistics;Power BI;Python;Excel,Mid-size,Hybrid,2026-09-09
+JMA-0080,Data Analyst,CloudSlate Dataworks,Pune,3,5,10.5,14.5,SQL;DAX;Excel;Stakeholder Management;Statistics;Python,MNC,On-site,2026-09-09
+JMA-0958,Data Analyst,PrimeVector Consulting,Chennai,3,5,10.0,13.5,Statistics;DAX;ETL;Excel;SQL,Mid-size,On-site,2026-09-09
+JMA-0160,Data Analyst,GoldRidge Labs,Delhi NCR,3,5,9.5,12.5,SQL;Tableau;Statistics;Excel,Startup,On-site,2026-09-08
+JMA-0174,Data Analyst,PixelLedger Analytics,Mumbai,6,7,18.0,23.0,Stakeholder Management;SQL;Power BI;Excel;Power Query;Data Modeling,MNC,On-site,2026-09-08
+JMA-0597,Data Analyst,InsightForge Solutions,Bengaluru,3,5,10.5,14.5,Power Query;SQL;Tableau;Python;Communication;Power BI;Excel,Mid-size,Hybrid,2026-09-08
+JMA-0016,MIS Executive,ApexLoop Technologies,Bengaluru,3,5,12.0,15.0,Power Query;Excel;SQL,MNC,Remote,2026-09-08
+JMA-0662,Business Analyst,FluxWorks Labs,Chennai,0,0,5.0,6.5,SQL;Python;Power Query;Stakeholder Management;Data Modeling;Excel;Communication,MNC,Hybrid,2026-09-08
+JMA-0211,Data Analyst,DeepCurrent Systems,Delhi NCR,3,5,12.5,17.0,SQL;Stakeholder Management;R;Machine Learning;Power Query;Excel,MNC,Hybrid,2026-09-08
+JMA-0252,Data Analyst,LumenArc Insights,Delhi NCR,0,0,4.5,6.0,Excel;Stakeholder Management;Python;DAX;SQL,MNC,On-site,2026-09-08
+JMA-0842,Senior Data Analyst,BrightStack Insights,Jaipur,1,3,7.0,10.0,Communication;Machine Learning;Python;Data Modeling;Statistics;SQL;Excel,Mid-size,Hybrid,2026-09-08
+JMA-0853,Analytics Associate,ApexLoop Labs,Delhi NCR,3,5,11.0,14.0,Communication;Stakeholder Management;Python;SQL;Excel,Startup,On-site,2026-09-08
+JMA-0108,MIS Executive,ClearPath Systems,Bengaluru,1,3,7.5,9.5,Stakeholder Management;SQL;DAX;Power Query;Communication;Excel;SAS,Mid-size,Hybrid,2026-09-08
+JMA-1024,Data Analyst,ApexLoop Insights,Kolkata,3,5,9.0,12.5,Excel;Power BI;Communication;Python;SQL;DAX;Statistics,Mid-size,Hybrid,2026-09-08
+JMA-0555,Data Analyst,ClearPath Insights,Kolkata,1,3,7.5,9.0,Python;Power BI;Statistics;SQL,Mid-size,On-site,2026-09-08
+JMA-0185,Senior Data Analyst,TrueSignal Technologies,Pune,1,3,7.0,8.5,Statistics;Machine Learning;SQL;ETL;Excel;Communication;Data Modeling,Startup,On-site,2026-09-08
+JMA-0405,MIS Executive,NovaGrid Systems,Mumbai,1,3,7.0,8.5,Excel;Communication;Power Query;Statistics;DAX,Startup,On-site,2026-09-08
+JMA-0349,Data Analyst,BlueOrbit Consulting,Delhi NCR,0,1,4.5,6.0,Excel;Python;Stakeholder Management,MNC,On-site,2026-09-08
+JMA-0027,Data Analyst,PixelLedger Analytics,Mumbai,1,3,7.5,10.5,Stakeholder Management;DAX;Excel;Power Query;Power BI,Mid-size,On-site,2026-09-08
+JMA-0802,Analytics Associate,LumenArc Labs,Bengaluru,3,5,10.5,13.5,Data Modeling;Statistics;SQL;Excel;Communication,Mid-size,On-site,2026-09-08
+JMA-0290,Data Analyst,SwiftKite Analytics,Bengaluru,1,3,8.0,10.0,Excel;Communication;Statistics;Python;Power BI;Tableau;SQL,MNC,Hybrid,2026-09-07
+JMA-1130,Data Analyst,QuantNest Insights,Delhi NCR,1,3,7.5,9.5,Power BI;Power Query;Python;Excel;Communication;Statistics;SQL,MNC,On-site,2026-09-07
+JMA-1109,Business Analyst,LumenArc Insights,Delhi NCR,3,5,11.0,14.5,Communication;Excel;Power BI;Tableau;Stakeholder Management,Startup,Remote,2026-09-07
+JMA-0804,Data Analyst,MetricMinds Consulting,Hyderabad,0,0,3.5,5.0,R;SQL;Excel;Python,Mid-size,On-site,2026-09-07
+JMA-0984,Business Analyst,ApexLoop Technologies,Jaipur,3,5,9.0,11.5,Statistics;Communication;Stakeholder Management;Tableau;Power Query;Excel;SQL,Mid-size,On-site,2026-09-07
+JMA-0685,Data Analyst,NovaGrid Systems,Delhi NCR,1,3,7.0,9.0,Data Modeling;Excel;Tableau;SQL;Power BI;Communication,MNC,Hybrid,2026-09-07
+JMA-0991,Business Analyst,LumenArc Technologies,Delhi NCR,3,5,9.5,13.0,SQL;DAX;Power BI;Communication;Stakeholder Management,Mid-size,Hybrid,2026-09-07
+JMA-1022,Analytics Associate,OpalGrid Consulting,Mumbai,1,3,8.0,10.0,Power BI;Tableau;SQL;Statistics;Power Query;Communication;Python,MNC,Hybrid,2026-09-07
+JMA-0536,Data Analyst,QuantNest Consulting,Delhi NCR,3,5,11.5,14.5,Machine Learning;Statistics;ETL;Power Query;SQL,MNC,On-site,2026-09-07
+JMA-0736,Business Analyst,CloudSlate Technologies,Kolkata,3,5,11.0,15.5,SQL;Data Modeling;Communication;Stakeholder Management;Power Query;Python;Excel,MNC,On-site,2026-09-07
+JMA-0065,Data Analyst,CloudSlate Systems,Chennai,0,1,4.0,5.5,Excel;Statistics;Python;Data Modeling;SQL,MNC,On-site,2026-09-07
+JMA-0664,Senior Data Analyst,EdgeStone Labs,Mumbai,3,5,11.5,15.5,Excel;Python;Machine Learning;Statistics;Communication;ETL;SQL,MNC,On-site,2026-09-07
+JMA-0772,Data Analyst,PineCrest Labs,Chennai,1,3,7.0,9.0,DAX;Power Query;Power BI;Excel;SQL;Tableau,Mid-size,Hybrid,2026-09-07
+JMA-0022,Senior Data Analyst,DataVista Technologies,Pune,1,3,6.5,9.0,Power Query;Tableau;Python;Stakeholder Management;SQL;Data Modeling,Mid-size,On-site,2026-09-07
+JMA-0111,Data Analyst,IronPeak Analytics,Pune,3,5,12.0,16.0,Python;Power BI;Stakeholder Management;Statistics;Excel;SQL,MNC,On-site,2026-09-06
+JMA-0459,Data Analyst,PrimeVector Insights,Jaipur,0,1,3.5,4.5,Power BI;Data Modeling;DAX;ETL;Power Query;SQL,Startup,Remote,2026-09-06
+JMA-0974,Data Analyst,DataVista Consulting,Mumbai,1,3,7.0,9.0,SQL;Power BI;Tableau;Excel,Mid-size,Remote,2026-09-06
+JMA-0697,Data Analyst,HarborLine Dataworks,Kolkata,1,3,6.0,8.5,Communication;Power BI;Excel;ETL;Tableau;Statistics;Python,Mid-size,Hybrid,2026-09-06
+JMA-0306,Senior Data Analyst,ZenithWorks Labs,Delhi NCR,3,5,10.0,13.5,SQL;Power BI;Python;Communication;Statistics;Excel;Machine Learning,Startup,On-site,2026-09-06
+JMA-1036,Data Analyst,NovaGrid Consulting,Hyderabad,1,3,7.0,9.5,Power Query;Excel;Communication;DAX;SQL,Mid-size,On-site,2026-09-06
+JMA-0844,Data Analyst,LumenArc Insights,Pune,6,7,18.0,23.5,Excel;Python;SQL;ETL;Communication,Mid-size,On-site,2026-09-06
+JMA-0203,Business Analyst,ApexLoop Insights,Mumbai,1,3,7.5,10.0,Communication;Excel;SQL;Data Modeling;Python;Stakeholder Management,MNC,On-site,2026-09-06
+JMA-1030,Analytics Associate,HarborLine Solutions,Jaipur,3,5,10.5,14.0,Stakeholder Management;SQL;Excel;Data Modeling;Communication,MNC,Hybrid,2026-09-06
+JMA-0085,Data Analyst,ApexLoop Labs,Pune,3,5,10.0,13.5,SAS;Excel;Power BI;Python;Communication;SQL,MNC,On-site,2026-09-06
+JMA-0688,Data Analyst,CloudSlate Solutions,Hyderabad,1,3,6.0,8.5,Power BI;ETL;Stakeholder Management;Communication;SQL;Excel,Startup,Hybrid,2026-09-05
+JMA-0690,Data Analyst,SwiftKite Solutions,Mumbai,1,3,7.0,9.0,Stakeholder Management;Excel;Communication;SQL;Statistics;Data Modeling;Power BI,Mid-size,On-site,2026-09-05
+JMA-0063,Data Analyst,HarborLine Systems,Jaipur,1,3,6.0,8.0,Power BI;Stakeholder Management;Excel;SQL,MNC,Hybrid,2026-09-05
+JMA-0426,Data Analyst,ApexLoop Labs,Kolkata,1,3,6.0,8.0,Tableau;Power BI;Statistics;Python;Communication;Excel;SQL,Mid-size,On-site,2026-09-05
+JMA-0978,Data Analyst,BlueOrbit Analytics,Hyderabad,1,3,7.5,11.0,Communication;Excel;Python;SQL,Mid-size,On-site,2026-09-05
+JMA-0875,MIS Executive,PineCrest Solutions,Jaipur,3,5,10.5,13.5,Excel;Stakeholder Management;Statistics;Power Query;Power BI;Communication,MNC,On-site,2026-09-05
+JMA-0391,Data Analyst,BrightStack Insights,Bengaluru,3,5,11.0,14.5,Excel;Power Query;Communication;SQL;Tableau,Startup,On-site,2026-09-05
+JMA-0106,Senior Data Analyst,ClearPath Analytics,Mumbai,0,0,4.5,6.0,SQL;Python;Data Modeling;Power BI;Excel;Communication;Statistics,Mid-size,On-site,2026-09-05
+JMA-0264,MIS Executive,SwiftKite Labs,Bengaluru,0,0,4.0,5.0,SQL;Excel;Communication;Tableau,Startup,On-site,2026-09-05
+JMA-0816,Business Analyst,ClearPath Systems,Pune,3,5,11.5,15.0,SAS;Communication;Excel;Stakeholder Management;Power BI,MNC,On-site,2026-09-05
+JMA-0383,Senior Data Analyst,MetricMinds Systems,Jaipur,1,3,6.0,8.5,Data Modeling;Excel;Machine Learning;Statistics;Python;SQL;Power BI,Mid-size,On-site,2026-09-05
+JMA-0266,Data Analyst,LumenArc Labs,Hyderabad,1,3,7.0,10.0,Python;DAX;Communication;Excel;Power BI;SQL,Startup,Remote,2026-09-05
+JMA-0142,Data Analyst,OpalGrid Systems,Delhi NCR,3,5,10.0,13.0,Tableau;Communication;Excel;SQL;DAX,Startup,Hybrid,2026-09-05
+JMA-0095,Data Analyst,NovaGrid Systems,Bengaluru,3,5,11.0,14.0,Data Modeling;Power Query;Tableau;Communication;Excel;SQL,Startup,On-site,2026-09-05
+JMA-1027,Data Analyst,MetricMinds Systems,Pune,0,0,4.0,5.5,DAX;R;Power BI;Python;Excel;Tableau;Communication,MNC,On-site,2026-09-05
+JMA-0119,Data Analyst,ApexLoop Labs,Delhi NCR,3,5,10.5,13.0,SQL;Power BI;Python;R;Excel;Tableau,Startup,Remote,2026-09-05
+JMA-1114,Data Analyst,CloudSlate Technologies,Chennai,3,5,9.5,12.5,SQL;Stakeholder Management;Statistics;Power BI;Excel,Startup,On-site,2026-09-04
+JMA-0954,MIS Executive,PineCrest Labs,Mumbai,3,5,12.0,15.5,Excel;Communication;DAX;ETL,Mid-size,Remote,2026-09-04
+JMA-1198,Data Analyst,PineCrest Dataworks,Bengaluru,3,5,12.5,16.5,Statistics;Machine Learning;Python;SQL,Startup,Remote,2026-09-04
+JMA-0969,Data Analyst,FluxWorks Consulting,Hyderabad,1,3,6.0,8.5,Communication;Power BI;Excel;Data Modeling;SQL,Startup,On-site,2026-09-04
+JMA-0224,Data Analyst,KeyStone Labs,Chennai,1,3,7.0,9.5,Communication;DAX;ETL,Startup,Remote,2026-09-04
+JMA-0403,Data Analyst,ClearPath Insights,Bengaluru,1,3,7.0,9.5,Data Modeling;Excel;Tableau;Stakeholder Management;Statistics;SQL;ETL,Mid-size,Remote,2026-09-04
+JMA-0773,Data Analyst,BrightStack Dataworks,Hyderabad,3,5,12.5,17.0,Power BI;SQL;Excel;Power Query;Python;Statistics;Communication,MNC,Remote,2026-09-04
+JMA-0787,MIS Executive,EdgeStone Analytics,Hyderabad,1,3,7.0,10.0,Tableau;SQL;Excel;Data Modeling;Power Query,Mid-size,Hybrid,2026-09-04
+JMA-0727,Senior Data Analyst,NovaGrid Systems,Pune,1,3,8.0,10.5,Python;Statistics;Excel;Communication;SQL;Data Modeling;Power BI,Mid-size,On-site,2026-09-04
+JMA-1003,Analytics Associate,NimbusWorks Insights,Bengaluru,3,5,11.0,15.0,Excel;SQL;Python;ETL;Power BI;Statistics;Communication,MNC,On-site,2026-09-04
+JMA-0049,Business Analyst,EdgeStone Systems,Mumbai,1,3,7.5,9.5,Excel;SAS;Communication;Data Modeling;SQL;Stakeholder Management,Mid-size,Hybrid,2026-09-04
+JMA-0725,Data Analyst,BrightStack Consulting,Delhi NCR,1,3,7.5,10.0,Statistics;Tableau;Excel;SQL;Power BI;R,Startup,On-site,2026-09-04
+JMA-0045,Data Analyst,GoldRidge Labs,Mumbai,0,1,5.0,6.5,Python;Tableau;SQL;Communication;Excel;Power Query;ETL,MNC,On-site,2026-09-03
+JMA-0573,Data Analyst,BlueOrbit Labs,Kolkata,1,3,6.5,9.0,Python;SQL;Excel;Machine Learning;DAX,Mid-size,Hybrid,2026-09-03
+JMA-0548,Data Analyst,SwiftKite Solutions,Delhi NCR,1,3,6.5,8.0,Communication;Statistics;Power Query;SQL;Excel,Startup,Remote,2026-09-03
+JMA-0328,Data Analyst,PineCrest Dataworks,Lucknow,1,3,6.5,8.5,DAX;Excel;Data Modeling;Python;SQL;Statistics;Communication,Mid-size,Hybrid,2026-09-03
+JMA-1012,Business Analyst,PixelLedger Analytics,Delhi NCR,0,1,4.5,6.0,Power BI;Tableau;SQL;Statistics;Stakeholder Management;Excel;Communication,Mid-size,On-site,2026-09-03
+JMA-0287,Data Analyst,PrimeVector Labs,Bengaluru,0,0,4.0,5.5,Statistics;Power Query;Python;DAX;Excel;Power BI;SQL,Startup,On-site,2026-09-03
+JMA-0680,Business Analyst,FluxWorks Labs,Mumbai,3,5,11.0,14.5,Data Modeling;Power Query;SQL;Excel;Stakeholder Management;Communication,MNC,Remote,2026-09-03
+JMA-0672,Data Analyst,CloudSlate Technologies,Bengaluru,0,0,5.0,6.5,Tableau;SQL;DAX;Data Modeling;Power BI;Communication;Statistics,MNC,Remote,2026-09-03
+JMA-1069,MIS Executive,MetricMinds Dataworks,Delhi NCR,1,3,6.5,8.5,Excel;Power BI;ETL;SQL,MNC,Hybrid,2026-09-03
+JMA-0496,Business Analyst,GoldRidge Dataworks,Ahmedabad,3,5,11.0,15.0,Data Modeling;Python;Stakeholder Management;Excel;Communication,Mid-size,Hybrid,2026-09-03
+JMA-0228,Data Analyst,ClearPath Solutions,Mumbai,1,3,7.0,9.0,SAS;Data Modeling;SQL;Communication;Statistics;Excel,MNC,On-site,2026-09-03
+JMA-1140,Data Analyst,ClearPath Analytics,Bengaluru,6,10,17.5,22.0,Communication;Power Query;Power BI;Excel;SQL;Tableau;Python,Mid-size,On-site,2026-09-03
+JMA-0389,MIS Executive,DataVista Systems,Chennai,1,3,6.5,8.5,Communication;Excel;SQL;Power Query;ETL,MNC,Remote,2026-09-03
+JMA-0158,Data Analyst,ApexLoop Technologies,Hyderabad,3,5,11.5,16.0,SQL;R;ETL;Statistics;Stakeholder Management;Python;Excel,Mid-size,Remote,2026-09-03
+JMA-1158,MIS Executive,InsightForge Consulting,Delhi NCR,0,0,5.0,6.5,DAX;Communication;Excel,MNC,Hybrid,2026-09-02
+JMA-0797,Business Analyst,KeyStone Systems,Bengaluru,1,3,6.5,8.0,Communication;SQL;Power BI;Stakeholder Management;Excel;Tableau,Startup,On-site,2026-09-02
+JMA-0989,MIS Executive,TrueSignal Systems,Hyderabad,1,3,6.5,9.0,Stakeholder Management;Power Query;SQL;Excel,MNC,Hybrid,2026-09-02
+JMA-1045,Senior Data Analyst,CloudSlate Systems,Chennai,5,7,17.0,22.5,Excel;Communication;ETL;Python;Data Modeling;SQL;Statistics,Startup,Remote,2026-09-02
+JMA-1200,Business Analyst,FluxWorks Labs,Ahmedabad,0,0,3.5,5.0,Stakeholder Management;SQL;Communication;Excel,Startup,Remote,2026-09-02
+JMA-0600,MIS Executive,CloudSlate Systems,Chennai,1,3,7.0,9.0,Statistics;Communication;Power Query;Excel;SQL,Startup,On-site,2026-09-02
+JMA-0362,Analytics Associate,Crestline Analytics,Ahmedabad,3,5,8.5,12.0,Power Query;SQL;Power BI;Communication;Statistics;Machine Learning,Startup,Hybrid,2026-09-02
+JMA-0229,Analytics Associate,MoonRidge Systems,Delhi NCR,3,5,9.5,12.5,DAX;Statistics;Excel;Communication;SQL;Python,Startup,Hybrid,2026-09-02
+JMA-0554,Data Analyst,OpalGrid Labs,Delhi NCR,1,3,7.5,10.0,Excel;Power Query;SQL;Statistics;Tableau;Python;Power BI,MNC,On-site,2026-09-02
+JMA-0076,Analytics Associate,ClearPath Systems,Chennai,3,5,12.5,16.0,Python;Communication;Statistics;Power BI;Data Modeling;SQL;Excel,Mid-size,On-site,2026-09-02
+JMA-0643,Senior Data Analyst,BrightStack Systems,Chennai,1,3,7.0,9.0,Python;Excel;Power BI;Communication;Data Modeling;SQL;ETL,Mid-size,On-site,2026-09-02
+JMA-0151,Data Analyst,LumenArc Analytics,Hyderabad,1,3,6.5,8.5,Excel;Communication;Python;Power Query;SQL;Stakeholder Management;Data Modeling,Startup,Hybrid,2026-09-01
+JMA-1018,Senior Data Analyst,PrimeVector Dataworks,Bengaluru,1,3,8.0,10.0,Communication;Python;SQL;Power BI;Excel;Data Modeling;Statistics,Mid-size,On-site,2026-09-01
+JMA-1020,Data Analyst,DataVista Labs,Pune,0,1,4.0,5.5,SQL;Excel;Power BI;Tableau;Machine Learning;Python;DAX,Startup,On-site,2026-09-01
+JMA-0073,Data Analyst,GoldRidge Labs,Chennai,1,3,7.0,9.0,Communication;Data Modeling;Statistics;Excel;SQL;Power BI;Python,Mid-size,On-site,2026-09-01
+JMA-0696,Data Analyst,PineCrest Solutions,Mumbai,1,3,7.0,8.5,SQL;DAX;Excel;Python,Startup,On-site,2026-09-01
+JMA-0822,Data Analyst,QuantNest Consulting,Bengaluru,5,10,17.5,23.5,Communication;Excel;Python,MNC,Hybrid,2026-09-01
+JMA-0178,Business Analyst,BrightStack Consulting,Delhi NCR,5,8,15.5,20.5,Communication;SQL;Excel;Python;Stakeholder Management;Power BI;Statistics,MNC,On-site,2026-09-01
+JMA-1050,Business Analyst,GoldRidge Labs,Pune,0,1,4.5,6.0,Stakeholder Management;Power Query;Power BI;DAX;Communication;SQL;Excel,MNC,Remote,2026-09-01
+JMA-0109,MIS Executive,PrimeVector Consulting,Kolkata,0,0,4.0,5.0,Excel;Statistics;SQL;Power BI,MNC,Remote,2026-09-01
+JMA-0703,Data Analyst,GoldRidge Labs,Delhi NCR,1,3,8.0,10.5,DAX;Statistics;Communication;SQL;Power Query;Excel;Python,MNC,Hybrid,2026-09-01
+JMA-0141,MIS Executive,ApexLoop Analytics,Hyderabad,0,0,4.5,6.0,SAS;Stakeholder Management;Excel;SQL;Tableau,Mid-size,On-site,2026-09-01
+JMA-0919,Business Analyst,DataVista Consulting,Delhi NCR,3,5,10.0,13.0,Data Modeling;SQL;ETL;Power BI;Stakeholder Management;Excel,Mid-size,On-site,2026-09-01
+JMA-0868,Data Analyst,ApexLoop Solutions,Bengaluru,3,5,9.5,13.0,Power BI;Statistics;SQL;Data Modeling;DAX;Excel;Power Query,Startup,On-site,2026-09-01
+JMA-0715,MIS Executive,ZenithWorks Labs,Hyderabad,1,3,7.0,9.5,SQL;Power Query;Power BI;Excel,Mid-size,On-site,2026-09-01
+JMA-0295,MIS Executive,TrueSignal Technologies,Bengaluru,3,5,10.0,12.5,Excel;Power Query;Power BI;SQL;ETL,Mid-size,On-site,2026-08-31
+JMA-0700,Analytics Associate,CloudSlate Dataworks,Chennai,3,5,10.5,14.5,Excel;SQL;Power BI;Python,Startup,On-site,2026-08-31
+JMA-0852,Data Analyst,FluxWorks Dataworks,Delhi NCR,1,3,6.5,8.5,Power BI;Excel;SAS;Statistics;SQL,Mid-size,Hybrid,2026-08-31
+JMA-0961,Data Analyst,Crestline Analytics,Bengaluru,1,3,7.5,9.0,Power BI;Communication;SQL;Statistics,Startup,On-site,2026-08-31
+JMA-0024,Data Analyst,EdgeStone Consulting,Lucknow,6,10,13.5,17.5,Power BI;SQL;Data Modeling;Excel,Mid-size,On-site,2026-08-31
+JMA-0291,Data Analyst,HarborLine Solutions,Chennai,6,7,14.5,20.5,Communication;SQL;Excel;DAX;Statistics;Power Query;Python,Startup,Hybrid,2026-08-31
+JMA-0900,Data Analyst,OpalGrid Consulting,Chennai,1,3,6.5,8.5,Excel;Statistics;Python;Data Modeling;Communication;SQL,Mid-size,On-site,2026-08-31
+JMA-0708,Data Analyst,PrimeVector Consulting,Delhi NCR,3,5,11.0,15.0,Excel;SQL;Statistics;Tableau,MNC,On-site,2026-08-31
+JMA-1058,Data Analyst,FluxWorks Dataworks,Chennai,3,5,12.0,15.0,Power BI;SQL;Tableau;DAX;Python;Excel;Power Query,MNC,Remote,2026-08-31
+JMA-1005,Data Analyst,ApexLoop Systems,Chennai,5,10,13.5,18.0,Excel;SQL;R;SAS;Data Modeling;Tableau;Communication,Startup,On-site,2026-08-31
+JMA-0944,Business Analyst,ApexLoop Systems,Kolkata,1,3,5.5,7.0,SQL;Power BI;Power Query;Stakeholder Management;Excel;Tableau,Startup,Hybrid,2026-08-31
+JMA-1159,Data Analyst,LumenArc Systems,Chennai,3,5,10.0,13.5,Excel;SAS;Python;Power Query;SQL;Tableau,Mid-size,On-site,2026-08-31
+JMA-1188,Senior Data Analyst,Crestline Analytics,Hyderabad,3,5,12.5,16.0,SQL;Excel;Machine Learning;Statistics;Communication;Data Modeling;Power BI,MNC,Remote,2026-08-31
+JMA-0751,Business Analyst,SwiftKite Labs,Delhi NCR,1,3,7.5,10.0,Communication;Excel;SQL;Stakeholder Management;Data Modeling;Power BI;Python,Mid-size,Hybrid,2026-08-31
+JMA-0624,Data Analyst,EdgeStone Systems,Hyderabad,1,3,6.0,7.5,SQL;Excel;Communication;Power BI;Statistics,Startup,On-site,2026-08-31
+JMA-0788,Data Analyst,KeyStone Analytics,Bengaluru,3,5,10.5,13.5,Power BI;Stakeholder Management;Python;Excel,Mid-size,Hybrid,2026-08-30
+JMA-0157,Data Analyst,LumenArc Technologies,Mumbai,1,3,6.5,9.5,Machine Learning;Excel;SQL;Statistics;Power BI,MNC,Hybrid,2026-08-30
+JMA-0602,Data Analyst,MoonRidge Labs,Chennai,3,5,10.0,13.0,DAX;SQL;Power BI;Excel;ETL;Python;Data Modeling,Mid-size,On-site,2026-08-30
+JMA-1060,Data Analyst,BlueOrbit Technologies,Delhi NCR,3,5,10.5,15.0,Power BI;Stakeholder Management;Machine Learning;Excel;Statistics;SQL;Data Modeling,MNC,On-site,2026-08-30
+JMA-0735,MIS Executive,GoldRidge Labs,Delhi NCR,0,0,4.5,6.0,Tableau;Power Query;Excel;ETL;Communication;SQL,Startup,On-site,2026-08-30
+JMA-0493,Data Analyst,FluxWorks Solutions,Delhi NCR,3,5,11.5,15.5,DAX;Statistics;SQL;Excel;Communication;Power BI,MNC,On-site,2026-08-30
+JMA-0086,Data Analyst,TrueSignal Consulting,Bengaluru,3,5,12.5,15.5,SQL;Machine Learning;Excel;Statistics;Python;Tableau;Communication,Startup,Hybrid,2026-08-30
+JMA-0458,Data Analyst,BlueOrbit Insights,Ahmedabad,0,1,4.0,5.5,Power BI;DAX;SQL;Tableau;Python,MNC,Remote,2026-08-30
+JMA-0059,Data Analyst,ZenithWorks Labs,Kolkata,0,1,4.0,5.5,Excel;Power Query;R;SQL,Mid-size,On-site,2026-08-30
+JMA-1041,Data Analyst,KeyStone Systems,Mumbai,1,3,6.0,8.0,Tableau;Statistics;DAX;Excel;SQL;Power Query,Startup,Remote,2026-08-30
+JMA-1143,Senior Data Analyst,OpalGrid Technologies,Pune,1,3,7.0,9.0,Excel;Communication;Statistics;Power BI;SQL;Machine Learning;Python,Mid-size,On-site,2026-08-30
+JMA-0904,Data Analyst,CloudSlate Solutions,Delhi NCR,3,5,12.0,15.0,Tableau;SQL;Python;Excel;Statistics,Mid-size,Hybrid,2026-08-30
+JMA-0316,Data Analyst,MetricMinds Dataworks,Delhi NCR,3,5,11.0,15.5,Communication;SQL;Power BI;Python;Excel;Statistics;ETL,Startup,On-site,2026-08-30
+JMA-0288,Data Analyst,SwiftKite Dataworks,Chennai,1,3,7.0,9.5,Tableau;DAX;Excel;SQL,Startup,Hybrid,2026-08-30
+JMA-0939,Data Analyst,SwiftKite Analytics,Chennai,0,0,4.5,5.5,ETL;Data Modeling;SQL;SAS;Python;R,Startup,Hybrid,2026-08-30
+JMA-0922,Analytics Associate,HarborLine Insights,Chennai,5,7,16.0,22.0,Excel;DAX;Power BI;SQL;Python;Tableau;Statistics,MNC,Hybrid,2026-08-29
+JMA-0588,Data Analyst,SwiftKite Analytics,Jaipur,3,5,10.0,13.0,DAX;Excel;ETL;Python;Tableau;Power BI;SQL,Startup,On-site,2026-08-29
+JMA-0830,Data Analyst,BrightStack Consulting,Bengaluru,1,3,6.5,8.5,SQL;Excel;Power BI,Startup,Hybrid,2026-08-29
+JMA-0071,MIS Executive,DataVista Dataworks,Bengaluru,1,3,8.0,10.0,DAX;Communication;Statistics;Excel;SQL,Mid-size,On-site,2026-08-29
+JMA-0753,Data Analyst,NorthPeak Solutions,Chennai,0,0,4.0,5.5,SQL;Communication;Python;Stakeholder Management;Power Query;Tableau;Excel,Mid-size,On-site,2026-08-29
+JMA-0376,Analytics Associate,KeyStone Analytics,Delhi NCR,1,3,6.5,9.0,Data Modeling;Excel;Communication;SQL;ETL,MNC,Hybrid,2026-08-29
+JMA-0614,Business Analyst,PineCrest Dataworks,Pune,1,3,7.0,9.0,Data Modeling;Communication;Excel;Tableau;Power Query;ETL;DAX,Mid-size,On-site,2026-08-29
+JMA-1010,Data Analyst,BrightStack Labs,Pune,5,10,14.0,19.5,SQL;Power BI;Machine Learning;Statistics;DAX;Power Query;Excel,Mid-size,On-site,2026-08-29
+JMA-0492,Data Analyst,FluxWorks Consulting,Pune,3,5,10.0,13.0,SQL;Tableau;Excel;Communication;Statistics,MNC,Hybrid,2026-08-29
+JMA-0431,Senior Data Analyst,CloudSlate Systems,Pune,1,3,8.0,10.5,Python;Communication;SQL;Stakeholder Management;Excel;Tableau,MNC,Remote,2026-08-29
+JMA-0806,MIS Executive,ApexLoop Analytics,Delhi NCR,1,3,8.0,11.0,Data Modeling;Excel;Power Query;SQL,MNC,On-site,2026-08-29
+JMA-0551,Senior Data Analyst,BlueOrbit Insights,Hyderabad,3,5,11.0,15.0,Python;Data Modeling;SQL;Machine Learning;Excel,MNC,Hybrid,2026-08-29
+JMA-0341,Data Analyst,Crestline Analytics,Chennai,3,5,11.0,14.0,Excel;Communication;DAX;Tableau;Statistics;SQL;Power BI,Startup,On-site,2026-08-29
+JMA-0950,Senior Data Analyst,NimbusWorks Insights,Delhi NCR,0,0,4.0,5.5,Python;Statistics;SQL;Power BI;Excel;DAX;R,Mid-size,On-site,2026-08-28
+JMA-0568,Data Analyst,PixelLedger Analytics,Delhi NCR,1,3,8.0,10.0,Power Query;Power BI;Python;Tableau;SQL,Mid-size,Remote,2026-08-28
+JMA-0767,Data Analyst,IronPeak Consulting,Chennai,3,5,12.0,15.5,Python;Power BI;Machine Learning;ETL;Excel;SQL,Mid-size,On-site,2026-08-28
+JMA-0550,Data Analyst,MetricMinds Consulting,Delhi NCR,1,3,8.0,10.5,Power Query;Excel;DAX;Statistics;Python;Power BI;SQL,MNC,Hybrid,2026-08-28
+JMA-0506,Senior Data Analyst,Crestline Technologies,Mumbai,1,3,6.5,9.5,SQL;Communication;Machine Learning;Power BI;ETL;Statistics,Mid-size,On-site,2026-08-28
+JMA-0356,Data Analyst,MetricMinds Systems,Pune,1,3,8.5,11.0,Machine Learning;DAX;SAS;SQL;Power Query;Python;Communication,MNC,Hybrid,2026-08-28
+JMA-0928,Data Analyst,GoldRidge Labs,Mumbai,3,5,13.0,16.5,Data Modeling;Communication;Excel;Tableau;Power BI;DAX;SQL,MNC,Hybrid,2026-08-28
+JMA-1051,Business Analyst,MetricMinds Dataworks,Delhi NCR,1,3,7.5,10.0,Excel;Tableau;Data Modeling;Communication;Power BI;Stakeholder Management;SQL,Startup,On-site,2026-08-28
+JMA-0901,MIS Executive,PineCrest Labs,Bengaluru,1,3,7.5,10.0,Excel;Power BI;DAX;Communication,Startup,On-site,2026-08-28
+JMA-0876,Senior Data Analyst,JetStream Solutions,Mumbai,1,3,7.0,9.0,Statistics;Stakeholder Management;Excel;Tableau;Communication;SQL;Data Modeling,Startup,On-site,2026-08-28
+JMA-0972,MIS Executive,NorthPeak Solutions,Chennai,1,3,7.0,9.0,Communication;SQL;Excel,Startup,Remote,2026-08-28
+JMA-0226,Analytics Associate,NorthPeak Analytics,Kolkata,1,3,6.5,9.0,Excel;Power BI;DAX;ETL;SQL,Startup,Hybrid,2026-08-28
+JMA-0282,Data Analyst,NimbusWorks Technologies,Delhi NCR,1,3,7.0,8.5,SQL;Python;Statistics;Excel;Power Query,Mid-size,Hybrid,2026-08-27
+JMA-1091,Data Analyst,MoonRidge Technologies,Delhi NCR,1,3,7.5,9.5,Machine Learning;Python;Excel;SQL;ETL;Data Modeling;Communication,Startup,Hybrid,2026-08-27
+JMA-0758,Data Analyst,MoonRidge Technologies,Bengaluru,0,0,4.0,5.5,Power BI;Communication;SQL;Power Query;Tableau;Excel,MNC,Hybrid,2026-08-27
+JMA-0414,Business Analyst,KeyStone Dataworks,Chennai,6,7,14.5,19.0,Power Query;Tableau;SQL;Stakeholder Management;Excel;Communication,Mid-size,Remote,2026-08-27
+JMA-0186,MIS Executive,PrimeVector Consulting,Delhi NCR,3,5,10.5,13.0,Stakeholder Management;DAX;Excel;Power Query,MNC,On-site,2026-08-27
+JMA-0450,MIS Executive,PixelLedger Systems,Delhi NCR,1,3,6.0,7.5,Communication;Power BI;Excel,Startup,Remote,2026-08-27
+JMA-0902,Data Analyst,FluxWorks Dataworks,Hyderabad,1,3,6.5,8.5,Excel;Python;Tableau;Power BI;SQL;Stakeholder Management,Startup,On-site,2026-08-27
+JMA-0348,Data Analyst,TrueSignal Labs,Jaipur,1,3,5.5,7.5,Power Query;Excel;Data Modeling;ETL;SQL;Communication;Power BI,Startup,On-site,2026-08-27
+JMA-0675,Analytics Associate,BrightStack Systems,Hyderabad,1,3,8.0,10.0,Statistics;Power BI;SQL;Excel;Power Query,Mid-size,Hybrid,2026-08-27
+JMA-0828,Senior Data Analyst,HarborLine Solutions,Mumbai,1,3,7.0,9.5,Machine Learning;Power BI;Python;Statistics;ETL;Communication;SQL,Mid-size,Remote,2026-08-27
+JMA-0632,Data Analyst,QuantNest Insights,Delhi NCR,3,5,11.0,14.5,Python;SAS;SQL;Power Query;Power BI;Communication;Excel,MNC,On-site,2026-08-27
+JMA-1137,Business Analyst,NimbusWorks Analytics,Ahmedabad,6,8,14.5,20.0,Stakeholder Management;Communication;SQL;Excel,MNC,Hybrid,2026-08-27
+JMA-0319,Senior Data Analyst,ApexLoop Systems,Jaipur,1,3,7.0,8.5,Data Modeling;SQL;Statistics;Excel;Python;Power BI;Communication,Mid-size,On-site,2026-08-27
+JMA-0212,Senior Data Analyst,TrueSignal Technologies,Pune,5,9,16.0,21.5,Statistics;Communication;Excel;Power BI;Python;Machine Learning;SQL,MNC,Hybrid,2026-08-27
+JMA-1196,Data Analyst,LumenArc Solutions,Bengaluru,3,5,11.5,14.5,Excel;Tableau;SQL;Statistics;Power Query;DAX;Data Modeling,MNC,On-site,2026-08-26
+JMA-0497,Data Analyst,BlueOrbit Technologies,Mumbai,3,5,10.0,13.5,Data Modeling;Excel;SQL;Statistics;Communication;Power Query,Startup,On-site,2026-08-26
+JMA-0408,MIS Executive,LumenArc Solutions,Pune,3,5,11.5,15.0,Power Query;Communication;Excel,Mid-size,On-site,2026-08-26
+JMA-1157,Data Analyst,ApexLoop Insights,Delhi NCR,0,0,4.5,6.0,Python;Communication;Excel;SQL;Tableau;R;Power BI,Mid-size,On-site,2026-08-26
+JMA-0909,Data Analyst,OpalGrid Consulting,Mumbai,0,1,4.0,5.5,Communication;Excel;Python;Statistics;SQL;Power BI,Startup,On-site,2026-08-26
+JMA-0721,Data Analyst,MetricMinds Dataworks,Bengaluru,1,3,9.0,11.0,Tableau;Python;Excel;DAX;Statistics;SQL;Power Query,MNC,On-site,2026-08-26
+JMA-1164,Data Analyst,MetricMinds Consulting,Pune,3,5,13.0,16.0,Communication;Statistics;Power Query;Machine Learning;Stakeholder Management;SQL;Excel,MNC,On-site,2026-08-26
+JMA-0017,Data Analyst,LumenArc Systems,Mumbai,1,3,6.0,8.5,SQL;Excel;Data Modeling;Statistics;Power BI;Communication;Tableau,Startup,Hybrid,2026-08-26
+JMA-0856,Data Analyst,LumenArc Labs,Jaipur,3,5,9.0,11.5,Communication;Excel;Statistics;SQL;Power BI;Data Modeling,Mid-size,On-site,2026-08-26
+JMA-0365,Business Analyst,IronPeak Analytics,Bengaluru,0,0,4.0,5.0,Power Query;Communication;SQL;Stakeholder Management;DAX;Excel,Mid-size,On-site,2026-08-26
+JMA-0733,MIS Executive,KeyStone Consulting,Bengaluru,3,5,13.0,16.5,Power BI;ETL;Excel;Communication;Statistics,MNC,Hybrid,2026-08-26
+JMA-0366,Analytics Associate,EdgeStone Consulting,Hyderabad,3,5,9.5,13.0,Communication;Excel;Tableau;SQL;Power BI;Python;Statistics,Startup,On-site,2026-08-26
+JMA-0475,Data Analyst,JetStream Solutions,Chennai,1,3,7.5,10.0,SQL;Tableau;Excel;Power Query;Statistics;DAX;Python,Mid-size,Hybrid,2026-08-26
+JMA-0638,Data Analyst,MetricMinds Technologies,Bengaluru,3,5,12.0,15.0,Python;SQL;ETL;Excel;Statistics;Communication;Power BI,MNC,Remote,2026-08-26
+JMA-0188,Data Analyst,ClearPath Consulting,Kolkata,0,1,3.5,4.5,Tableau;SQL;Excel;DAX;Stakeholder Management;Power BI,Mid-size,Hybrid,2026-08-26
+JMA-1191,Data Analyst,LumenArc Systems,Delhi NCR,0,1,5.0,6.5,SQL;Excel;Machine Learning;Communication;Tableau;ETL;Power BI,MNC,On-site,2026-08-25
+JMA-0923,Data Analyst,NorthPeak Solutions,Kolkata,1,3,7.5,10.0,Excel;Stakeholder Management;SQL;DAX;Power Query;Python;Tableau,Mid-size,On-site,2026-08-25
+JMA-0709,Data Analyst,HarborLine Insights,Bengaluru,5,7,15.0,19.0,Power BI;Tableau;SQL;Statistics;Excel;Python,Mid-size,On-site,2026-08-25
+JMA-1034,Data Analyst,LumenArc Labs,Bengaluru,1,3,7.0,9.0,Python;Tableau;Excel;SAS;Stakeholder Management;SQL;Statistics,Mid-size,Hybrid,2026-08-25
+JMA-1009,Business Analyst,BrightStack Insights,Delhi NCR,1,3,7.0,10.0,Stakeholder Management;Excel;Python;DAX;Power Query;SQL;Statistics,MNC,On-site,2026-08-25
+JMA-0079,Data Analyst,SwiftKite Dataworks,Kolkata,6,7,14.5,20.0,Excel;Stakeholder Management;SQL;Tableau,Startup,On-site,2026-08-25
+JMA-0384,Analytics Associate,BlueOrbit Technologies,Mumbai,5,10,17.5,24.0,Power BI;Data Modeling;Excel;Machine Learning;SQL,Startup,On-site,2026-08-25
+JMA-0720,Senior Data Analyst,BrightStack Analytics,Delhi NCR,1,3,7.0,9.5,Stakeholder Management;Power BI;Statistics;Python;Excel;Data Modeling;SQL,MNC,On-site,2026-08-25
+JMA-0533,MIS Executive,KeyStone Analytics,Bengaluru,3,5,11.0,15.0,Excel;Communication;SQL,MNC,On-site,2026-08-25
+JMA-0817,Data Analyst,TrueSignal Consulting,Hyderabad,1,3,7.0,10.0,DAX;Power Query;Python;SQL;ETL;Excel;Statistics,Mid-size,Remote,2026-08-25
+JMA-0959,Data Analyst,BrightStack Consulting,Kolkata,3,5,12.0,16.5,SQL;Tableau;Power BI;Power Query;Python;Data Modeling;Excel,MNC,Hybrid,2026-08-25
+JMA-0910,Data Analyst,MoonRidge Technologies,Delhi NCR,1,3,7.5,10.0,Communication;Python;Excel;Power BI;DAX;SQL;Statistics,Mid-size,Hybrid,2026-08-24
+JMA-0481,Data Analyst,IronPeak Insights,Hyderabad,1,3,6.0,8.0,Excel;Statistics;Power BI;Power Query,Startup,Remote,2026-08-24
+JMA-0936,Data Analyst,SwiftKite Dataworks,Lucknow,1,3,6.5,8.5,ETL;Tableau;R;Excel;Power BI;DAX;SQL,Mid-size,On-site,2026-08-24
+JMA-0861,Data Analyst,NovaGrid Systems,Bengaluru,1,3,7.0,8.5,Tableau;Communication;Python;SQL;Statistics;Power BI;Excel,Mid-size,Hybrid,2026-08-24
+JMA-0177,Data Analyst,KeyStone Consulting,Mumbai,3,5,11.5,14.5,ETL;SQL;Statistics;Tableau;Power BI;Excel,Mid-size,Hybrid,2026-08-24
+JMA-0161,MIS Executive,MoonRidge Systems,Bengaluru,1,3,6.5,9.0,SQL;Power Query;Excel,Startup,Hybrid,2026-08-24
+JMA-1117,Data Analyst,SwiftKite Solutions,Lucknow,1,3,6.5,9.5,Excel;Statistics;SQL;R,MNC,On-site,2026-08-24
+JMA-0729,Data Analyst,IronPeak Analytics,Hyderabad,0,1,4.0,5.5,SQL;Excel;Statistics;ETL;Power Query;DAX;Communication,Mid-size,On-site,2026-08-24
+JMA-0739,Data Analyst,LumenArc Analytics,Kolkata,1,3,6.5,9.0,DAX;Power Query;SQL;Stakeholder Management,Startup,Remote,2026-08-24
+JMA-0716,MIS Executive,DataVista Systems,Hyderabad,3,5,11.0,14.5,Excel;Power Query;SQL,MNC,Hybrid,2026-08-24
+JMA-1155,Data Analyst,PineCrest Dataworks,Jaipur,1,3,6.0,7.5,Python;Excel;SQL;Data Modeling;Statistics;R,Startup,On-site,2026-08-24
+JMA-0021,Data Analyst,ApexLoop Insights,Mumbai,3,5,9.5,13.0,SQL;Excel;Communication;Data Modeling;Statistics;Tableau;Power BI,Startup,Hybrid,2026-08-24
+JMA-1090,Business Analyst,LumenArc Systems,Pune,0,0,4.5,6.0,SQL;Data Modeling;Power BI;Stakeholder Management;Communication;Excel;Power Query,MNC,Hybrid,2026-08-24
+JMA-0406,Data Analyst,ZenithWorks Labs,Mumbai,1,3,7.5,10.5,Excel;DAX;Power Query;Communication;Python;Power BI;SQL,Startup,On-site,2026-08-23
+JMA-0042,Business Analyst,ClearPath Analytics,Chennai,1,3,7.0,8.5,SAS;Stakeholder Management;DAX;Communication;Power BI,MNC,Hybrid,2026-08-23
+JMA-0560,Data Analyst,NovaGrid Systems,Delhi NCR,1,3,7.0,9.0,Python;Data Modeling;SQL;Power BI;Excel;Statistics,Startup,Hybrid,2026-08-23
+JMA-0701,Data Analyst,GoldRidge Consulting,Kolkata,3,5,10.5,13.0,Statistics;SQL;Excel;Machine Learning;Tableau;Power Query;Python,Mid-size,Hybrid,2026-08-23
+JMA-0169,Data Analyst,QuantNest Solutions,Mumbai,3,5,12.5,17.5,Communication;Machine Learning;SQL;Excel;Power BI;Statistics;DAX,MNC,Hybrid,2026-08-23
+JMA-1172,Data Analyst,CloudSlate Systems,Mumbai,0,0,4.0,5.0,SQL;Power Query;Tableau;Statistics;Power BI;Excel,Mid-size,Hybrid,2026-08-23
+JMA-0649,Data Analyst,GoldRidge Technologies,Chennai,3,5,10.0,13.0,SQL;Power BI;Excel;Communication;Python;SAS,Mid-size,On-site,2026-08-23
+JMA-0653,Data Analyst,EdgeStone Consulting,Pune,1,3,7.5,10.0,Communication;Python;Excel;SQL;Power BI;DAX,Mid-size,On-site,2026-08-23
+JMA-0839,Data Analyst,TrueSignal Labs,Bengaluru,0,0,4.0,5.5,Power BI;Excel;SQL;Python;DAX,MNC,Remote,2026-08-23
+JMA-0850,MIS Executive,LumenArc Systems,Hyderabad,1,3,7.5,10.0,Power Query;Excel;SQL,Mid-size,On-site,2026-08-23
+JMA-0539,Data Analyst,ApexLoop Solutions,Mumbai,1,3,6.5,9.0,SQL;Excel;Tableau;DAX;R;Power Query,Mid-size,On-site,2026-08-23
+JMA-0963,Senior Data Analyst,DataVista Labs,Bengaluru,0,0,5.5,6.5,SQL;Python;Excel;Machine Learning;Power BI;Statistics;Data Modeling,Mid-size,On-site,2026-08-22
+JMA-0750,Data Analyst,GoldRidge Technologies,Mumbai,1,3,7.0,9.5,SQL;SAS;Communication;Power BI;Python;Power Query,Mid-size,On-site,2026-08-22
+JMA-0035,Analytics Associate,NorthPeak Technologies,Delhi NCR,0,0,4.0,5.5,SQL;Python;DAX;Communication;Statistics;Power Query;Power BI,MNC,Remote,2026-08-22
+JMA-0996,Business Analyst,KeyStone Analytics,Bengaluru,3,5,13.0,16.5,Python;Power BI;Excel;Communication;SQL,MNC,On-site,2026-08-22
+JMA-0345,Data Analyst,PineCrest Labs,Lucknow,5,10,15.0,19.0,Excel;Communication;Statistics;SQL;Power BI,Mid-size,Remote,2026-08-22
+JMA-0587,MIS Executive,KeyStone Analytics,Bengaluru,1,3,7.5,10.0,Power Query;SQL;Excel;DAX;Stakeholder Management,MNC,Hybrid,2026-08-22
+JMA-1166,Senior Data Analyst,PineCrest Insights,Mumbai,3,5,12.0,15.0,Power BI;Stakeholder Management;ETL;SQL;Machine Learning;Python;Statistics,MNC,On-site,2026-08-22
+JMA-0251,Data Analyst,LumenArc Solutions,Mumbai,3,5,13.0,17.0,DAX;Machine Learning;Power Query;Data Modeling;ETL;Excel,MNC,On-site,2026-08-22
+JMA-0280,Senior Data Analyst,OpalGrid Labs,Delhi NCR,1,3,7.5,10.0,Excel;Communication;Python;SQL;Data Modeling;Statistics;Power BI,Startup,Remote,2026-08-22
+JMA-0213,MIS Executive,ClearPath Insights,Chennai,3,5,9.0,11.5,Excel;Communication;R;Tableau;SQL,Startup,Hybrid,2026-08-21
+JMA-0074,Data Analyst,CloudSlate Technologies,Delhi NCR,3,5,12.5,16.5,SQL;Tableau;Data Modeling;Excel;Python,MNC,Hybrid,2026-08-21
+JMA-0717,Data Analyst,NovaGrid Consulting,Hyderabad,3,5,10.0,14.0,Tableau;Communication;SQL;Power BI;Excel;Statistics,Mid-size,Remote,2026-08-21
+JMA-0848,Data Analyst,EdgeStone Systems,Lucknow,3,5,9.5,12.0,Python;Tableau;Statistics;Excel;SQL;Communication;ETL,Mid-size,Hybrid,2026-08-21
+JMA-0932,Business Analyst,DataVista Consulting,Ahmedabad,6,9,13.5,18.0,Stakeholder Management;Power BI;Excel;Data Modeling;DAX;Communication;SQL,Mid-size,Remote,2026-08-21
+JMA-0377,MIS Executive,ClearPath Solutions,Chennai,5,9,16.5,21.5,Excel;SQL;Power Query,MNC,Hybrid,2026-08-21
+JMA-0041,Data Analyst,PineCrest Solutions,Bengaluru,1,3,8.0,10.5,DAX;Power BI;Excel;Python;SQL;R,Mid-size,On-site,2026-08-21
+JMA-0704,MIS Executive,DataVista Labs,Hyderabad,1,3,7.0,10.0,Communication;Excel;SQL,Mid-size,Hybrid,2026-08-21
+JMA-0888,Senior Data Analyst,MetricMinds Dataworks,Delhi NCR,0,1,5.0,6.5,Python;Communication;ETL;SQL;Data Modeling;Statistics;Excel,MNC,Hybrid,2026-08-21
+JMA-0896,MIS Executive,Crestline Labs,Chennai,1,3,6.0,8.0,Excel;Power BI;ETL;Stakeholder Management,Mid-size,On-site,2026-08-21
+JMA-0137,Senior Data Analyst,MoonRidge Technologies,Bengaluru,3,5,12.5,17.5,Data Modeling;Communication;SQL;Stakeholder Management;Machine Learning;Python;Excel,Startup,Hybrid,2026-08-21
+JMA-0677,MIS Executive,BrightStack Analytics,Delhi NCR,0,1,4.0,5.5,Statistics;Communication;SQL;Excel,MNC,On-site,2026-08-21
+JMA-1193,Senior Data Analyst,TrueSignal Consulting,Bengaluru,1,3,7.5,10.0,Power BI;ETL;SQL;Communication;Python;Machine Learning;Statistics,Mid-size,On-site,2026-08-21
+JMA-1082,Data Analyst,HarborLine Insights,Hyderabad,0,0,4.0,5.5,Power Query;SQL;ETL;Tableau;Power BI,MNC,Hybrid,2026-08-21
+JMA-1019,Business Analyst,BlueOrbit Insights,Ahmedabad,1,3,6.5,8.0,Excel;Statistics;SQL;Communication;Python;Power BI;Stakeholder Management,MNC,Hybrid,2026-08-21
+JMA-0047,Data Analyst,BlueOrbit Technologies,Pune,5,7,18.0,24.0,Machine Learning;Statistics;SQL;Power Query;Power BI;Python;Data Modeling,Startup,Remote,2026-08-20
+JMA-0626,Data Analyst,PrimeVector Dataworks,Delhi NCR,5,9,19.0,25.0,DAX;Python;Tableau;SQL;Statistics;Excel;Data Modeling,MNC,On-site,2026-08-20
+JMA-0060,Data Analyst,BrightStack Systems,Jaipur,3,5,11.5,15.0,SQL;Python;Power Query;Power BI;Statistics;Tableau;Excel,MNC,On-site,2026-08-20
+JMA-1134,MIS Executive,QuantNest Insights,Delhi NCR,0,1,4.0,5.5,Communication;SQL;Excel;Statistics;Power Query;Stakeholder Management,Mid-size,On-site,2026-08-20
+JMA-0340,Data Analyst,NorthPeak Consulting,Delhi NCR,3,5,13.5,18.5,SQL;Power Query;Power BI;R;Machine Learning;SAS;Python,MNC,Hybrid,2026-08-20
+JMA-1142,Senior Data Analyst,OpalGrid Consulting,Chennai,0,1,4.5,5.5,Excel;SQL;ETL;Communication;Python;Stakeholder Management;Statistics,Mid-size,Hybrid,2026-08-20
+JMA-0122,Business Analyst,NimbusWorks Analytics,Mumbai,3,5,12.0,16.0,Data Modeling;Stakeholder Management;Communication;SQL,Mid-size,Hybrid,2026-08-20
+JMA-0774,MIS Executive,NimbusWorks Insights,Kolkata,0,1,4.5,6.0,Excel;Python;Communication,Mid-size,On-site,2026-08-20
+JMA-0517,Data Analyst,QuantNest Insights,Delhi NCR,1,3,6.5,8.5,Excel;SQL;Tableau;Power Query;Statistics,Mid-size,On-site,2026-08-20
+JMA-0997,Data Analyst,DataVista Labs,Hyderabad,1,3,7.5,9.5,Data Modeling;SQL;Excel;Communication;Power BI;Tableau,Mid-size,On-site,2026-08-19
+JMA-0453,Data Analyst,LumenArc Solutions,Pune,1,3,7.0,10.0,SAS;SQL;Power BI;Tableau;Communication;Python;Excel,MNC,On-site,2026-08-19
+JMA-0064,Data Analyst,LumenArc Analytics,Bengaluru,1,3,7.0,10.0,SQL;Statistics;Power Query;Excel;Stakeholder Management,Startup,On-site,2026-08-19
+JMA-0722,Data Analyst,HarborLine Solutions,Jaipur,6,9,15.0,20.0,Statistics;DAX;Excel;ETL;SQL;Python;Power BI,Mid-size,Hybrid,2026-08-19
+JMA-1187,Senior Data Analyst,InsightForge Solutions,Bengaluru,3,5,13.0,17.0,SQL;ETL;Machine Learning;Excel;Python;Statistics;Data Modeling,Mid-size,Hybrid,2026-08-19
+JMA-1111,Data Analyst,NovaGrid Consulting,Bengaluru,3,5,11.0,15.0,Excel;Power BI;DAX;Statistics,Mid-size,Hybrid,2026-08-19
+JMA-0815,Business Analyst,LumenArc Insights,Delhi NCR,1,3,7.0,9.0,Data Modeling;ETL;SAS;Communication;Stakeholder Management,MNC,Remote,2026-08-19
+JMA-1086,Data Analyst,GoldRidge Labs,Lucknow,1,3,7.0,9.0,Python;Power BI;Excel;SQL;Statistics,MNC,On-site,2026-08-19
+JMA-0235,Data Analyst,LumenArc Solutions,Mumbai,1,3,7.0,9.5,Excel;Python;Stakeholder Management;SQL;Power Query,MNC,On-site,2026-08-18
+JMA-0245,Business Analyst,EdgeStone Technologies,Chennai,1,3,8.0,11.5,Excel;Data Modeling;Python;SQL;Power BI;Communication;Stakeholder Management,MNC,Hybrid,2026-08-18
+JMA-0412,Data Analyst,TrueSignal Technologies,Delhi NCR,1,3,7.5,9.5,SQL;Statistics;Power BI;SAS;Excel;Power Query;Python,MNC,On-site,2026-08-18
+JMA-1116,Analytics Associate,IronPeak Analytics,Bengaluru,1,3,8.5,11.0,Communication;Python;Power Query;SQL;DAX;Data Modeling;Excel,MNC,On-site,2026-08-18
+JMA-1042,Business Analyst,FluxWorks Solutions,Delhi NCR,0,0,4.5,6.5,Machine Learning;Data Modeling;Stakeholder Management;Communication;SQL;ETL;Excel,MNC,On-site,2026-08-18
+JMA-1068,Analytics Associate,FluxWorks Labs,Jaipur,0,1,4.0,5.5,SQL;Data Modeling;Tableau;Power Query;Statistics;Excel,Mid-size,On-site,2026-08-18
+JMA-0681,Business Analyst,DeepCurrent Systems,Ahmedabad,1,3,8.0,10.0,Power Query;SQL;Data Modeling;Excel;Stakeholder Management;Python;Communication,MNC,Hybrid,2026-08-18
+JMA-0765,Data Analyst,QuantNest Insights,Pune,6,7,17.0,23.0,Python;Power Query;Excel;SQL;DAX;Power BI,Mid-size,On-site,2026-08-18
+JMA-0012,Data Analyst,LumenArc Technologies,Hyderabad,1,3,6.5,8.0,Communication;SQL;Excel;Statistics;Stakeholder Management;Power BI,Startup,On-site,2026-08-18
+JMA-1183,Data Analyst,FluxWorks Labs,Bengaluru,1,3,8.0,10.0,Statistics;Python;SQL;Excel;Data Modeling,Mid-size,On-site,2026-08-18
+JMA-0209,Data Analyst,ApexLoop Insights,Hyderabad,0,1,4.5,5.5,Power Query;Python;SQL;DAX,MNC,On-site,2026-08-18
+JMA-1037,Senior Data Analyst,MoonRidge Technologies,Mumbai,3,5,10.0,14.0,Data Modeling;Statistics;SQL;Excel;Stakeholder Management;DAX;Python,Startup,On-site,2026-08-18
+JMA-0147,MIS Executive,PixelLedger Analytics,Bengaluru,1,3,8.0,10.5,SQL;Power Query;Stakeholder Management;Communication;Excel,MNC,Remote,2026-08-18
+JMA-0748,Data Analyst,QuantNest Solutions,Bengaluru,1,3,7.0,9.5,Power BI;Power Query;Excel,Mid-size,Remote,2026-08-18
+JMA-0336,Business Analyst,IronPeak Analytics,Bengaluru,1,3,6.5,9.0,Data Modeling;Excel;Tableau;Stakeholder Management;Communication;SQL;Python,Startup,On-site,2026-08-18
+JMA-0666,Senior Data Analyst,PineCrest Dataworks,Pune,1,3,7.5,10.0,Data Modeling;Communication;Machine Learning;Power BI;Excel;SQL;Python,Startup,Remote,2026-08-18
+JMA-0566,Senior Data Analyst,PrimeVector Insights,Hyderabad,1,3,8.0,11.0,Machine Learning;Statistics;Data Modeling;Python;Communication;Excel;SQL,Mid-size,Hybrid,2026-08-17
+JMA-0994,Senior Data Analyst,ApexLoop Solutions,Mumbai,5,7,17.5,23.5,Excel;SQL;SAS;Data Modeling;Machine Learning,Startup,Hybrid,2026-08-17
+JMA-0667,MIS Executive,MoonRidge Insights,Ahmedabad,3,5,9.0,13.0,Power Query;Stakeholder Management;SQL;Excel,MNC,Hybrid,2026-08-17
+JMA-0272,Data Analyst,FluxWorks Analytics,Delhi NCR,1,3,7.5,10.0,Python;Power BI;DAX;Excel;ETL;SQL;Machine Learning,MNC,On-site,2026-08-17
+JMA-0744,Data Analyst,JetStream Insights,Hyderabad,0,1,4.0,5.5,Excel;Python;Power Query;Tableau;Statistics;Data Modeling;SQL,Startup,On-site,2026-08-17
+JMA-1008,MIS Executive,ApexLoop Insights,Chennai,5,7,16.5,21.5,Data Modeling;Excel;Python;Statistics,Mid-size,Hybrid,2026-08-17
+JMA-1168,Business Analyst,LumenArc Systems,Bengaluru,6,8,15.0,19.5,Power BI;Data Modeling;Communication;SQL;Stakeholder Management;Statistics;Excel,Mid-size,On-site,2026-08-17
+JMA-0293,Senior Data Analyst,NorthPeak Consulting,Bengaluru,3,5,13.5,17.5,Python;Data Modeling;Stakeholder Management;SQL;Statistics;Power BI;Machine Learning,MNC,Hybrid,2026-08-17
+JMA-0237,Data Analyst,BlueOrbit Insights,Kolkata,5,10,12.5,17.5,Statistics;Tableau;Communication;SQL;Excel,Mid-size,On-site,2026-08-17
+JMA-0639,Data Analyst,FluxWorks Analytics,Chennai,6,9,14.5,20.0,Excel;Python;Statistics;SQL;Power Query,Mid-size,On-site,2026-08-16
+JMA-0754,MIS Executive,NimbusWorks Analytics,Delhi NCR,1,3,7.5,10.0,SAS;Excel;Power Query;Python,Mid-size,On-site,2026-08-16
+JMA-0581,MIS Executive,NimbusWorks Insights,Bengaluru,3,5,11.5,14.5,Communication;ETL;Excel,Startup,Hybrid,2026-08-16
+JMA-0786,Data Analyst,EdgeStone Systems,Chennai,3,5,11.5,15.0,Power BI;Statistics;SQL;Python;Communication;Excel,MNC,On-site,2026-08-16
+JMA-0008,Data Analyst,PrimeVector Consulting,Bengaluru,6,7,17.5,22.0,Power BI;Python;Machine Learning;SQL;Communication;Tableau;Excel,MNC,On-site,2026-08-16
+JMA-1000,Business Analyst,QuantNest Consulting,Pune,1,3,6.0,8.0,SQL;Communication;Excel;Power BI;DAX;Statistics,Mid-size,On-site,2026-08-16
+JMA-0770,Senior Data Analyst,QuantNest Consulting,Bengaluru,3,5,11.0,15.0,Stakeholder Management;Data Modeling;Statistics;Tableau;DAX;Python;SQL,MNC,On-site,2026-08-16
+JMA-0179,Data Analyst,ApexLoop Labs,Mumbai,5,9,14.5,19.5,Excel;Stakeholder Management;ETL;SQL;Tableau;Power BI,MNC,Hybrid,2026-08-16
+JMA-0732,Data Analyst,CloudSlate Technologies,Jaipur,3,5,8.5,11.5,ETL;DAX;SQL;Data Modeling;Communication;Excel,Mid-size,On-site,2026-08-16
+JMA-0658,Data Analyst,OpalGrid Technologies,Bengaluru,1,3,7.0,9.5,Tableau;Power Query;ETL;Communication;SQL;Excel,MNC,Hybrid,2026-08-16
+JMA-0840,Business Analyst,NovaGrid Systems,Delhi NCR,3,5,9.5,13.0,Stakeholder Management;Excel;Statistics;SQL,Mid-size,Remote,2026-08-15
+JMA-1104,Data Analyst,PineCrest Labs,Mumbai,1,3,6.5,9.0,SQL;Power BI;Excel,Mid-size,On-site,2026-08-15
+JMA-0034,Data Analyst,BlueOrbit Insights,Pune,3,5,10.0,14.0,R;Statistics;Power BI;Data Modeling;Communication;SQL,MNC,Hybrid,2026-08-15
+JMA-0440,Data Analyst,CloudSlate Systems,Delhi NCR,3,5,10.5,13.0,SQL;Power Query;Communication;Python;Power BI;Excel;Machine Learning,Startup,On-site,2026-08-15
+JMA-0635,MIS Executive,Crestline Technologies,Kolkata,0,1,4.0,5.0,SQL;Power BI;Communication;Excel,Mid-size,On-site,2026-08-15
+JMA-0665,MIS Executive,ClearPath Analytics,Kolkata,1,3,6.5,9.0,Power Query;Excel;Communication,Mid-size,On-site,2026-08-15
+JMA-1195,Data Analyst,NimbusWorks Insights,Bengaluru,5,10,16.0,21.5,SQL;Excel;ETL;Communication;Power BI;Tableau;Power Query,Startup,Remote,2026-08-15
+JMA-0418,Business Analyst,ClearPath Insights,Bengaluru,1,3,7.0,9.0,Communication;SQL;Excel,Mid-size,On-site,2026-08-15
+JMA-0265,Senior Data Analyst,EdgeStone Labs,Hyderabad,3,5,9.0,12.0,Excel;DAX;SQL;Statistics,Startup,On-site,2026-08-15
+JMA-0044,Data Analyst,CloudSlate Dataworks,Chennai,0,1,4.5,6.0,Power BI;Python;Excel;SQL;Tableau;DAX,Mid-size,Remote,2026-08-15
+JMA-0988,Data Analyst,BlueOrbit Analytics,Hyderabad,0,1,4.0,5.5,DAX;Power BI;SQL;Stakeholder Management;R,MNC,On-site,2026-08-15
+JMA-0726,MIS Executive,EdgeStone Technologies,Hyderabad,1,3,6.5,9.0,SQL;Excel;ETL,Startup,On-site,2026-08-15
+JMA-0799,Data Analyst,MoonRidge Dataworks,Ahmedabad,5,8,14.5,18.5,Power BI;Python;Communication;Power Query;Statistics;SQL;Excel,Mid-size,On-site,2026-08-15
+JMA-0795,Data Analyst,NorthPeak Solutions,Mumbai,3,5,10.5,14.0,Excel;Power BI;SQL;Statistics,Mid-size,On-site,2026-08-14
+JMA-0150,Senior Data Analyst,ClearPath Solutions,Hyderabad,3,5,11.5,14.5,Data Modeling;Python;Excel;SQL;Communication,Startup,On-site,2026-08-14
+JMA-1055,Data Analyst,PixelLedger Systems,Jaipur,0,1,3.5,4.5,Power Query;Statistics;Excel;Power BI;Communication;SQL,Mid-size,Hybrid,2026-08-14
+JMA-1141,Data Analyst,MoonRidge Systems,Lucknow,3,5,10.0,13.5,Excel;Python;Machine Learning;Power Query;Statistics;SQL,MNC,Hybrid,2026-08-14
+JMA-0591,Data Analyst,GoldRidge Consulting,Mumbai,6,10,18.5,24.0,Statistics;R;SQL;Excel,MNC,Hybrid,2026-08-14
+JMA-0173,Data Analyst,ApexLoop Solutions,Mumbai,1,3,7.0,9.5,Excel;SQL;Power Query,MNC,On-site,2026-08-14
+JMA-0375,Business Analyst,JetStream Insights,Mumbai,1,3,8.5,11.0,Python;Statistics;Excel;SQL;Stakeholder Management;DAX;Communication,MNC,On-site,2026-08-14
+JMA-1106,Senior Data Analyst,TrueSignal Consulting,Hyderabad,3,5,13.0,18.0,Machine Learning;Python;Data Modeling;Excel;Statistics;Power BI;SQL,MNC,On-site,2026-08-14
+JMA-1048,Data Analyst,SwiftKite Analytics,Bengaluru,1,3,6.5,9.0,DAX;Power Query;Tableau;Power BI;Excel;SQL;Communication,Mid-size,On-site,2026-08-14
+JMA-0201,Data Analyst,NimbusWorks Analytics,Pune,1,3,6.5,8.5,Statistics;SQL;Python;Excel;ETL;Stakeholder Management;Power Query,Mid-size,On-site,2026-08-14
+JMA-0189,Data Analyst,HarborLine Dataworks,Delhi NCR,1,3,8.0,10.0,Tableau;Python;SQL;Excel,Mid-size,On-site,2026-08-14
+JMA-1148,Business Analyst,TrueSignal Labs,Bengaluru,0,1,4.0,5.0,Power BI;Communication;SQL;Data Modeling;Excel;Stakeholder Management,Startup,Remote,2026-08-14
+JMA-0163,Data Analyst,NorthPeak Analytics,Hyderabad,1,3,7.0,10.0,SQL;Excel;Power BI,Startup,Hybrid,2026-08-13
+JMA-0854,Data Analyst,KeyStone Analytics,Bengaluru,1,3,8.5,10.5,Power BI;DAX;Communication;Data Modeling;Excel;Statistics;Python,MNC,On-site,2026-08-13
+JMA-0218,Data Analyst,PrimeVector Labs,Bengaluru,1,3,6.0,8.0,DAX;Excel;Power BI;ETL;SQL;Stakeholder Management,Startup,Remote,2026-08-13
+JMA-1064,Data Analyst,HarborLine Dataworks,Mumbai,5,7,17.0,21.5,Python;Excel;R;DAX;SQL,Startup,Hybrid,2026-08-13
+JMA-0575,Data Analyst,BrightStack Analytics,Delhi NCR,0,0,4.0,6.0,Power BI;Communication;Statistics;Excel;SQL,Startup,Remote,2026-08-13
+JMA-0204,MIS Executive,EdgeStone Analytics,Bengaluru,5,10,16.5,20.5,Data Modeling;Excel;Tableau;Communication;Power Query,Mid-size,Hybrid,2026-08-13
+JMA-0827,Data Analyst,OpalGrid Systems,Ahmedabad,3,5,10.0,13.0,SAS;Excel;Python;Statistics;SQL,MNC,Remote,2026-08-13
+JMA-0615,Data Analyst,PineCrest Dataworks,Delhi NCR,3,5,12.0,15.5,Statistics;Tableau;DAX;Communication;SQL;Power BI;Excel,Mid-size,On-site,2026-08-13
+JMA-1199,Senior Data Analyst,EdgeStone Analytics,Pune,3,5,10.5,13.5,Statistics;ETL;SQL;Python;Communication;Data Modeling;DAX,Mid-size,On-site,2026-08-13
+JMA-1179,Senior Data Analyst,IronPeak Analytics,Mumbai,1,3,8.5,10.5,Tableau;Power BI;Communication;ETL;SQL;Statistics;Machine Learning,Mid-size,On-site,2026-08-12
+JMA-0222,Senior Data Analyst,CloudSlate Systems,Bengaluru,0,0,4.5,6.0,Machine Learning;Data Modeling;SQL;Statistics;Communication;Excel;Python,Mid-size,Hybrid,2026-08-12
+JMA-0238,Data Analyst,DataVista Technologies,Delhi NCR,6,9,14.5,21.0,Excel;Statistics;DAX;Stakeholder Management;SQL;Tableau,Startup,Hybrid,2026-08-12
+JMA-0275,Business Analyst,TrueSignal Consulting,Lucknow,6,9,13.5,18.5,Excel;Stakeholder Management;Power Query;SQL;Communication;DAX,Mid-size,On-site,2026-08-12
+JMA-0172,Analytics Associate,DataVista Consulting,Jaipur,1,3,6.0,7.5,Stakeholder Management;SQL;ETL;Excel;Power BI;Statistics;Python,Startup,Hybrid,2026-08-12
+JMA-1132,Data Analyst,ZenithWorks Labs,Bengaluru,3,5,12.0,16.0,Data Modeling;Excel;Communication;Statistics;ETL;Stakeholder Management,Mid-size,On-site,2026-08-12
+JMA-0601,Data Analyst,IronPeak Analytics,Pune,0,0,4.5,5.5,Power BI;SQL;Power Query;Statistics;Communication;Tableau;Excel,Startup,On-site,2026-08-12
+JMA-0541,MIS Executive,PineCrest Solutions,Bengaluru,3,5,11.5,14.5,Excel;SQL;Power BI,Startup,On-site,2026-08-12
+JMA-0761,Data Analyst,DataVista Labs,Mumbai,3,5,10.0,14.0,Power Query;DAX;Data Modeling;Power BI;SQL;Excel,MNC,Hybrid,2026-08-12
+JMA-0357,Business Analyst,DataVista Labs,Mumbai,1,3,7.0,9.0,ETL;Communication;Stakeholder Management;Excel;SQL;Power BI,Mid-size,Remote,2026-08-12
+JMA-0846,Data Analyst,NorthPeak Solutions,Delhi NCR,3,5,10.0,13.5,SQL;Power BI;Excel;Statistics,MNC,Remote,2026-08-12
+JMA-0561,Data Analyst,PrimeVector Insights,Mumbai,0,1,4.5,6.5,Communication;Power BI;Excel;SQL;Python;Data Modeling;DAX,Startup,Hybrid,2026-08-12
+JMA-0621,Business Analyst,ApexLoop Solutions,Hyderabad,3,5,12.0,17.0,SQL;Excel;Python,MNC,Hybrid,2026-08-12
+JMA-0422,MIS Executive,MetricMinds Systems,Delhi NCR,1,3,6.0,8.5,SQL;Excel;Power Query;Communication,Startup,On-site,2026-08-12
+JMA-0480,MIS Executive,PrimeVector Insights,Delhi NCR,3,5,10.0,13.5,Excel;Python;SQL,Startup,Hybrid,2026-08-12
+JMA-0338,Data Analyst,CloudSlate Technologies,Bengaluru,5,8,17.0,24.0,SQL;Excel;Statistics;Tableau;Python;Data Modeling;Power Query,MNC,Hybrid,2026-08-12
+JMA-0501,Analytics Associate,MetricMinds Consulting,Jaipur,3,5,8.5,11.0,Tableau;DAX;SQL;Communication;Excel;Power Query;Statistics,Startup,On-site,2026-08-12
+JMA-0484,Data Analyst,ClearPath Analytics,Delhi NCR,3,5,12.5,16.0,Power BI;SQL;Tableau;Stakeholder Management;Communication;Python;Statistics,MNC,On-site,2026-08-12
+JMA-0781,Data Analyst,GoldRidge Consulting,Hyderabad,3,5,11.0,14.0,Statistics;ETL;Machine Learning;SQL;Excel;Tableau,Mid-size,On-site,2026-08-11
+JMA-1061,Business Analyst,ApexLoop Analytics,Mumbai,3,5,12.0,16.0,Stakeholder Management;SQL;Statistics;Communication;Excel,MNC,Hybrid,2026-08-11
+JMA-0941,Data Analyst,NorthPeak Technologies,Mumbai,1,3,8.0,11.0,Power BI;Python;Data Modeling;Excel;Statistics;SQL;Communication,MNC,Hybrid,2026-08-11
+JMA-1110,Business Analyst,BlueOrbit Technologies,Kolkata,0,0,4.5,5.5,Statistics;Excel;SQL;Communication;Data Modeling,Startup,Hybrid,2026-08-11
+JMA-0592,MIS Executive,Crestline Technologies,Hyderabad,0,0,4.0,5.5,Communication;Power Query;Excel,Mid-size,On-site,2026-08-11
+JMA-0743,Data Analyst,BrightStack Consulting,Mumbai,3,5,11.0,14.0,Power BI;Power Query;ETL;Excel;SQL;Python,Mid-size,On-site,2026-08-11
+JMA-0820,Data Analyst,EdgeStone Labs,Mumbai,3,5,12.0,16.5,Power BI;DAX;R;SQL;Excel;Data Modeling,Mid-size,Remote,2026-08-11
+JMA-0207,Analytics Associate,ClearPath Insights,Hyderabad,1,3,8.0,10.5,Communication;Power BI;SQL;Power Query;Excel;Tableau;Statistics,MNC,On-site,2026-08-11
+JMA-1016,Analytics Associate,PineCrest Dataworks,Chennai,1,3,6.5,8.5,Data Modeling;Excel;Communication;SQL;Power Query;Power BI;Tableau,Mid-size,Hybrid,2026-08-11
+JMA-0208,Business Analyst,LumenArc Technologies,Delhi NCR,1,3,7.5,10.0,SQL;Excel;Communication;Data Modeling;Python;Stakeholder Management;Tableau,Mid-size,On-site,2026-08-11
+JMA-0286,Senior Data Analyst,ApexLoop Insights,Pune,1,3,7.0,9.5,SQL;Excel;Power BI;Python;Communication;Stakeholder Management;Statistics,Mid-size,On-site,2026-08-10
+JMA-0130,Data Analyst,MoonRidge Dataworks,Chennai,1,3,7.5,9.0,Communication;Power BI;Data Modeling;SQL;Power Query;Excel;Python,Startup,Hybrid,2026-08-10
+JMA-0811,Data Analyst,PrimeVector Technologies,Delhi NCR,3,5,11.5,14.5,Excel;Power BI;SQL;Python;Communication,Mid-size,Hybrid,2026-08-10
+JMA-1059,Business Analyst,ApexLoop Labs,Bengaluru,0,1,4.0,5.5,Excel;Data Modeling;Communication;Stakeholder Management;Tableau,Startup,On-site,2026-08-10
+JMA-0432,MIS Executive,FluxWorks Analytics,Chennai,0,1,4.0,5.5,Communication;SQL;Power BI;Tableau;Power Query;Excel;ETL,Mid-size,On-site,2026-08-10
+JMA-1078,MIS Executive,SwiftKite Analytics,Bengaluru,0,1,4.0,5.0,Power BI;ETL;Excel;Power Query;SQL;Stakeholder Management,Mid-size,On-site,2026-08-10
+JMA-0862,Senior Data Analyst,IronPeak Insights,Bengaluru,1,3,8.0,10.0,Power BI;Machine Learning;SQL;Tableau;Python;Excel;Data Modeling,Mid-size,On-site,2026-08-10
+JMA-0023,Senior Data Analyst,InsightForge Consulting,Mumbai,3,5,11.0,14.5,Excel;Python;Data Modeling;SQL;Communication;Statistics;Power BI,Mid-size,On-site,2026-08-10
+JMA-0711,Data Analyst,MoonRidge Technologies,Pune,1,3,7.0,9.0,Statistics;SQL;Communication;Power Query;Python;Excel;Data Modeling,Startup,On-site,2026-08-10
+JMA-0719,Business Analyst,MetricMinds Technologies,Ahmedabad,1,3,5.5,8.0,Excel;SQL;Communication;Power BI;Tableau;Stakeholder Management,Startup,On-site,2026-08-10
+JMA-0543,Data Analyst,PrimeVector Dataworks,Bengaluru,6,8,18.5,24.5,Power BI;Excel;DAX;SQL,MNC,Hybrid,2026-08-09
+JMA-1133,Senior Data Analyst,DataVista Systems,Jaipur,3,5,10.0,13.5,DAX;Machine Learning;Power BI;Statistics;Excel;SQL;Power Query,Mid-size,Hybrid,2026-08-09
+JMA-0995,MIS Executive,NovaGrid Consulting,Bengaluru,0,1,4.5,6.0,Excel;Python;Power Query;Communication;Power BI,Mid-size,Hybrid,2026-08-09
+JMA-0464,Data Analyst,CloudSlate Technologies,Pune,1,3,7.0,9.0,Communication;DAX;Data Modeling;Power BI;Excel;Stakeholder Management;SQL,MNC,On-site,2026-08-09
+JMA-0470,Business Analyst,ClearPath Systems,Jaipur,0,1,3.5,4.5,Python;Power BI;Stakeholder Management;SQL;Excel;Communication,Mid-size,On-site,2026-08-09
+JMA-0261,Data Analyst,DataVista Systems,Bengaluru,0,0,5.0,6.5,Communication;SQL;Python;Data Modeling;Excel;Statistics,MNC,Remote,2026-08-09
+JMA-0273,Data Analyst,BrightStack Analytics,Delhi NCR,3,5,11.0,14.5,Statistics;Power BI;SQL;ETL;Excel;Communication;Python,Startup,On-site,2026-08-09
+JMA-0191,Data Analyst,CloudSlate Technologies,Chennai,3,5,9.5,13.0,SQL;Python;Communication;Excel,Mid-size,On-site,2026-08-09
+JMA-0429,Data Analyst,MetricMinds Technologies,Hyderabad,3,5,10.0,13.5,Communication;Python;Excel;Power Query;SQL;Power BI,MNC,Hybrid,2026-08-09
+JMA-0940,Data Analyst,LumenArc Solutions,Bengaluru,6,10,16.5,22.0,Tableau;Communication;Excel;Power BI;Stakeholder Management;SQL;Python,MNC,On-site,2026-08-09
+JMA-0154,Data Analyst,Crestline Labs,Mumbai,5,10,17.0,22.0,Python;Excel;Power BI;Power Query;Communication;SQL;Statistics,Mid-size,Hybrid,2026-08-09
+JMA-0903,Business Analyst,FluxWorks Consulting,Mumbai,1,3,7.0,9.5,Stakeholder Management;Data Modeling;Excel;Statistics;SQL;Communication,Mid-size,On-site,2026-08-08
+JMA-0515,Data Analyst,IronPeak Analytics,Chennai,3,5,10.0,14.0,Communication;Stakeholder Management;Statistics;ETL;SQL;Python;Power Query,Mid-size,On-site,2026-08-08
+JMA-0651,Analytics Associate,OpalGrid Labs,Kolkata,1,3,6.0,8.5,Machine Learning;SQL;Communication;Python;Excel,Mid-size,Hybrid,2026-08-08
+JMA-0438,Data Analyst,OpalGrid Labs,Mumbai,3,5,10.0,13.0,Excel;Python;ETL;SQL,Mid-size,Hybrid,2026-08-08
+JMA-0302,Data Analyst,FluxWorks Solutions,Bengaluru,1,3,7.0,9.0,Excel;Python;Tableau;SQL;Power BI,Mid-size,On-site,2026-08-08
+JMA-0627,Data Analyst,ClearPath Solutions,Mumbai,1,3,6.5,8.5,DAX;SQL;Python;Excel,Startup,Remote,2026-08-08
+JMA-0809,Data Analyst,BrightStack Analytics,Delhi NCR,6,8,19.0,26.0,Excel;Power BI;SQL;Python;Statistics,MNC,Hybrid,2026-08-08
+JMA-0831,Data Analyst,ApexLoop Technologies,Delhi NCR,0,1,4.5,5.5,Power BI;Stakeholder Management;SQL;Python;Excel,Startup,Remote,2026-08-08
+JMA-1161,Data Analyst,EdgeStone Analytics,Delhi NCR,1,3,8.0,11.0,Data Modeling;Power Query;SQL;Excel;Statistics,MNC,Remote,2026-08-08
+JMA-1023,Business Analyst,TrueSignal Labs,Hyderabad,0,1,4.5,6.0,SQL;Tableau;Excel;Python;Power Query;Statistics,Mid-size,On-site,2026-08-08
+JMA-0479,MIS Executive,ClearPath Systems,Delhi NCR,1,3,7.0,9.0,ETL;SAS;Statistics;Excel,Mid-size,Hybrid,2026-08-08
+JMA-0115,Data Analyst,BlueOrbit Insights,Delhi NCR,5,8,19.0,25.5,Python;Excel;Machine Learning;SAS;SQL;Power BI,Mid-size,On-site,2026-08-08
+JMA-0734,Business Analyst,NovaGrid Consulting,Mumbai,1,3,8.0,11.0,Statistics;Power BI;Python;SQL;Communication;Excel;Stakeholder Management,Mid-size,On-site,2026-08-08
+JMA-0084,Data Analyst,MoonRidge Dataworks,Delhi NCR,1,3,7.0,9.0,Data Modeling;SQL;Communication;Excel;Power BI,Mid-size,On-site,2026-08-08
+JMA-0373,Data Analyst,HarborLine Systems,Delhi NCR,0,0,4.5,6.0,Data Modeling;Communication;SQL;R;Excel;Python,MNC,On-site,2026-08-08
+JMA-0659,MIS Executive,GoldRidge Consulting,Delhi NCR,3,5,10.5,14.5,Stakeholder Management;Communication;Power Query;Power BI,Mid-size,Hybrid,2026-08-08
+JMA-0089,Business Analyst,SwiftKite Solutions,Kolkata,3,5,11.0,14.5,Excel;SQL;SAS;Stakeholder Management;Communication,MNC,On-site,2026-08-07
+JMA-1017,MIS Executive,EdgeStone Technologies,Lucknow,5,9,14.5,20.0,Excel;Python;Power BI;Power Query;Communication;SQL,MNC,On-site,2026-08-07
+JMA-0607,Senior Data Analyst,HarborLine Solutions,Chennai,3,5,10.0,14.0,Machine Learning;Stakeholder Management;R;Data Modeling;SQL;Power Query,Mid-size,On-site,2026-08-07
+JMA-0148,Business Analyst,BlueOrbit Insights,Bengaluru,1,3,6.5,8.5,Data Modeling;Power BI;Communication;Excel;SQL,Startup,On-site,2026-08-07
+JMA-0467,Senior Data Analyst,ClearPath Consulting,Jaipur,1,3,7.5,10.0,Python;Statistics;Machine Learning;Tableau,Mid-size,On-site,2026-08-07
+JMA-0800,Data Analyst,ApexLoop Solutions,Bengaluru,1,3,6.5,9.0,Power BI;Python;Tableau;SQL;Excel;SAS,Mid-size,Hybrid,2026-08-07
+JMA-0646,Data Analyst,ZenithWorks Labs,Hyderabad,1,3,7.5,9.5,Python;Machine Learning;Statistics;Excel;SQL;Tableau,Startup,On-site,2026-08-07
+JMA-1102,Data Analyst,OpalGrid Labs,Bengaluru,3,5,10.5,13.0,ETL;Communication;Excel;DAX;Statistics;SQL,Startup,Hybrid,2026-08-07
+JMA-0992,Data Analyst,EdgeStone Technologies,Pune,1,3,7.0,9.0,Python;Communication;Power BI;Statistics;SQL;Excel;DAX,Startup,On-site,2026-08-07
+JMA-0507,Data Analyst,ApexLoop Solutions,Lucknow,1,3,7.5,9.5,Data Modeling;SQL;Statistics;Power BI;Excel,MNC,On-site,2026-08-07
+JMA-0397,Business Analyst,PrimeVector Insights,Bengaluru,0,1,4.0,5.5,SQL;Stakeholder Management;Power BI;Statistics;Excel,Mid-size,On-site,2026-08-07
+JMA-0427,Data Analyst,PineCrest Labs,Pune,3,5,10.5,14.5,Excel;DAX;Communication;Python;SQL;Power BI;Tableau,MNC,Hybrid,2026-08-07
+JMA-0979,Data Analyst,FluxWorks Consulting,Mumbai,3,5,12.5,16.5,Statistics;Machine Learning;Data Modeling;SQL;Excel;Power BI,MNC,Hybrid,2026-08-07
+JMA-0268,Data Analyst,QuantNest Solutions,Bengaluru,1,3,7.5,10.5,Statistics;Power BI;Communication;Excel;ETL;Power Query,MNC,On-site,2026-08-07
+JMA-0240,MIS Executive,LumenArc Solutions,Hyderabad,0,1,5.0,6.5,Stakeholder Management;Data Modeling;SQL;Excel;Power Query;Communication,MNC,Hybrid,2026-08-07
+JMA-0693,Data Analyst,InsightForge Consulting,Pune,3,5,11.5,15.0,SQL;DAX;Excel;Power BI;Python;Stakeholder Management;ETL,Mid-size,Remote,2026-08-06
+JMA-0102,Data Analyst,QuantNest Consulting,Hyderabad,5,8,13.5,19.0,Excel;SQL;DAX;Communication;Tableau;SAS;Statistics,Mid-size,On-site,2026-08-06
+JMA-0766,Data Analyst,PrimeVector Labs,Kolkata,3,5,10.0,13.0,Excel;DAX;SQL;Power Query;Communication;Power BI;Python,Mid-size,On-site,2026-08-06
+JMA-0202,Data Analyst,IronPeak Analytics,Hyderabad,3,5,11.5,15.5,Machine Learning;Python;SQL;Stakeholder Management;Excel;DAX;Communication,Mid-size,Hybrid,2026-08-06
+JMA-0058,Data Analyst,MoonRidge Insights,Mumbai,1,3,7.0,9.5,Excel;Tableau;SQL;Statistics;Communication,Startup,On-site,2026-08-06
+JMA-0694,Data Analyst,QuantNest Insights,Mumbai,3,5,12.0,15.5,DAX;Power BI;SQL;Communication;Power Query;Python;Data Modeling,Startup,On-site,2026-08-06
+JMA-0454,Senior Data Analyst,PrimeVector Technologies,Mumbai,3,5,13.0,17.0,Communication;SQL;Power BI;Data Modeling;Machine Learning;Python;Excel,Startup,On-site,2026-08-06
+JMA-0612,Data Analyst,DataVista Labs,Hyderabad,0,1,4.0,5.5,ETL;Power BI;Excel;Power Query;Statistics;SQL;Communication,Mid-size,Hybrid,2026-08-05
+JMA-1162,Business Analyst,KeyStone Dataworks,Jaipur,6,7,15.5,20.0,SQL;Stakeholder Management;Power BI;DAX;Excel;Communication;Data Modeling,MNC,On-site,2026-08-05
+JMA-1175,MIS Executive,PrimeVector Analytics,Bengaluru,3,5,11.5,14.0,Statistics;Communication;Excel;Power Query;Power BI;SQL,Mid-size,On-site,2026-08-05
+JMA-0894,MIS Executive,FluxWorks Solutions,Delhi NCR,3,5,10.5,14.0,SQL;Power Query;Excel,Startup,On-site,2026-08-05
+JMA-0461,Data Analyst,ClearPath Consulting,Chennai,3,5,11.5,15.5,Python;Excel;SQL;Data Modeling;Tableau;Statistics;R,Startup,On-site,2026-08-05
+JMA-1038,Data Analyst,KeyStone Labs,Kolkata,0,1,4.0,5.5,Stakeholder Management;Power Query;Communication;Excel;DAX;Power BI;Tableau,Startup,Hybrid,2026-08-05
+JMA-0535,Senior Data Analyst,NorthPeak Systems,Delhi NCR,1,3,7.5,10.0,SQL;Data Modeling;Stakeholder Management;Machine Learning;Excel;Python;Power BI,Mid-size,Remote,2026-08-05
+JMA-0033,Data Analyst,OpalGrid Systems,Bengaluru,3,5,10.5,13.5,Power Query;Statistics;Python;Communication;DAX;Tableau,Startup,On-site,2026-08-05
+JMA-0502,Business Analyst,BrightStack Systems,Bengaluru,6,9,16.5,22.5,Power BI;Excel;Stakeholder Management;SQL;Statistics;Communication;Tableau,Startup,On-site,2026-08-05
+JMA-1156,Data Analyst,NimbusWorks Technologies,Delhi NCR,1,3,7.5,10.5,SQL;DAX;Tableau;Statistics;Communication;Python;Excel,MNC,On-site,2026-08-04
+JMA-1077,Analytics Associate,PrimeVector Insights,Pune,1,3,7.0,9.5,SQL;Excel;Communication;Power Query,Mid-size,Hybrid,2026-08-04
+JMA-0182,Data Analyst,SwiftKite Dataworks,Hyderabad,5,9,16.0,21.0,Python;SQL;Power BI;Excel;Stakeholder Management;Communication,Mid-size,On-site,2026-08-04
+JMA-0610,Data Analyst,CloudSlate Systems,Hyderabad,3,5,11.5,15.0,Excel;Power Query;DAX;Stakeholder Management;SQL;Machine Learning,Mid-size,On-site,2026-08-04
+JMA-1053,Data Analyst,DataVista Systems,Bengaluru,1,3,8.0,10.0,SQL;Data Modeling;Power Query;Power BI;Communication;Excel;ETL,Mid-size,On-site,2026-08-04
+JMA-0564,Business Analyst,MoonRidge Labs,Pune,1,3,6.5,8.5,Python;Excel;Stakeholder Management;Communication;Power BI;Power Query;SQL,Mid-size,On-site,2026-08-04
+JMA-1056,Data Analyst,NimbusWorks Insights,Hyderabad,1,3,6.5,8.5,SQL;SAS;Power Query;Power BI;ETL;Excel;Communication,MNC,Hybrid,2026-08-04
+JMA-1040,Senior Data Analyst,BrightStack Analytics,Bengaluru,1,3,9.0,12.5,SQL;Python;Power Query;Data Modeling;Communication;Stakeholder Management;Machine Learning,MNC,On-site,2026-08-04
+JMA-0153,Analytics Associate,ClearPath Systems,Delhi NCR,3,5,11.0,15.0,SQL;Excel;Power BI;DAX,Mid-size,Hybrid,2026-08-04
+JMA-0674,Business Analyst,JetStream Insights,Lucknow,6,9,13.0,17.0,Power Query;Excel;Communication;Stakeholder Management;SQL;R;Data Modeling,Startup,On-site,2026-08-04
+JMA-0230,Data Analyst,OpalGrid Labs,Ahmedabad,1,3,6.0,7.5,Power Query;Python;SQL;R;Excel,Startup,On-site,2026-08-04
+JMA-0360,Data Analyst,OpalGrid Systems,Hyderabad,1,3,7.0,9.5,Statistics;DAX;Data Modeling;SQL;Excel;Python;Power Query,MNC,Remote,2026-08-03
+JMA-0394,Senior Data Analyst,PineCrest Labs,Mumbai,0,1,5.0,7.0,Machine Learning;SQL;Data Modeling;Stakeholder Management;Power Query;Python,MNC,Remote,2026-08-03
+JMA-0437,MIS Executive,MoonRidge Systems,Lucknow,3,5,9.5,12.5,Stakeholder Management;DAX;SQL;SAS;Excel;Power Query,Mid-size,Hybrid,2026-08-03
+JMA-0323,Data Analyst,BrightStack Analytics,Hyderabad,1,3,6.0,8.5,Excel;SAS;Communication;Machine Learning;R;SQL,Startup,On-site,2026-08-03
+JMA-0424,Data Analyst,HarborLine Insights,Chennai,6,8,13.5,19.5,Statistics;SQL;Excel,MNC,On-site,2026-08-03
+JMA-0647,Data Analyst,KeyStone Analytics,Bengaluru,5,10,18.0,24.5,R;Data Modeling;SQL;SAS;Excel;Statistics;Python,MNC,On-site,2026-08-03
+JMA-0082,Data Analyst,TrueSignal Technologies,Delhi NCR,1,3,7.0,9.0,SQL;Statistics;Power Query;Excel;ETL,Startup,On-site,2026-08-03
+JMA-0052,Data Analyst,LumenArc Insights,Chennai,1,3,6.5,9.0,Excel;SQL;ETL;Statistics;Communication;Power BI;Power Query,MNC,Hybrid,2026-08-03
+JMA-0747,Business Analyst,OpalGrid Consulting,Hyderabad,1,3,6.5,8.5,Excel;Communication;Data Modeling;Power Query;ETL;Power BI,Mid-size,Hybrid,2026-08-03
+JMA-0196,Business Analyst,GoldRidge Consulting,Delhi NCR,3,5,12.5,16.0,SQL;Statistics;Communication;Power BI;Stakeholder Management;Data Modeling,Mid-size,Hybrid,2026-08-03
+JMA-0019,Business Analyst,DataVista Consulting,Pune,6,8,15.0,19.0,Data Modeling;Stakeholder Management;SQL;Excel,Startup,On-site,2026-08-03
+JMA-0645,Senior Data Analyst,MetricMinds Systems,Hyderabad,3,5,11.5,14.5,ETL;Statistics;Python;SQL;R;Machine Learning;Data Modeling,MNC,On-site,2026-08-02
+JMA-0054,Analytics Associate,NimbusWorks Analytics,Pune,3,5,10.5,14.5,Communication;SQL;Excel;DAX;Tableau;Power BI;Statistics,MNC,Remote,2026-08-02
+JMA-0698,Data Analyst,OpalGrid Technologies,Hyderabad,5,8,15.0,21.0,Data Modeling;Excel;Tableau;Statistics;Python;SQL;Power BI,Startup,Hybrid,2026-08-02
+JMA-0387,Data Analyst,IronPeak Insights,Ahmedabad,6,9,13.5,18.0,Statistics;Excel;DAX;SQL,MNC,On-site,2026-08-02
+JMA-0741,Senior Data Analyst,PrimeVector Consulting,Mumbai,3,5,12.5,15.5,Statistics;Python;Excel;Stakeholder Management;SQL;Power BI;Data Modeling,Startup,On-site,2026-08-02
+JMA-0250,Data Analyst,KeyStone Dataworks,Hyderabad,5,7,16.5,23.0,SQL;Power Query;Excel;Communication;Tableau;Power BI;ETL,Mid-size,On-site,2026-08-02
+JMA-0981,Data Analyst,FluxWorks Labs,Chennai,0,1,3.5,4.5,Statistics;Communication;Power Query;Excel;Power BI,Startup,On-site,2026-08-02
+JMA-0731,MIS Executive,CloudSlate Solutions,Hyderabad,0,1,4.5,6.0,SQL;Python;Power Query;DAX;Excel;Stakeholder Management;Communication,MNC,On-site,2026-08-02
+JMA-0625,Data Analyst,KeyStone Consulting,Hyderabad,1,3,7.5,10.0,Statistics;SQL;Tableau;Power BI;Excel;Python,Startup,On-site,2026-08-02
+JMA-1153,Data Analyst,CloudSlate Dataworks,Bengaluru,0,0,5.5,7.0,SQL;Data Modeling;Excel;Power BI;Python;DAX;Power Query,MNC,Hybrid,2026-08-02
+JMA-0274,Analytics Associate,NorthPeak Technologies,Hyderabad,0,1,3.5,5.0,Power Query;SQL;SAS;Power BI;DAX;Excel;Communication,Mid-size,On-site,2026-08-02
+JMA-0619,Data Analyst,BrightStack Analytics,Hyderabad,3,5,11.5,15.0,Excel;SQL;Statistics;Power BI;Communication;ETL;DAX,Mid-size,Hybrid,2026-08-02
+JMA-1160,Business Analyst,JetStream Insights,Pune,5,9,14.5,19.5,Stakeholder Management;Excel;Power BI;Communication;Statistics;SQL;Tableau,Startup,Remote,2026-08-02
+JMA-0029,Data Analyst,BrightStack Labs,Mumbai,3,5,11.0,14.0,Statistics;Power BI;SQL;ETL;Python;Excel,MNC,Remote,2026-08-01
+JMA-0613,Data Analyst,OpalGrid Dataworks,Kolkata,1,3,7.0,9.5,SQL;R;Python;Power BI;Machine Learning;DAX;Power Query,Mid-size,Remote,2026-08-01
+JMA-0782,Senior Data Analyst,EdgeStone Consulting,Bengaluru,5,8,18.0,23.0,Power BI;Power Query;Communication;Excel;Data Modeling;Python;SQL,Startup,On-site,2026-08-01
+JMA-0344,Data Analyst,FluxWorks Labs,Kolkata,3,5,10.5,14.0,SQL;Data Modeling;Statistics;Excel;Python;Tableau,Startup,On-site,2026-08-01
+JMA-0949,Data Analyst,DataVista Consulting,Delhi NCR,1,3,7.0,9.0,SQL;Excel;Power BI,Startup,On-site,2026-08-01
+JMA-0296,Data Analyst,TrueSignal Systems,Delhi NCR,1,3,7.0,9.5,Data Modeling;Power Query;Excel;Power BI;SQL;Communication;Python,MNC,Hybrid,2026-08-01
+JMA-1197,Data Analyst,Crestline Analytics,Hyderabad,3,5,11.5,14.5,Communication;Data Modeling;Excel;DAX,MNC,Remote,2026-08-01
+JMA-0977,Analytics Associate,PineCrest Insights,Hyderabad,3,5,12.0,16.5,R;Communication;Python;SQL;DAX;Statistics;Machine Learning,MNC,Hybrid,2026-08-01
+JMA-0087,Senior Data Analyst,Crestline Technologies,Bengaluru,3,5,12.5,16.0,ETL;Stakeholder Management;Python;Data Modeling;SQL;Machine Learning;Communication,Mid-size,On-site,2026-08-01
+JMA-1071,Data Analyst,HarborLine Dataworks,Bengaluru,3,5,12.0,16.0,Communication;Statistics;SQL;Power BI;Python;Excel;Power Query,Mid-size,Remote,2026-08-01
+JMA-0654,Data Analyst,NimbusWorks Technologies,Chennai,1,3,7.0,9.5,Statistics;Communication;Python;Power BI;SQL;Power Query;Excel,Startup,On-site,2026-08-01
+JMA-0138,Senior Data Analyst,TrueSignal Labs,Hyderabad,5,8,18.0,24.0,Machine Learning;SQL;Python;ETL;Communication;Tableau;DAX,MNC,Hybrid,2026-08-01
+JMA-0471,Data Analyst,PrimeVector Labs,Delhi NCR,3,5,11.0,14.5,Excel;SQL;R;Statistics;Communication;Power BI;Python,MNC,On-site,2026-08-01
+JMA-0609,MIS Executive,LumenArc Systems,Delhi NCR,0,0,3.5,5.0,Stakeholder Management;DAX;Excel;Power Query;ETL;SAS;Statistics,Startup,Remote,2026-08-01
+JMA-0908,Business Analyst,NorthPeak Analytics,Pune,3,5,10.5,14.5,Python;Data Modeling;Stakeholder Management;SQL;Communication;Excel;Power BI,MNC,On-site,2026-08-01
+JMA-0482,Data Analyst,NorthPeak Consulting,Chennai,1,3,6.0,8.0,SQL;Communication;Excel,Startup,On-site,2026-08-01
+JMA-0814,Data Analyst,PineCrest Labs,Hyderabad,1,3,6.5,9.0,Python;SQL;Excel;DAX;Communication;Statistics,Mid-size,Hybrid,2026-08-01
+JMA-1035,Data Analyst,NimbusWorks Insights,Kolkata,3,5,9.5,12.5,Excel;SQL;ETL;Tableau;Python;Stakeholder Management;Power Query,Mid-size,On-site,2026-08-01
+JMA-0924,Senior Data Analyst,KeyStone Analytics,Bengaluru,1,3,7.0,8.5,Stakeholder Management;Tableau;Statistics;Python;SQL;Communication,Mid-size,Hybrid,2026-08-01
+JMA-0200,Data Analyst,ApexLoop Technologies,Bengaluru,1,3,7.5,10.5,Power Query;Power BI;Communication;Python;DAX;SQL;Excel,Mid-size,On-site,2026-08-01
+JMA-0920,Senior Data Analyst,JetStream Solutions,Mumbai,3,5,13.5,17.0,Data Modeling;Statistics;Machine Learning;SQL;Communication;Excel;Python,Startup,Remote,2026-08-01
+JMA-0259,Analytics Associate,MoonRidge Dataworks,Kolkata,3,5,10.5,14.5,Excel;Python;SQL;Communication;Power BI,MNC,Hybrid,2026-08-01
+JMA-0307,Data Analyst,JetStream Solutions,Mumbai,3,5,11.0,14.0,SQL;DAX;R;Statistics,Startup,On-site,2026-08-01
+JMA-0026,MIS Executive,TrueSignal Technologies,Pune,3,5,11.5,15.5,Excel;Power Query;Power BI;Stakeholder Management,Mid-size,Hybrid,2026-08-01
+JMA-0540,MIS Executive,CloudSlate Dataworks,Chennai,3,5,9.0,13.0,Stakeholder Management;DAX;Excel;Communication;Power Query,Mid-size,Remote,2026-07-31
+JMA-0702,Data Analyst,PineCrest Insights,Mumbai,3,5,9.5,13.0,Python;SQL;SAS;Power BI;Power Query,Startup,On-site,2026-07-31
+JMA-0530,Data Analyst,OpalGrid Labs,Bengaluru,0,1,4.0,5.5,Excel;Communication;Power Query;SQL;Power BI,Mid-size,Hybrid,2026-07-31
+JMA-0763,Analytics Associate,PineCrest Solutions,Mumbai,0,0,4.5,6.0,Power BI;Statistics;SQL;Machine Learning;DAX;Communication,Mid-size,Hybrid,2026-07-31
+JMA-0755,Business Analyst,DataVista Technologies,Ahmedabad,0,1,4.0,5.5,Communication;Power BI;SQL;Statistics;Stakeholder Management;Data Modeling;Excel,Mid-size,Hybrid,2026-07-31
+JMA-0305,Business Analyst,ClearPath Analytics,Delhi NCR,3,5,10.5,14.0,SQL;Data Modeling;ETL;Power BI;Stakeholder Management;Excel;Communication,Startup,On-site,2026-07-31
+JMA-0297,Data Analyst,BlueOrbit Technologies,Mumbai,6,10,15.5,20.0,Python;Power Query;SQL;Power BI;Excel;Communication;Tableau,Mid-size,On-site,2026-07-31
+JMA-0330,Senior Data Analyst,FluxWorks Dataworks,Delhi NCR,1,3,8.0,11.0,SQL;Communication;Excel;ETL;Data Modeling;Machine Learning;Power BI,MNC,On-site,2026-07-31
+JMA-0478,Business Analyst,EdgeStone Consulting,Bengaluru,0,1,4.0,5.0,Stakeholder Management;Communication;Tableau;SQL;Statistics;Power BI;Excel,Startup,Hybrid,2026-07-31
+JMA-0399,MIS Executive,PrimeVector Technologies,Hyderabad,0,1,4.5,6.5,SQL;Stakeholder Management;Excel;Power Query,MNC,On-site,2026-07-31
+JMA-0258,Data Analyst,GoldRidge Dataworks,Delhi NCR,5,8,15.5,19.5,Excel;Tableau;Communication;Python;SQL;Statistics;Machine Learning,Startup,Hybrid,2026-07-31
+JMA-0167,Data Analyst,LumenArc Labs,Lucknow,1,3,6.0,7.5,Data Modeling;Statistics;Power BI;Python,Mid-size,On-site,2026-07-30
+JMA-0562,Data Analyst,EdgeStone Systems,Ahmedabad,1,3,7.0,10.0,Power BI;Communication;SQL;Python;Data Modeling;Excel;Statistics,Mid-size,Hybrid,2026-07-30
+JMA-0942,Senior Data Analyst,NorthPeak Consulting,Kolkata,0,0,4.5,6.0,Machine Learning;Communication;Statistics;Data Modeling;SQL;Excel;Power BI,Mid-size,On-site,2026-07-30
+JMA-1004,Data Analyst,PrimeVector Consulting,Mumbai,3,5,11.0,15.0,Tableau;Excel;DAX;Power BI;Communication;Power Query;SQL,MNC,Hybrid,2026-07-30
+JMA-0096,Data Analyst,DataVista Consulting,Mumbai,1,3,6.0,8.5,DAX;Excel;R;SQL,Startup,Hybrid,2026-07-30
+JMA-0015,Business Analyst,IronPeak Consulting,Ahmedabad,0,1,4.0,5.0,DAX;Power BI;Excel;Stakeholder Management;Communication;Statistics;SQL,Mid-size,Remote,2026-07-30
+JMA-0460,Analytics Associate,BrightStack Insights,Bengaluru,1,3,8.5,11.0,Excel;SQL;Python;Data Modeling,MNC,On-site,2026-07-30
+JMA-0577,Data Analyst,SwiftKite Analytics,Hyderabad,3,5,10.5,14.5,SQL;Excel;Stakeholder Management;SAS,Mid-size,Remote,2026-07-30
+JMA-0835,Data Analyst,EdgeStone Technologies,Mumbai,1,3,6.0,8.5,Power Query;Communication;SQL;Tableau;Power BI;Statistics;DAX,Startup,Remote,2026-07-30
+JMA-0028,Data Analyst,NovaGrid Systems,Delhi NCR,0,1,4.5,6.0,DAX;Data Modeling;Power Query;Python;Statistics;SQL;Excel,Mid-size,Hybrid,2026-07-30
+JMA-1113,Data Analyst,PrimeVector Analytics,Chennai,0,1,3.5,4.5,R;Python;DAX;Excel;SQL,Startup,On-site,2026-07-30
+JMA-0813,Data Analyst,ClearPath Consulting,Delhi NCR,0,0,4.0,5.5,Excel;SQL;Python;Tableau;Communication,MNC,Hybrid,2026-07-30
+JMA-0529,Data Analyst,HarborLine Systems,Delhi NCR,0,1,4.5,6.0,Excel;Statistics;ETL;SQL;Data Modeling,Mid-size,Hybrid,2026-07-30
+JMA-0599,Analytics Associate,NorthPeak Analytics,Delhi NCR,3,5,13.5,18.5,Python;R;SQL;Machine Learning;Communication;Excel,MNC,On-site,2026-07-30
+JMA-0618,Business Analyst,LumenArc Technologies,Hyderabad,3,5,11.5,15.0,SQL;Excel;Statistics;Communication;ETL;DAX;Stakeholder Management,MNC,On-site,2026-07-30
+JMA-0446,Data Analyst,OpalGrid Dataworks,Lucknow,1,3,6.5,9.0,SQL;Python;Power Query;Excel;Power BI;Data Modeling,Startup,Hybrid,2026-07-30
+JMA-0926,Data Analyst,DataVista Labs,Delhi NCR,6,10,15.5,21.0,Excel;Machine Learning;Power Query;SQL;Statistics;ETL;Power BI,Mid-size,On-site,2026-07-29
+JMA-0361,Data Analyst,PrimeVector Analytics,Mumbai,1,3,8.5,11.0,Excel;Communication;Data Modeling;SQL;Statistics;Python;Power BI,Mid-size,Remote,2026-07-29
+JMA-1080,MIS Executive,MetricMinds Dataworks,Hyderabad,5,8,16.0,22.0,Excel;DAX;Data Modeling;Power BI,MNC,On-site,2026-07-29
+JMA-1033,Data Analyst,BlueOrbit Analytics,Mumbai,5,10,14.5,20.0,Statistics;SQL;DAX;Machine Learning;Excel;Tableau,Mid-size,On-site,2026-07-29
+JMA-0046,Analytics Associate,KeyStone Analytics,Hyderabad,3,5,10.0,14.0,Statistics;SQL;Communication;Python;Stakeholder Management,MNC,Hybrid,2026-07-29
+JMA-0956,Data Analyst,IronPeak Analytics,Hyderabad,5,7,15.0,21.0,Statistics;Tableau;Communication;Power BI;Excel;R;SQL,MNC,On-site,2026-07-29
+JMA-0819,Business Analyst,CloudSlate Solutions,Delhi NCR,3,5,11.0,14.0,Stakeholder Management;Data Modeling;Communication;SQL;Power Query;Excel;Statistics,Mid-size,On-site,2026-07-29
+JMA-0546,Data Analyst,ZenithWorks Labs,Chennai,0,0,4.5,6.0,SQL;Power BI;Power Query;Statistics;Python;Communication;Excel,Startup,Remote,2026-07-29
+JMA-1189,Business Analyst,Crestline Analytics,Mumbai,1,3,6.5,9.0,Statistics;Excel;Communication;Stakeholder Management;Power BI;SQL;Data Modeling,Mid-size,On-site,2026-07-29
+JMA-0072,Data Analyst,BlueOrbit Consulting,Kolkata,1,3,6.5,8.0,Power BI;SAS;SQL;DAX;ETL;Excel,Startup,On-site,2026-07-29
+JMA-0976,Data Analyst,LumenArc Technologies,Bengaluru,1,3,6.5,8.0,SQL;Power Query;Statistics;DAX;Excel,Mid-size,On-site,2026-07-29
+JMA-0594,Data Analyst,CloudSlate Solutions,Pune,0,1,4.5,6.0,Stakeholder Management;SQL;Excel;Tableau;R,MNC,Remote,2026-07-29
+JMA-0050,Business Analyst,NimbusWorks Technologies,Kolkata,1,3,6.0,8.0,Statistics;SQL;Communication;Excel;Python;Stakeholder Management,Mid-size,Remote,2026-07-28
+JMA-1126,Senior Data Analyst,MoonRidge Labs,Delhi NCR,1,3,6.5,9.0,Power BI;Python;DAX;Statistics;ETL;SQL;Communication,Mid-size,Hybrid,2026-07-28
+JMA-0714,Data Analyst,BrightStack Systems,Hyderabad,3,5,9.5,13.0,Tableau;Statistics;SQL;Python;Excel;Power Query,Mid-size,Remote,2026-07-28
+JMA-0710,Data Analyst,FluxWorks Solutions,Delhi NCR,0,0,4.0,6.0,Python;SQL;Tableau;Excel;DAX;Communication;Statistics,Mid-size,On-site,2026-07-28
+JMA-0056,Analytics Associate,TrueSignal Systems,Bengaluru,5,9,15.0,19.0,Statistics;Excel;Power Query;Stakeholder Management;SQL,Startup,On-site,2026-07-28
+JMA-1118,Data Analyst,DeepCurrent Technologies,Ahmedabad,1,3,7.0,9.5,Data Modeling;Tableau;SQL,MNC,Remote,2026-07-28
+JMA-0093,Data Analyst,CloudSlate Dataworks,Mumbai,3,5,9.5,13.0,DAX;SQL;ETL;Communication;Statistics;Excel,Startup,On-site,2026-07-28
+JMA-0139,Business Analyst,EdgeStone Consulting,Pune,1,3,7.5,10.0,SQL;Communication;Excel;Statistics;Stakeholder Management;Power Query;Data Modeling,Mid-size,On-site,2026-07-28
+JMA-0333,Business Analyst,BrightStack Labs,Bengaluru,1,3,6.5,8.0,DAX;Excel;Statistics;SQL;Stakeholder Management,Startup,Hybrid,2026-07-28
+JMA-0687,MIS Executive,EdgeStone Systems,Ahmedabad,1,3,7.0,9.0,SQL;Statistics;Excel;Communication,Mid-size,On-site,2026-07-28
+JMA-0289,MIS Executive,KeyStone Dataworks,Bengaluru,1,3,6.0,8.5,Communication;Power Query;Excel,Mid-size,Hybrid,2026-07-27
+JMA-0818,Analytics Associate,IronPeak Analytics,Bengaluru,1,3,7.5,9.5,Statistics;Excel;Stakeholder Management,Startup,On-site,2026-07-27
+JMA-1065,Data Analyst,Crestline Technologies,Delhi NCR,6,7,18.0,23.5,Communication;Python;Power BI;SQL;Tableau;ETL;Excel,Mid-size,Remote,2026-07-27
+JMA-0451,Data Analyst,QuantNest Solutions,Mumbai,5,9,16.5,20.5,Communication;Excel;DAX;SQL;Machine Learning;Python,Startup,Remote,2026-07-27
+JMA-0883,Business Analyst,Crestline Labs,Mumbai,0,0,4.0,5.5,SQL;Communication;Excel;SAS;Data Modeling;Stakeholder Management,MNC,On-site,2026-07-27
+JMA-0986,Data Analyst,MoonRidge Labs,Jaipur,0,1,3.0,4.5,Excel;Tableau;Power BI;SQL;Python,Startup,On-site,2026-07-27
+JMA-0929,Data Analyst,HarborLine Systems,Delhi NCR,3,5,12.5,16.5,Stakeholder Management;SQL;Tableau;Python;Statistics;Excel;Machine Learning,Mid-size,Remote,2026-07-27
+JMA-1151,Data Analyst,LumenArc Analytics,Kolkata,1,3,7.0,9.0,SQL;DAX;Excel;Power Query;Statistics;SAS,Mid-size,On-site,2026-07-27
+JMA-0579,Data Analyst,DeepCurrent Systems,Bengaluru,3,5,10.5,14.5,Tableau;Stakeholder Management;Python;SQL;Excel,MNC,Hybrid,2026-07-27
+JMA-0125,Business Analyst,BrightStack Insights,Mumbai,3,5,12.5,17.5,Excel;Communication;Power Query;Stakeholder Management;Power BI;Data Modeling;SQL,MNC,Remote,2026-07-27
+JMA-0004,Data Analyst,BrightStack Insights,Delhi NCR,1,3,6.0,8.5,ETL;Excel;Communication;SQL;DAX;Power Query;Statistics,Mid-size,On-site,2026-07-27
+JMA-0549,MIS Executive,NimbusWorks Technologies,Mumbai,0,1,4.0,5.5,Stakeholder Management;Data Modeling;Python;Excel;SQL;Power BI,Startup,Hybrid,2026-07-27
+JMA-0351,Data Analyst,TrueSignal Technologies,Pune,1,3,7.0,8.5,SQL;Statistics;Excel;DAX;Communication,Startup,Remote,2026-07-27
+JMA-0791,Data Analyst,PrimeVector Labs,Delhi NCR,1,3,6.5,9.0,Power Query;Power BI;Data Modeling;Excel;SQL,Mid-size,Hybrid,2026-07-27
+JMA-0485,Data Analyst,SwiftKite Analytics,Hyderabad,3,5,11.0,14.5,Statistics;DAX;SQL;Data Modeling;Tableau;R;Power Query,Mid-size,Remote,2026-07-26
+JMA-0260,Business Analyst,KeyStone Analytics,Delhi NCR,1,3,8.0,10.0,Excel;SQL;Communication;Power Query;Python;ETL;Stakeholder Management,Startup,On-site,2026-07-26
+JMA-1072,Data Analyst,DataVista Systems,Delhi NCR,3,5,12.0,16.0,Communication;Data Modeling;DAX;Power Query;Excel;SQL;Python,Mid-size,On-site,2026-07-26
+JMA-1139,Data Analyst,KeyStone Analytics,Mumbai,1,3,7.5,10.0,DAX;Statistics;SQL;Excel;Power BI,Mid-size,On-site,2026-07-26
+JMA-0146,Data Analyst,TrueSignal Systems,Bengaluru,1,3,6.0,8.0,Tableau;Power Query;Excel;SAS;Statistics,Startup,On-site,2026-07-26
+JMA-0003,Data Analyst,FluxWorks Dataworks,Pune,1,3,6.0,8.0,Statistics;SQL;Excel;Tableau;Power Query;ETL,Startup,Hybrid,2026-07-26
+JMA-0859,Data Analyst,KeyStone Analytics,Hyderabad,0,0,3.5,5.0,DAX;Data Modeling;Power Query;Excel;SQL;Statistics;ETL,Mid-size,On-site,2026-07-26
+JMA-0129,Data Analyst,EdgeStone Analytics,Jaipur,3,5,10.0,13.5,Excel;Statistics;Communication;SQL;Stakeholder Management;DAX;Power BI,Startup,On-site,2026-07-26
+JMA-0299,Data Analyst,NovaGrid Consulting,Delhi NCR,1,3,7.0,9.0,SAS;Statistics;SQL;Tableau,Startup,On-site,2026-07-26
+JMA-1001,Data Analyst,BlueOrbit Insights,Delhi NCR,3,5,10.5,13.5,Statistics;Excel;DAX;Power BI;SQL;Tableau,MNC,On-site,2026-07-26
+JMA-0205,Data Analyst,TrueSignal Technologies,Pune,1,3,7.5,9.5,SQL;Power Query;Power BI;Communication;Excel,Mid-size,On-site,2026-07-25
+JMA-0712,Business Analyst,PixelLedger Analytics,Delhi NCR,0,1,4.0,5.0,SQL;Excel;Power BI,Mid-size,Hybrid,2026-07-25
+JMA-0833,Senior Data Analyst,KeyStone Analytics,Hyderabad,1,3,8.0,11.5,Power BI;Communication;Machine Learning;Python;SQL;Statistics;Excel,Mid-size,On-site,2026-07-25
+JMA-0952,Business Analyst,FluxWorks Solutions,Delhi NCR,0,0,4.5,5.5,Communication;Excel;Tableau;Stakeholder Management;Power Query;Power BI;SQL,Startup,Remote,2026-07-25
+JMA-0038,MIS Executive,ApexLoop Insights,Ahmedabad,1,3,6.5,9.0,Power Query;SQL;Statistics;Communication;Excel,Mid-size,On-site,2026-07-25
+JMA-0483,Data Analyst,QuantNest Consulting,Kolkata,0,0,3.5,5.0,Power BI;SQL;Communication;Statistics;Excel,Mid-size,Remote,2026-07-25
+JMA-0938,Data Analyst,MoonRidge Dataworks,Pune,1,3,7.5,10.0,Excel;Statistics;Tableau;Power BI;Python;Communication;SQL,Mid-size,On-site,2026-07-25
+JMA-0314,MIS Executive,ClearPath Consulting,Kolkata,1,3,6.0,8.5,SQL;Power Query;Excel,Startup,Remote,2026-07-25
+JMA-0960,Analytics Associate,Crestline Technologies,Hyderabad,3,5,11.0,14.5,Power BI;Power Query;Communication;SQL;Excel;Python,MNC,Hybrid,2026-07-25
+JMA-1097,Data Analyst,TrueSignal Technologies,Delhi NCR,0,1,4.5,6.0,SQL;Excel;ETL;Data Modeling,Mid-size,On-site,2026-07-25
+JMA-1122,Data Analyst,NorthPeak Consulting,Bengaluru,6,10,16.0,22.5,ETL;Python;Excel;SQL;Power Query,Startup,On-site,2026-07-25
+JMA-0220,MIS Executive,TrueSignal Technologies,Pune,0,1,4.5,6.0,Excel;SQL;Power Query,MNC,Hybrid,2026-07-25
+JMA-0801,Business Analyst,SwiftKite Analytics,Delhi NCR,0,0,4.0,5.0,Power BI;Excel;Stakeholder Management;Power Query;Statistics;Data Modeling;SQL,Mid-size,Hybrid,2026-07-25
+JMA-0368,MIS Executive,BlueOrbit Analytics,Mumbai,3,5,9.5,13.5,Power Query;Communication;Excel,Startup,On-site,2026-07-25
+JMA-0473,Senior Data Analyst,BlueOrbit Technologies,Delhi NCR,6,7,16.5,21.0,SQL;Machine Learning;Python;Excel;ETL;Communication;Statistics,Mid-size,Remote,2026-07-24
+JMA-1174,Data Analyst,ClearPath Consulting,Pune,1,3,7.0,9.5,Excel;Communication;Data Modeling;Power BI;Statistics;DAX;SQL,Startup,Remote,2026-07-24
+JMA-0990,Data Analyst,PrimeVector Analytics,Chennai,0,1,4.5,6.5,Statistics;Excel;Communication;Power BI;SQL;Python;Data Modeling,Mid-size,Hybrid,2026-07-24
+JMA-0636,Data Analyst,Crestline Analytics,Hyderabad,1,3,7.5,10.5,SQL;R;DAX;Excel;Tableau;Stakeholder Management;Python,MNC,On-site,2026-07-24
+JMA-0620,Data Analyst,BlueOrbit Technologies,Pune,3,5,11.5,14.5,ETL;Excel;Tableau;Statistics;SQL;Power BI,Startup,Remote,2026-07-24
+JMA-0877,Data Analyst,PineCrest Dataworks,Hyderabad,5,8,14.0,18.0,Python;SQL;Excel;DAX;Power BI;Communication,Startup,Remote,2026-07-24
+JMA-0155,Data Analyst,ApexLoop Labs,Pune,1,3,7.5,9.5,SQL;Excel;DAX;Python;Communication;ETL;Power BI,Startup,Remote,2026-07-24
+JMA-0134,Business Analyst,MetricMinds Technologies,Mumbai,3,5,12.0,16.0,Power BI;Statistics;SQL;Stakeholder Management;Excel;Communication;Data Modeling,MNC,On-site,2026-07-24
+JMA-1147,MIS Executive,GoldRidge Labs,Chennai,1,3,6.0,8.0,Excel;Statistics;Communication,Mid-size,On-site,2026-07-24
+JMA-0494,Analytics Associate,Crestline Analytics,Hyderabad,1,3,7.5,10.0,DAX;Data Modeling;Statistics;Python;Power BI;SQL,Startup,On-site,2026-07-24
+JMA-1127,Data Analyst,ZenithWorks Labs,Mumbai,1,3,7.0,10.0,DAX;SQL;Tableau;Excel;ETL;Communication;Python,Startup,Hybrid,2026-07-24
+JMA-0934,Data Analyst,LumenArc Technologies,Delhi NCR,3,5,9.5,12.5,SQL;Statistics;Excel;Communication;Power BI,Mid-size,On-site,2026-07-24
+JMA-0371,Senior Data Analyst,JetStream Insights,Chennai,5,9,17.5,23.0,ETL;Excel;Machine Learning;Python;Power Query;Statistics;Communication,MNC,On-site,2026-07-24
+JMA-0105,Data Analyst,NovaGrid Systems,Pune,0,0,3.5,4.5,Statistics;Excel;SQL;Stakeholder Management;ETL;Communication;Tableau,Mid-size,Hybrid,2026-07-24
+JMA-1083,MIS Executive,ClearPath Consulting,Jaipur,3,5,9.0,12.5,DAX;SAS;Excel;SQL,Mid-size,Remote,2026-07-24
+JMA-0946,Senior Data Analyst,LumenArc Labs,Bengaluru,1,3,7.0,9.0,Excel;Data Modeling;Python;Statistics;Machine Learning;SQL;Communication,Startup,Remote,2026-07-24
+JMA-0966,Data Analyst,FluxWorks Labs,Kolkata,1,3,7.0,9.0,Excel;SQL;Communication;Python,Mid-size,Remote,2026-07-24
+JMA-0510,Data Analyst,CloudSlate Solutions,Jaipur,1,3,7.5,9.0,Power BI;Excel;Python;SQL;Communication,Mid-size,On-site,2026-07-24
+JMA-0574,Data Analyst,ApexLoop Labs,Jaipur,0,1,4.0,5.5,Excel;Power Query;Python;SQL,Mid-size,Remote,2026-07-24
+JMA-0793,MIS Executive,TrueSignal Systems,Mumbai,3,5,12.0,15.5,Power Query;Excel;SQL,Mid-size,Remote,2026-07-23
+JMA-0227,Business Analyst,MoonRidge Dataworks,Chennai,6,8,15.0,21.0,DAX;Excel;SQL;Power Query;Power BI;Stakeholder Management;Communication,MNC,On-site,2026-07-23
+JMA-1115,Business Analyst,DeepCurrent Systems,Delhi NCR,1,3,7.0,9.0,Data Modeling;Stakeholder Management;Power BI;DAX;Excel;SQL;Communication,Mid-size,On-site,2026-07-23
+JMA-1182,Analytics Associate,ApexLoop Analytics,Pune,3,5,9.5,12.5,DAX;Stakeholder Management;R;Excel;SQL,Startup,Remote,2026-07-23
+JMA-0915,Business Analyst,ApexLoop Technologies,Bengaluru,1,3,8.0,10.5,Data Modeling;SQL;DAX;Python;Excel;ETL;Statistics,Mid-size,Hybrid,2026-07-23
+JMA-1026,Business Analyst,MetricMinds Dataworks,Delhi NCR,1,3,6.5,9.0,Excel;Stakeholder Management;SQL;Tableau;Communication;Power BI,Startup,On-site,2026-07-23
+JMA-1121,Business Analyst,Crestline Technologies,Mumbai,3,5,12.0,15.0,Stakeholder Management;Power BI;Excel;Communication;Python;SQL,Startup,Remote,2026-07-23
+JMA-0508,Data Analyst,PineCrest Solutions,Bengaluru,5,10,16.5,23.0,SQL;Power Query;Communication;Excel;Python;Statistics,Startup,On-site,2026-07-23
+JMA-0918,MIS Executive,PrimeVector Insights,Delhi NCR,3,5,11.0,14.5,Stakeholder Management;SQL;Excel,Startup,Remote,2026-07-23
+JMA-0728,Data Analyst,PrimeVector Labs,Mumbai,3,5,9.5,13.0,Power BI;Power Query;SQL;Data Modeling,Mid-size,On-site,2026-07-23
+JMA-0606,Data Analyst,PrimeVector Technologies,Pune,5,8,16.5,22.0,Python;SQL;Statistics;Excel,MNC,On-site,2026-07-23
+JMA-0183,Data Analyst,DataVista Technologies,Delhi NCR,1,3,8.5,11.5,Statistics;Excel;Power BI;Data Modeling;SQL;Python,MNC,On-site,2026-07-23
+JMA-1067,Analytics Associate,LumenArc Insights,Mumbai,1,3,7.5,10.0,Excel;Power Query;Power BI;Python;SQL;Statistics,Mid-size,On-site,2026-07-23
+JMA-0477,Data Analyst,HarborLine Insights,Pune,1,3,6.5,9.5,Power Query;Excel;ETL;Tableau;Communication;Python;SQL,MNC,Hybrid,2026-07-23
+JMA-0217,Senior Data Analyst,HarborLine Dataworks,Mumbai,1,3,7.5,9.5,Statistics;Communication;ETL;SQL,Mid-size,On-site,2026-07-23
+JMA-0951,Data Analyst,MoonRidge Labs,Bengaluru,3,5,12.5,15.5,Excel;Power BI;Python;SQL;Power Query;Statistics,MNC,Hybrid,2026-07-22
+JMA-1194,Senior Data Analyst,PrimeVector Technologies,Bengaluru,3,5,11.0,15.0,Python;SQL;Data Modeling;Power BI;Stakeholder Management;Communication,Mid-size,On-site,2026-07-22
+JMA-0346,Business Analyst,ApexLoop Systems,Delhi NCR,6,10,14.5,19.0,Excel;Stakeholder Management;Statistics;SQL,Startup,Hybrid,2026-07-22
+JMA-0558,Data Analyst,MetricMinds Technologies,Delhi NCR,1,3,7.5,10.0,ETL;Stakeholder Management;SQL;Power BI;Excel;Communication,MNC,Hybrid,2026-07-22
+JMA-0168,Senior Data Analyst,CloudSlate Technologies,Mumbai,0,0,4.0,5.0,Excel;Statistics;Python;Communication;SQL;Power BI;Machine Learning,Startup,Hybrid,2026-07-22
+JMA-0098,Data Analyst,SwiftKite Labs,Mumbai,1,3,7.0,9.0,Power Query;Tableau;ETL;SQL;Excel;Communication,MNC,On-site,2026-07-22
+JMA-0327,Data Analyst,HarborLine Dataworks,Delhi NCR,0,0,4.5,6.0,Statistics;SQL;Power BI;DAX;Excel;Python;Communication,Mid-size,On-site,2026-07-22
+JMA-0176,Data Analyst,InsightForge Consulting,Hyderabad,1,3,7.0,9.5,SQL;Machine Learning;Power Query;DAX,Mid-size,Hybrid,2026-07-22
+JMA-1145,Data Analyst,PixelLedger Systems,Bengaluru,0,1,4.5,5.5,SQL;Power BI;ETL;Tableau;Communication;Excel;Python,Startup,On-site,2026-07-22
+JMA-0823,Business Analyst,PixelLedger Analytics,Hyderabad,0,1,3.5,5.0,SQL;Power Query;Excel;Communication;Tableau,Mid-size,Hybrid,2026-07-22
+JMA-0199,Data Analyst,BlueOrbit Insights,Hyderabad,3,5,12.5,16.5,Power Query;Power BI;Statistics;Tableau;ETL;SQL;Python,MNC,On-site,2026-07-22
+JMA-0865,Data Analyst,CloudSlate Technologies,Delhi NCR,3,5,11.5,15.5,Excel;Power Query;Python;SQL;Communication;Power BI;Tableau,Startup,Hybrid,2026-07-22
