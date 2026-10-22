@@ -1,0 +1,181 @@
+{
+  "n_postings": 1200,
+  "overall_median_lpa": 8.8,
+  "top_skill": {
+    "name": "SQL",
+    "count": 1086,
+    "pct": 90.5
+  },
+  "top15_skills": [
+    {
+      "skill": "SQL",
+      "count": 1086,
+      "pct": 90.5
+    },
+    {
+      "skill": "Excel",
+      "count": 1072,
+      "pct": 89.3
+    },
+    {
+      "skill": "Communication",
+      "count": 677,
+      "pct": 56.4
+    },
+    {
+      "skill": "Power BI",
+      "count": 610,
+      "pct": 50.8
+    },
+    {
+      "skill": "Python",
+      "count": 570,
+      "pct": 47.5
+    },
+    {
+      "skill": "Statistics",
+      "count": 563,
+      "pct": 46.9
+    },
+    {
+      "skill": "Power Query",
+      "count": 463,
+      "pct": 38.6
+    },
+    {
+      "skill": "Data Modeling",
+      "count": 343,
+      "pct": 28.6
+    },
+    {
+      "skill": "Stakeholder Management",
+      "count": 333,
+      "pct": 27.8
+    },
+    {
+      "skill": "Tableau",
+      "count": 332,
+      "pct": 27.7
+    },
+    {
+      "skill": "DAX",
+      "count": 310,
+      "pct": 25.8
+    },
+    {
+      "skill": "ETL",
+      "count": 227,
+      "pct": 18.9
+    },
+    {
+      "skill": "Machine Learning",
+      "count": 151,
+      "pct": 12.6
+    },
+    {
+      "skill": "R",
+      "count": 88,
+      "pct": 7.3
+    },
+    {
+      "skill": "SAS",
+      "count": 83,
+      "pct": 6.9
+    }
+  ],
+  "median_by_city": {
+    "Mumbai": 9.2,
+    "Bengaluru": 9.0,
+    "Delhi NCR": 9.0,
+    "Chennai": 8.9,
+    "Pune": 8.8,
+    "Hyderabad": 8.8,
+    "Jaipur": 8.1,
+    "Ahmedabad": 8.0,
+    "Lucknow": 8.0,
+    "Kolkata": 7.9
+  },
+  "top_city": {
+    "name": "Mumbai",
+    "median_lpa": 9.2
+  },
+  "bottom_city": {
+    "name": "Kolkata",
+    "median_lpa": 7.9
+  },
+  "median_by_band": {
+    "0\u20131 yrs (Fresher)": 4.8,
+    "1\u20133 yrs": 8.2,
+    "3\u20135 yrs": 12.8,
+    "5+ yrs": 18.8
+  },
+  "skill_premium_top5": [
+    {
+      "skill": "Machine Learning",
+      "premium_lpa": 2.95
+    },
+    {
+      "skill": "Data Modeling",
+      "premium_lpa": 0.45
+    },
+    {
+      "skill": "Python",
+      "premium_lpa": 0.45
+    },
+    {
+      "skill": "SQL",
+      "premium_lpa": 0.2
+    },
+    {
+      "skill": "Statistics",
+      "premium_lpa": 0.2
+    }
+  ],
+  "company_type_counts": {
+    "Mid-size": 493,
+    "Startup": 359,
+    "MNC": 348
+  },
+  "work_mode_counts": {
+    "On-site": 639,
+    "Hybrid": 375,
+    "Remote": 186
+  },
+  "work_mode_pct": {
+    "On-site": 53.2,
+    "Hybrid": 31.2,
+    "Remote": 15.5
+  },
+  "title_counts": {
+    "Data Analyst": 651,
+    "Business Analyst": 169,
+    "MIS Executive": 163,
+    "Senior Data Analyst": 136,
+    "Analytics Associate": 81
+  },
+  "corr_exp_salary": 0.96,
+  "corr_nskills_salary": 0.06,
+  "remote_pct": 15.5,
+  "top3_skills_by_band": {
+    "0\u20131 yrs (Fresher)": [
+      "SQL",
+      "Excel",
+      "Communication"
+    ],
+    "1\u20133 yrs": [
+      "SQL",
+      "Excel",
+      "Communication"
+    ],
+    "3\u20135 yrs": [
+      "SQL",
+      "Excel",
+      "Communication"
+    ],
+    "5+ yrs": [
+      "Excel",
+      "SQL",
+      "Python"
+    ]
+  }
+}
