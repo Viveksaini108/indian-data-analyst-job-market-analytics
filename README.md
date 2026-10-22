@@ -139,8 +139,9 @@ python analysis.py        # metrics + charts + findings.json
 
 I'm actively looking for Data Analyst / Business Analyst / MIS Executive opportunities and happy to discuss this project or the analysis behind it.
 
-- 📧 vs03426@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 📧 vivek.saini.analyst@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vivek-saini-815b321b0/
+- 🐙 GitHub: https://github.com/Viveksaini108
 - 📍 Meerut, Uttar Pradesh, India
 
 *If you found this useful, a ⭐ would mean a lot to a fresher putting his work out there.*
